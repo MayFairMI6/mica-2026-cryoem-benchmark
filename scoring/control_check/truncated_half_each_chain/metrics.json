@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "experiment_type": "model_evaluation",
   "prediction": {
-    "path": "/private/tmp/claude-501/-Users-anony-Downloads/13fd603b-9a85-49a9-84d8-d1832a2d4a21/scratchpad/pkg/mica_benchmark/metrics_work/controls/9QOP/truncated_half_each_chain/synthetic_control.cif",
+    "path": "<WORKSPACE>/mica_benchmark/metrics_work/controls/9QOP/truncated_half_each_chain/synthetic_control.cif",
     "sha256": "fe53a7ecdf56fa0025867d939462b6d8b7a29bda752ce5716b5212989d8d0c8e",
     "coordinate_model_index": 0,
     "coordinate_models_in_file": 1,
@@ -29,7 +29,7 @@
     ]
   },
   "reference": {
-    "path": "/private/tmp/claude-501/-Users-anony-Downloads/13fd603b-9a85-49a9-84d8-d1832a2d4a21/scratchpad/pkg/mica_benchmark/dataset_work/pilot/EMD-53266_9QOP/9QOP.cif",
+    "path": "<WORKSPACE>/mica_benchmark/dataset_work/pilot/EMD-53266_9QOP/9QOP.cif",
     "sha256": "391a10f514cfa88520d1160b663feafa3cbc639880aa6533209d88be0cdf959c",
     "coordinate_model_index": 0,
     "coordinate_models_in_file": 1,

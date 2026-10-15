@@ -1,4 +1,4 @@
-"""CryoZeta inputs for the 24 benchmark cases (post hoc addition, 2026-10-12). Runs on the Mac, no Claude needed.
+"""CryoZeta inputs for the 24 benchmark cases (post hoc addition, 2026-10-12). Runs locally on macOS.
   1. per case: entities (sequence, copies) from the same FASTA every other method received; total residues;
      EMDB recommended contour level (EMDB API); resolution from case_rounds.csv
   2. per unique protein sequence: MSA from the public ColabFold MMseqs2 server (mode env), saved in the layout of

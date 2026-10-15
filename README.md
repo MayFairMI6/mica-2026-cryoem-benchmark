@@ -21,7 +21,7 @@ maps whose EMDB and PDB entries were first released in 2026 (six per resolution 
 ## Reproducing the tables
 
 `scoring/make_tables.py` reads only `scoring/results/*.json` and the files in `dataset/` and writes the 18 result tables.
-The scripts are kept exactly as they were run; the absolute paths near the top of each script point to the original
+The scripts retain their original execution logic; the absolute paths near the top of each script point to the original
 project layout and need to be set to your clone.
 
 To re-score models, download the dataset from Zenodo and run `scoring/score_benchmark.py METHOD canonical "<pattern>"`.
