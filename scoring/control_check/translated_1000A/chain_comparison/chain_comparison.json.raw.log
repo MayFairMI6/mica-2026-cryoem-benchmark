@@ -1,0 +1,57 @@
+
+Find similarity between two main-chains
+input_files {
+  pdb_in = "/Users/anony/Downloads/MICA_GAIVI_run/scoring/control_check/translated_1000A/chain_comparison/reference_CA.cif"
+  pdb_in = "/Users/anony/Downloads/MICA_GAIVI_run/scoring/control_check/translated_1000A/chain_comparison/prediction_CA.cif"
+  unique_query_only = False
+  unique_target_pdb_in = None
+  unique_part_of_target_only = False
+  test_unique_part_of_target_only = False
+  allow_extensions = False
+  ncs_file = None
+  query_dir = None
+}
+output_files {
+  match_pdb_file = None
+}
+crystal_info {
+  chain_type = *PROTEIN RNA DNA
+  use_crystal_symmetry = False
+}
+comparison {
+  max_dist = 3
+  distance_per_site = None
+  min_similarity = 0.99
+  target_length_from_matching_chains = False
+  minimum_percent_match_to_select = 1
+  maximum_percent_match_to_select = 100
+  remove_alt_conf = True
+  residue_groups = "VGASCTI P LDNEQM KR FHY W"
+  score_by_residue_groups = False
+  only_keep_best_chain = False
+}
+control {
+  verbose = False
+  quiet = False
+}
+job_title = None
+gui {
+  output_dir = None
+}
+Using /Users/anony/Downloads/MICA_GAIVI_run/scoring/control_check/translated_1000A/chain_comparison/reference_CA.cif as target
+
+Crystal symmetry will not be used in comparison.
+
+Looking for chain similarity for /Users/anony/Downloads/MICA_GAIVI_run/scoring/control_check/translated_1000A/chain_comparison/prediction_CA.cif (1083 residues) in the model /Users/anony/Downloads/MICA_GAIVI_run/scoring/control_check/translated_1000A/chain_comparison/reference_CA.cif (1083 residues)
+Residues far from target: 1083 
+CLOSE is within  3.0 A.
+CA SCORE is (fraction close)/(rmsd of close residues)
+SEQ SCORE is fraction (close and matching target sequence).
+MEAN LENGTH is the mean length of contiguous segments in the match with target sequence. (Each gap/reverse of direction starts new segment).
+
+ID:                
+Close rmsd: 0.00 A  (N=   0)  (Far N=1083) 
+Close residues in forward direction: 0  Reverse: 0  Unaligned: 0
+Percent close: 0.0 %   Score: 0.00 
+Percent matching sequence: 0.0 
+Sequence score:  0.00  Mean match length: 0.0Fragments: 7  Incorrect connections:  0

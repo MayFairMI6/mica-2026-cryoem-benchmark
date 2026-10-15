@@ -1,0 +1,1370 @@
+[
+ {
+  "set": "MICA_unrefined",
+  "case": "EMD-47901_9EC7",
+  "recorded": {
+   "tm": 0.5234,
+   "aligned": 1043,
+   "seq_id": 0.919
+  },
+  "plain": {
+   "tm": 0.5234,
+   "aligned": 1043,
+   "seq_id": 0.919
+  },
+  "mapframe": {
+   "tm": 0.52349,
+   "aligned": 1044,
+   "seq_id": 0.919
+  }
+ },
+ {
+  "set": "MICA_unrefined",
+  "case": "EMD-47973_9EFH",
+  "recorded": {
+   "tm": 0.63334,
+   "aligned": 1468,
+   "seq_id": 0.826
+  },
+  "plain": {
+   "tm": 0.63334,
+   "aligned": 1468,
+   "seq_id": 0.826
+  },
+  "mapframe": {
+   "tm": 0.63317,
+   "aligned": 1468,
+   "seq_id": 0.826
+  }
+ },
+ {
+  "set": "MICA_unrefined",
+  "case": "EMD-54029_9RL3",
+  "recorded": {
+   "tm": 0.94102,
+   "aligned": 2819,
+   "seq_id": 0.985
+  },
+  "plain": {
+   "tm": 0.94102,
+   "aligned": 2819,
+   "seq_id": 0.985
+  },
+  "mapframe": {
+   "tm": 0.94101,
+   "aligned": 2819,
+   "seq_id": 0.985
+  }
+ },
+ {
+  "set": "MICA_unrefined",
+  "case": "EMD-54540_9S3M",
+  "recorded": {
+   "tm": 0.98201,
+   "aligned": 955,
+   "seq_id": 1.0
+  },
+  "plain": {
+   "tm": 0.98201,
+   "aligned": 955,
+   "seq_id": 1.0
+  },
+  "mapframe": {
+   "tm": 0.98179,
+   "aligned": 955,
+   "seq_id": 1.0
+  }
+ },
+ {
+  "set": "MICA_unrefined",
+  "case": "EMD-54783_9SDB",
+  "recorded": {
+   "tm": 0.98488,
+   "aligned": 1079,
+   "seq_id": 0.997
+  },
+  "plain": {
+   "tm": 0.98488,
+   "aligned": 1079,
+   "seq_id": 0.997
+  },
+  "mapframe": {
+   "tm": 0.98569,
+   "aligned": 1079,
+   "seq_id": 0.995
+  }
+ },
+ {
+  "set": "MICA_unrefined",
+  "case": "EMD-55353_9SYT",
+  "recorded": {
+   "tm": 0.91357,
+   "aligned": 2328,
+   "seq_id": 0.943
+  },
+  "plain": {
+   "tm": 0.91357,
+   "aligned": 2328,
+   "seq_id": 0.943
+  },
+  "mapframe": {
+   "tm": 0.91341,
+   "aligned": 2328,
+   "seq_id": 0.943
+  }
+ },
+ {
+  "set": "MICA_unrefined",
+  "case": "EMD-63011_9LE0",
+  "recorded": {
+   "tm": 0.98448,
+   "aligned": 1156,
+   "seq_id": 0.983
+  },
+  "plain": {
+   "tm": 0.98448,
+   "aligned": 1156,
+   "seq_id": 0.983
+  },
+  "mapframe": {
+   "tm": 0.9843,
+   "aligned": 1156,
+   "seq_id": 0.983
+  }
+ },
+ {
+  "set": "MICA_unrefined",
+  "case": "EMD-63895_9U62",
+  "recorded": {
+   "tm": 0.72968,
+   "aligned": 2803,
+   "seq_id": 0.868
+  },
+  "plain": {
+   "tm": 0.72968,
+   "aligned": 2803,
+   "seq_id": 0.868
+  },
+  "mapframe": {
+   "tm": 0.72954,
+   "aligned": 2803,
+   "seq_id": 0.868
+  }
+ },
+ {
+  "set": "MICA_unrefined",
+  "case": "EMD-64749_9V35",
+  "recorded": {
+   "tm": 0.96895,
+   "aligned": 265,
+   "seq_id": 0.992
+  },
+  "plain": {
+   "tm": 0.96895,
+   "aligned": 265,
+   "seq_id": 0.992
+  },
+  "mapframe": {
+   "tm": 0.96797,
+   "aligned": 265,
+   "seq_id": 0.992
+  }
+ },
+ {
+  "set": "MICA_unrefined",
+  "case": "EMD-65772_9W9E",
+  "recorded": {
+   "tm": 0.74882,
+   "aligned": 2610,
+   "seq_id": 0.98
+  },
+  "plain": {
+   "tm": 0.74882,
+   "aligned": 2610,
+   "seq_id": 0.98
+  },
+  "mapframe": {
+   "tm": 0.74857,
+   "aligned": 2610,
+   "seq_id": 0.98
+  }
+ },
+ {
+  "set": "MICA_unrefined",
+  "case": "EMD-65879_9WCY",
+  "recorded": {
+   "tm": 0.93415,
+   "aligned": 5260,
+   "seq_id": 0.974
+  },
+  "plain": {
+   "tm": 0.93415,
+   "aligned": 5260,
+   "seq_id": 0.974
+  },
+  "mapframe": {
+   "tm": 0.93407,
+   "aligned": 5260,
+   "seq_id": 0.974
+  }
+ },
+ {
+  "set": "MICA_unrefined",
+  "case": "EMD-65920_9WF0",
+  "recorded": {
+   "tm": 0.75152,
+   "aligned": 4112,
+   "seq_id": 0.899
+  },
+  "plain": {
+   "tm": 0.75152,
+   "aligned": 4112,
+   "seq_id": 0.899
+  },
+  "mapframe": {
+   "tm": 0.7512,
+   "aligned": 4112,
+   "seq_id": 0.897
+  }
+ },
+ {
+  "set": "MICA_unrefined",
+  "case": "EMD-66010_9WIX",
+  "recorded": {
+   "tm": 0.96552,
+   "aligned": 435,
+   "seq_id": 0.975
+  },
+  "plain": {
+   "tm": 0.96552,
+   "aligned": 435,
+   "seq_id": 0.975
+  },
+  "mapframe": {
+   "tm": 0.96545,
+   "aligned": 435,
+   "seq_id": 0.975
+  }
+ },
+ {
+  "set": "MICA_unrefined",
+  "case": "EMD-68274_22HP",
+  "recorded": {
+   "tm": 0.92801,
+   "aligned": 597,
+   "seq_id": 0.987
+  },
+  "plain": {
+   "tm": 0.92801,
+   "aligned": 597,
+   "seq_id": 0.987
+  },
+  "mapframe": {
+   "tm": 0.92759,
+   "aligned": 597,
+   "seq_id": 0.987
+  }
+ },
+ {
+  "set": "MICA_unrefined",
+  "case": "EMD-69851_24VT",
+  "recorded": {
+   "tm": 0.51125,
+   "aligned": 567,
+   "seq_id": 0.774
+  },
+  "plain": {
+   "tm": 0.51125,
+   "aligned": 567,
+   "seq_id": 0.774
+  },
+  "mapframe": {
+   "tm": 0.55141,
+   "aligned": 588,
+   "seq_id": 0.85
+  }
+ },
+ {
+  "set": "MICA_unrefined",
+  "case": "EMD-71089_9P0O",
+  "recorded": {
+   "tm": 0.92616,
+   "aligned": 1744,
+   "seq_id": 0.958
+  },
+  "plain": {
+   "tm": 0.92616,
+   "aligned": 1744,
+   "seq_id": 0.958
+  },
+  "mapframe": {
+   "tm": 0.92899,
+   "aligned": 1746,
+   "seq_id": 0.96
+  }
+ },
+ {
+  "set": "MICA_unrefined",
+  "case": "EMD-71359_9P80",
+  "recorded": {
+   "tm": 0.81073,
+   "aligned": 744,
+   "seq_id": 0.997
+  },
+  "plain": {
+   "tm": 0.81073,
+   "aligned": 744,
+   "seq_id": 0.997
+  },
+  "mapframe": {
+   "tm": 0.81069,
+   "aligned": 744,
+   "seq_id": 0.997
+  }
+ },
+ {
+  "set": "MICA_unrefined",
+  "case": "EMD-71407_9P9D",
+  "recorded": {
+   "tm": 0.65535,
+   "aligned": 1539,
+   "seq_id": 0.934
+  },
+  "plain": {
+   "tm": 0.65535,
+   "aligned": 1539,
+   "seq_id": 0.934
+  },
+  "mapframe": {
+   "tm": 0.65523,
+   "aligned": 1539,
+   "seq_id": 0.934
+  }
+ },
+ {
+  "set": "MICA_unrefined",
+  "case": "EMD-72881_9YF9",
+  "recorded": {
+   "tm": 0.98167,
+   "aligned": 7573,
+   "seq_id": 0.998
+  },
+  "plain": {
+   "tm": 0.98167,
+   "aligned": 7573,
+   "seq_id": 0.998
+  },
+  "mapframe": {
+   "tm": 0.98136,
+   "aligned": 7573,
+   "seq_id": 0.998
+  }
+ },
+ {
+  "set": "MICA_unrefined",
+  "case": "EMD-72927_9YGJ",
+  "recorded": {
+   "tm": 0.8724,
+   "aligned": 2732,
+   "seq_id": 0.964
+  },
+  "plain": {
+   "tm": 0.8724,
+   "aligned": 2732,
+   "seq_id": 0.964
+  },
+  "mapframe": {
+   "tm": 0.87238,
+   "aligned": 2732,
+   "seq_id": 0.964
+  }
+ },
+ {
+  "set": "MICA_unrefined",
+  "case": "EMD-73285_9YP6",
+  "recorded": {
+   "tm": 0.98659,
+   "aligned": 4362,
+   "seq_id": 0.995
+  },
+  "plain": {
+   "tm": 0.98659,
+   "aligned": 4362,
+   "seq_id": 0.995
+  },
+  "mapframe": {
+   "tm": 0.98646,
+   "aligned": 4362,
+   "seq_id": 0.995
+  }
+ },
+ {
+  "set": "MICA_unrefined",
+  "case": "EMD-73885_9Z81",
+  "recorded": {
+   "tm": 0.98978,
+   "aligned": 2266,
+   "seq_id": 0.991
+  },
+  "plain": {
+   "tm": 0.98978,
+   "aligned": 2266,
+   "seq_id": 0.991
+  },
+  "mapframe": {
+   "tm": 0.9896,
+   "aligned": 2266,
+   "seq_id": 0.991
+  }
+ },
+ {
+  "set": "MICA_unrefined",
+  "case": "EMD-74910_9ZWK",
+  "recorded": {
+   "tm": 0.81349,
+   "aligned": 1208,
+   "seq_id": 0.928
+  },
+  "plain": {
+   "tm": 0.81349,
+   "aligned": 1208,
+   "seq_id": 0.928
+  },
+  "mapframe": {
+   "tm": 0.81333,
+   "aligned": 1208,
+   "seq_id": 0.928
+  }
+ },
+ {
+  "set": "MICA_unrefined",
+  "case": "EMD-75879_11OC",
+  "recorded": {
+   "tm": 0.99877,
+   "aligned": 1372,
+   "seq_id": 1.0
+  },
+  "plain": {
+   "tm": 0.99877,
+   "aligned": 1372,
+   "seq_id": 1.0
+  },
+  "mapframe": {
+   "tm": 0.99835,
+   "aligned": 1372,
+   "seq_id": 1.0
+  }
+ },
+ {
+  "set": "EMProt_raw_single_chain",
+  "case": "EMD-47901_9EC7",
+  "recorded": {
+   "tm": 0.07973,
+   "aligned": 159,
+   "seq_id": 0.78
+  },
+  "plain": {
+   "tm": 0.07973,
+   "aligned": 159,
+   "seq_id": 0.78
+  },
+  "mapframe": {
+   "tm": 0.08608,
+   "aligned": 169,
+   "seq_id": 0.757
+  }
+ },
+ {
+  "set": "EMProt_raw_single_chain",
+  "case": "EMD-47973_9EFH",
+  "recorded": {
+   "tm": 0.32117,
+   "aligned": 693,
+   "seq_id": 0.971
+  },
+  "plain": {
+   "tm": 0.32117,
+   "aligned": 693,
+   "seq_id": 0.971
+  },
+  "mapframe": {
+   "tm": 0.32104,
+   "aligned": 693,
+   "seq_id": 0.974
+  }
+ },
+ {
+  "set": "EMProt_raw_single_chain",
+  "case": "EMD-54029_9RL3",
+  "recorded": {
+   "tm": 0.89378,
+   "aligned": 2666,
+   "seq_id": 0.979
+  },
+  "plain": {
+   "tm": 0.89378,
+   "aligned": 2666,
+   "seq_id": 0.979
+  },
+  "mapframe": {
+   "tm": 0.89378,
+   "aligned": 2666,
+   "seq_id": 0.979
+  }
+ },
+ {
+  "set": "EMProt_raw_single_chain",
+  "case": "EMD-54540_9S3M",
+  "recorded": {
+   "tm": 0.48932,
+   "aligned": 475,
+   "seq_id": 0.987
+  },
+  "plain": {
+   "tm": 0.48932,
+   "aligned": 475,
+   "seq_id": 0.987
+  },
+  "mapframe": {
+   "tm": 0.52955,
+   "aligned": 514,
+   "seq_id": 0.977
+  }
+ },
+ {
+  "set": "EMProt_raw_single_chain",
+  "case": "EMD-54783_9SDB",
+  "recorded": {
+   "tm": 0.14199,
+   "aligned": 155,
+   "seq_id": 0.994
+  },
+  "plain": {
+   "tm": 0.14199,
+   "aligned": 155,
+   "seq_id": 0.994
+  },
+  "mapframe": {
+   "tm": 0.14158,
+   "aligned": 155,
+   "seq_id": 0.987
+  }
+ },
+ {
+  "set": "EMProt_raw_single_chain",
+  "case": "EMD-55353_9SYT",
+  "recorded": {
+   "tm": 0.31103,
+   "aligned": 794,
+   "seq_id": 0.89
+  },
+  "plain": {
+   "tm": 0.31103,
+   "aligned": 794,
+   "seq_id": 0.89
+  },
+  "mapframe": {
+   "tm": 0.31101,
+   "aligned": 794,
+   "seq_id": 0.89
+  }
+ },
+ {
+  "set": "EMProt_raw_single_chain",
+  "case": "EMD-63011_9LE0",
+  "recorded": {
+   "tm": 0.94663,
+   "aligned": 1105,
+   "seq_id": 0.992
+  },
+  "plain": {
+   "tm": 0.94663,
+   "aligned": 1105,
+   "seq_id": 0.992
+  },
+  "mapframe": {
+   "tm": 0.94649,
+   "aligned": 1105,
+   "seq_id": 0.992
+  }
+ },
+ {
+  "set": "EMProt_raw_single_chain",
+  "case": "EMD-63895_9U62",
+  "recorded": {
+   "tm": 0.45806,
+   "aligned": 1703,
+   "seq_id": 0.992
+  },
+  "plain": {
+   "tm": 0.45806,
+   "aligned": 1703,
+   "seq_id": 0.992
+  },
+  "mapframe": {
+   "tm": 0.45801,
+   "aligned": 1703,
+   "seq_id": 0.992
+  }
+ },
+ {
+  "set": "EMProt_raw_single_chain",
+  "case": "EMD-64749_9V35",
+  "recorded": {
+   "tm": 0.82434,
+   "aligned": 221,
+   "seq_id": 0.982
+  },
+  "plain": {
+   "tm": 0.82434,
+   "aligned": 221,
+   "seq_id": 0.982
+  },
+  "mapframe": {
+   "tm": 0.82404,
+   "aligned": 221,
+   "seq_id": 0.982
+  }
+ },
+ {
+  "set": "EMProt_raw_single_chain",
+  "case": "EMD-65772_9W9E",
+  "recorded": {
+   "tm": 0.10416,
+   "aligned": 372,
+   "seq_id": 0.868
+  },
+  "plain": {
+   "tm": 0.10416,
+   "aligned": 372,
+   "seq_id": 0.868
+  },
+  "mapframe": {
+   "tm": 0.12242,
+   "aligned": 428,
+   "seq_id": 0.953
+  }
+ },
+ {
+  "set": "EMProt_raw_single_chain",
+  "case": "EMD-65879_9WCY",
+  "recorded": {
+   "tm": 0.49042,
+   "aligned": 2755,
+   "seq_id": 0.991
+  },
+  "plain": {
+   "tm": 0.49042,
+   "aligned": 2755,
+   "seq_id": 0.991
+  },
+  "mapframe": {
+   "tm": 0.49042,
+   "aligned": 2755,
+   "seq_id": 0.991
+  }
+ },
+ {
+  "set": "EMProt_raw_single_chain",
+  "case": "EMD-65920_9WF0",
+  "recorded": {
+   "tm": 0.07075,
+   "aligned": 380,
+   "seq_id": 0.95
+  },
+  "plain": {
+   "tm": 0.07075,
+   "aligned": 380,
+   "seq_id": 0.95
+  },
+  "mapframe": {
+   "tm": 0.07095,
+   "aligned": 382,
+   "seq_id": 0.948
+  }
+ },
+ {
+  "set": "EMProt_raw_single_chain",
+  "case": "EMD-66010_9WIX",
+  "recorded": {
+   "tm": 0.89896,
+   "aligned": 401,
+   "seq_id": 0.985
+  },
+  "plain": {
+   "tm": 0.89896,
+   "aligned": 401,
+   "seq_id": 0.985
+  },
+  "mapframe": {
+   "tm": 0.89895,
+   "aligned": 401,
+   "seq_id": 0.985
+  }
+ },
+ {
+  "set": "EMProt_raw_single_chain",
+  "case": "EMD-68274_22HP",
+  "recorded": {
+   "tm": 0.76465,
+   "aligned": 490,
+   "seq_id": 0.931
+  },
+  "plain": {
+   "tm": 0.76465,
+   "aligned": 490,
+   "seq_id": 0.931
+  },
+  "mapframe": {
+   "tm": 0.76457,
+   "aligned": 490,
+   "seq_id": 0.931
+  }
+ },
+ {
+  "set": "EMProt_raw_single_chain",
+  "case": "EMD-69851_24VT",
+  "recorded": {
+   "tm": 0.37696,
+   "aligned": 375,
+   "seq_id": 0.939
+  },
+  "plain": {
+   "tm": 0.37696,
+   "aligned": 375,
+   "seq_id": 0.939
+  },
+  "mapframe": {
+   "tm": 0.38197,
+   "aligned": 377,
+   "seq_id": 0.926
+  }
+ },
+ {
+  "set": "EMProt_raw_single_chain",
+  "case": "EMD-71089_9P0O",
+  "recorded": {
+   "tm": 0.13174,
+   "aligned": 246,
+   "seq_id": 0.996
+  },
+  "plain": {
+   "tm": 0.13174,
+   "aligned": 246,
+   "seq_id": 0.996
+  },
+  "mapframe": {
+   "tm": 0.132,
+   "aligned": 246,
+   "seq_id": 0.992
+  }
+ },
+ {
+  "set": "EMProt_raw_single_chain",
+  "case": "EMD-71359_9P80",
+  "recorded": {
+   "tm": 0.70972,
+   "aligned": 648,
+   "seq_id": 0.986
+  },
+  "plain": {
+   "tm": 0.70972,
+   "aligned": 648,
+   "seq_id": 0.986
+  },
+  "mapframe": {
+   "tm": 0.7097,
+   "aligned": 648,
+   "seq_id": 0.986
+  }
+ },
+ {
+  "set": "EMProt_raw_single_chain",
+  "case": "EMD-71407_9P9D",
+  "recorded": {
+   "tm": 0.13231,
+   "aligned": 312,
+   "seq_id": 0.936
+  },
+  "plain": {
+   "tm": 0.13231,
+   "aligned": 312,
+   "seq_id": 0.936
+  },
+  "mapframe": {
+   "tm": 0.13245,
+   "aligned": 312,
+   "seq_id": 0.939
+  }
+ },
+ {
+  "set": "EMProt_raw_single_chain",
+  "case": "EMD-72881_9YF9",
+  "recorded": {
+   "tm": 0.08166,
+   "aligned": 633,
+   "seq_id": 0.983
+  },
+  "plain": {
+   "tm": 0.08166,
+   "aligned": 633,
+   "seq_id": 0.983
+  },
+  "mapframe": {
+   "tm": 0.08165,
+   "aligned": 633,
+   "seq_id": 0.983
+  }
+ },
+ {
+  "set": "EMProt_raw_single_chain",
+  "case": "EMD-72927_9YGJ",
+  "recorded": {
+   "tm": 0.79473,
+   "aligned": 2457,
+   "seq_id": 0.996
+  },
+  "plain": {
+   "tm": 0.79473,
+   "aligned": 2457,
+   "seq_id": 0.996
+  },
+  "mapframe": {
+   "tm": 0.79473,
+   "aligned": 2457,
+   "seq_id": 0.996
+  }
+ },
+ {
+  "set": "EMProt_raw_single_chain",
+  "case": "EMD-73285_9YP6",
+  "recorded": {
+   "tm": 0.15557,
+   "aligned": 695,
+   "seq_id": 0.958
+  },
+  "plain": {
+   "tm": 0.15557,
+   "aligned": 695,
+   "seq_id": 0.958
+  },
+  "mapframe": {
+   "tm": 0.15556,
+   "aligned": 695,
+   "seq_id": 0.958
+  }
+ },
+ {
+  "set": "EMProt_raw_single_chain",
+  "case": "EMD-73885_9Z81",
+  "recorded": {
+   "tm": 0.0816,
+   "aligned": 188,
+   "seq_id": 0.984
+  },
+  "plain": {
+   "tm": 0.0816,
+   "aligned": 188,
+   "seq_id": 0.984
+  },
+  "mapframe": {
+   "tm": 0.08159,
+   "aligned": 188,
+   "seq_id": 0.984
+  }
+ },
+ {
+  "set": "EMProt_raw_single_chain",
+  "case": "EMD-74910_9ZWK",
+  "recorded": {
+   "tm": 0.72694,
+   "aligned": 1056,
+   "seq_id": 1.0
+  },
+  "plain": {
+   "tm": 0.72694,
+   "aligned": 1056,
+   "seq_id": 1.0
+  },
+  "mapframe": {
+   "tm": 0.72694,
+   "aligned": 1056,
+   "seq_id": 1.0
+  }
+ },
+ {
+  "set": "EMProt_raw_single_chain",
+  "case": "EMD-75879_11OC",
+  "recorded": {
+   "tm": 0.24856,
+   "aligned": 342,
+   "seq_id": 0.991
+  },
+  "plain": {
+   "tm": 0.24856,
+   "aligned": 342,
+   "seq_id": 0.991
+  },
+  "mapframe": {
+   "tm": 0.24854,
+   "aligned": 342,
+   "seq_id": 0.991
+  }
+ },
+ {
+  "set": "EMProt_all_fragments_split",
+  "case": "EMD-47901_9EC7",
+  "recorded": {
+   "tm": 0.12361,
+   "aligned": 243,
+   "seq_id": 0.86
+  },
+  "plain": {
+   "tm": 0.12361,
+   "aligned": 243,
+   "seq_id": 0.856
+  },
+  "mapframe": {
+   "tm": 0.12328,
+   "aligned": 242,
+   "seq_id": 0.855
+  }
+ },
+ {
+  "set": "EMProt_all_fragments_split",
+  "case": "EMD-47973_9EFH",
+  "recorded": {
+   "tm": 0.34018,
+   "aligned": 728,
+   "seq_id": 0.99
+  },
+  "plain": {
+   "tm": 0.34018,
+   "aligned": 728,
+   "seq_id": 0.99
+  },
+  "mapframe": {
+   "tm": 0.34017,
+   "aligned": 728,
+   "seq_id": 0.99
+  }
+ },
+ {
+  "set": "EMProt_all_fragments_split",
+  "case": "EMD-54029_9RL3",
+  "recorded": {
+   "tm": 0.70076,
+   "aligned": 2090,
+   "seq_id": 0.974
+  },
+  "plain": {
+   "tm": 0.70076,
+   "aligned": 2090,
+   "seq_id": 0.974
+  },
+  "mapframe": {
+   "tm": 0.70076,
+   "aligned": 2090,
+   "seq_id": 0.974
+  }
+ },
+ {
+  "set": "EMProt_all_fragments_split",
+  "case": "EMD-54540_9S3M",
+  "recorded": {
+   "tm": 0.50609,
+   "aligned": 490,
+   "seq_id": 0.986
+  },
+  "plain": {
+   "tm": 0.50609,
+   "aligned": 490,
+   "seq_id": 0.986
+  },
+  "mapframe": {
+   "tm": 0.50609,
+   "aligned": 490,
+   "seq_id": 0.986
+  }
+ },
+ {
+  "set": "EMProt_all_fragments_split",
+  "case": "EMD-54783_9SDB",
+  "recorded": {
+   "tm": 0.92541,
+   "aligned": 1008,
+   "seq_id": 1.0
+  },
+  "plain": {
+   "tm": 0.92541,
+   "aligned": 1008,
+   "seq_id": 1.0
+  },
+  "mapframe": {
+   "tm": 0.92538,
+   "aligned": 1008,
+   "seq_id": 1.0
+  }
+ },
+ {
+  "set": "EMProt_all_fragments_split",
+  "case": "EMD-55353_9SYT",
+  "recorded": {
+   "tm": 0.34563,
+   "aligned": 874,
+   "seq_id": 0.902
+  },
+  "plain": {
+   "tm": 0.34563,
+   "aligned": 874,
+   "seq_id": 0.902
+  },
+  "mapframe": {
+   "tm": 0.3456,
+   "aligned": 874,
+   "seq_id": 0.902
+  }
+ },
+ {
+  "set": "EMProt_all_fragments_split",
+  "case": "EMD-63011_9LE0",
+  "recorded": {
+   "tm": 0.72498,
+   "aligned": 846,
+   "seq_id": 0.992
+  },
+  "plain": {
+   "tm": 0.72498,
+   "aligned": 846,
+   "seq_id": 0.992
+  },
+  "mapframe": {
+   "tm": 0.72487,
+   "aligned": 846,
+   "seq_id": 0.992
+  }
+ },
+ {
+  "set": "EMProt_all_fragments_split",
+  "case": "EMD-63895_9U62",
+  "recorded": {
+   "tm": 0.26609,
+   "aligned": 1196,
+   "seq_id": 0.579
+  },
+  "plain": {
+   "tm": 0.62732,
+   "aligned": 2334,
+   "seq_id": 0.989
+  },
+  "mapframe": {
+   "tm": 0.62717,
+   "aligned": 2334,
+   "seq_id": 0.989
+  }
+ },
+ {
+  "set": "EMProt_all_fragments_split",
+  "case": "EMD-64749_9V35",
+  "recorded": {
+   "tm": 0.35565,
+   "aligned": 95,
+   "seq_id": 1.0
+  },
+  "plain": {
+   "tm": 0.35565,
+   "aligned": 95,
+   "seq_id": 1.0
+  },
+  "mapframe": {
+   "tm": 0.35557,
+   "aligned": 95,
+   "seq_id": 1.0
+  }
+ },
+ {
+  "set": "EMProt_all_fragments_split",
+  "case": "EMD-65772_9W9E",
+  "recorded": {
+   "tm": 0.11991,
+   "aligned": 415,
+   "seq_id": 0.981
+  },
+  "plain": {
+   "tm": 0.11991,
+   "aligned": 415,
+   "seq_id": 0.981
+  },
+  "mapframe": {
+   "tm": 0.11988,
+   "aligned": 415,
+   "seq_id": 0.981
+  }
+ },
+ {
+  "set": "EMProt_all_fragments_split",
+  "case": "EMD-65879_9WCY",
+  "recorded": {
+   "tm": 0.80907,
+   "aligned": 4546,
+   "seq_id": 0.99
+  },
+  "plain": {
+   "tm": 0.80907,
+   "aligned": 4546,
+   "seq_id": 0.99
+  },
+  "mapframe": {
+   "tm": 0.80907,
+   "aligned": 4546,
+   "seq_id": 0.99
+  }
+ },
+ {
+  "set": "EMProt_all_fragments_split",
+  "case": "EMD-65920_9WF0",
+  "recorded": {
+   "tm": 0.20048,
+   "aligned": 1079,
+   "seq_id": 0.98
+  },
+  "plain": {
+   "tm": 0.20048,
+   "aligned": 1079,
+   "seq_id": 0.98
+  },
+  "mapframe": {
+   "tm": 0.20451,
+   "aligned": 1094,
+   "seq_id": 0.985
+  }
+ },
+ {
+  "set": "EMProt_all_fragments_split",
+  "case": "EMD-66010_9WIX",
+  "recorded": {
+   "tm": 0.39106,
+   "aligned": 174,
+   "seq_id": 1.0
+  },
+  "plain": {
+   "tm": 0.39106,
+   "aligned": 174,
+   "seq_id": 1.0
+  },
+  "mapframe": {
+   "tm": 0.39105,
+   "aligned": 174,
+   "seq_id": 1.0
+  }
+ },
+ {
+  "set": "EMProt_all_fragments_split",
+  "case": "EMD-68274_22HP",
+  "recorded": {
+   "tm": 0.33293,
+   "aligned": 294,
+   "seq_id": 0.071
+  },
+  "plain": {
+   "tm": 0.33293,
+   "aligned": 294,
+   "seq_id": 0.071
+  },
+  "mapframe": {
+   "tm": 0.6605,
+   "aligned": 423,
+   "seq_id": 0.92
+  }
+ },
+ {
+  "set": "EMProt_all_fragments_split",
+  "case": "EMD-69851_24VT",
+  "recorded": {
+   "tm": 0.47873,
+   "aligned": 479,
+   "seq_id": 0.9
+  },
+  "plain": {
+   "tm": 0.48889,
+   "aligned": 481,
+   "seq_id": 0.892
+  },
+  "mapframe": {
+   "tm": 0.48882,
+   "aligned": 481,
+   "seq_id": 0.892
+  }
+ },
+ {
+  "set": "EMProt_all_fragments_split",
+  "case": "EMD-71089_9P0O",
+  "recorded": {
+   "tm": 0.58538,
+   "aligned": 1091,
+   "seq_id": 0.991
+  },
+  "plain": {
+   "tm": 0.58538,
+   "aligned": 1091,
+   "seq_id": 0.991
+  },
+  "mapframe": {
+   "tm": 0.5869,
+   "aligned": 1091,
+   "seq_id": 0.991
+  }
+ },
+ {
+  "set": "EMProt_all_fragments_split",
+  "case": "EMD-71359_9P80",
+  "recorded": {
+   "tm": 0.32819,
+   "aligned": 303,
+   "seq_id": 0.891
+  },
+  "plain": {
+   "tm": 0.32819,
+   "aligned": 303,
+   "seq_id": 0.891
+  },
+  "mapframe": {
+   "tm": 0.32815,
+   "aligned": 303,
+   "seq_id": 0.891
+  }
+ },
+ {
+  "set": "EMProt_all_fragments_split",
+  "case": "EMD-71407_9P9D",
+  "recorded": {
+   "tm": 0.18098,
+   "aligned": 423,
+   "seq_id": 0.969
+  },
+  "plain": {
+   "tm": 0.18098,
+   "aligned": 423,
+   "seq_id": 0.969
+  },
+  "mapframe": {
+   "tm": 0.18095,
+   "aligned": 423,
+   "seq_id": 0.969
+  }
+ },
+ {
+  "set": "EMProt_all_fragments_split",
+  "case": "EMD-72881_9YF9",
+  "recorded": {
+   "tm": 0.33577,
+   "aligned": 2589,
+   "seq_id": 0.963
+  },
+  "plain": {
+   "tm": 0.33577,
+   "aligned": 2589,
+   "seq_id": 0.963
+  },
+  "mapframe": {
+   "tm": 0.33575,
+   "aligned": 2589,
+   "seq_id": 0.963
+  }
+ },
+ {
+  "set": "EMProt_all_fragments_split",
+  "case": "EMD-72927_9YGJ",
+  "recorded": {
+   "tm": 0.2915,
+   "aligned": 902,
+   "seq_id": 0.998
+  },
+  "plain": {
+   "tm": 0.29174,
+   "aligned": 905,
+   "seq_id": 0.988
+  },
+  "mapframe": {
+   "tm": 0.29149,
+   "aligned": 902,
+   "seq_id": 0.998
+  }
+ },
+ {
+  "set": "EMProt_all_fragments_split",
+  "case": "EMD-73285_9YP6",
+  "recorded": {
+   "tm": 0.20113,
+   "aligned": 1183,
+   "seq_id": 0.499
+  },
+  "plain": {
+   "tm": 0.33656,
+   "aligned": 1484,
+   "seq_id": 0.97
+  },
+  "mapframe": {
+   "tm": 0.33656,
+   "aligned": 1484,
+   "seq_id": 0.97
+  }
+ },
+ {
+  "set": "EMProt_all_fragments_split",
+  "case": "EMD-73885_9Z81",
+  "recorded": {
+   "tm": 0.52474,
+   "aligned": 1197,
+   "seq_id": 1.0
+  },
+  "plain": {
+   "tm": 0.52474,
+   "aligned": 1197,
+   "seq_id": 1.0
+  },
+  "mapframe": {
+   "tm": 0.52474,
+   "aligned": 1197,
+   "seq_id": 1.0
+  }
+ },
+ {
+  "set": "EMProt_all_fragments_split",
+  "case": "EMD-74910_9ZWK",
+  "recorded": {
+   "tm": 0.45504,
+   "aligned": 661,
+   "seq_id": 1.0
+  },
+  "plain": {
+   "tm": 0.45504,
+   "aligned": 661,
+   "seq_id": 1.0
+  },
+  "mapframe": {
+   "tm": 0.45504,
+   "aligned": 661,
+   "seq_id": 1.0
+  }
+ },
+ {
+  "set": "EMProt_all_fragments_split",
+  "case": "EMD-75879_11OC",
+  "recorded": {
+   "tm": 0.74031,
+   "aligned": 1016,
+   "seq_id": 1.0
+  },
+  "plain": {
+   "tm": 0.74031,
+   "aligned": 1016,
+   "seq_id": 1.0
+  },
+  "mapframe": {
+   "tm": 0.74031,
+   "aligned": 1016,
+   "seq_id": 1.0
+  }
+ }
+]

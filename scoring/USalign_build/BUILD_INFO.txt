@@ -1,0 +1,9 @@
+US-align build used for the corrected scoring (2026-10-13)
+source   : https://github.com/pylelab/USalign  commit 746ad8a (2026-10-12), Version 20261012
+           includes d0d68be "fix out of boundary bug of hetero_refined_greedy_search" (2026-10-12)
+build    : g++ -O3 -ffast-math -o USalign USalign.cpp -lm   (macOS arm64)
+sha256   : 382181578caa708393422342a2cafeeebf300d1adb8e55de3957665b930cade3
+previous : Version 20260920, commit 1fa25a9 (2026-09-21), sha256 09842282c73e10f727d692a182711c11786aabdd3aa2ccc4b4103242b8c308fc  (scoring/USalign/USalign) - predates the fix;
+           its complex-mode search returned different TM-scores for identical inputs (e.g. CryoAtom 22HP: 0.339, 0.733, 0.277)
+commands : USalign prediction_CA.cif reference_CA.cif -mol prot -mm 1 -ter 1          (search)
+           USalign prediction_CA.cif reference_CA.cif -mol prot -mm 1 -ter 1 -se      (map frame, no superposition search)

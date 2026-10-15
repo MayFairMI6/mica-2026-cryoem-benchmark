@@ -1,0 +1,6 @@
+732a733,737
+>         # benchmark patch (2026-10-13): record the stages completed so far; the original writes these lists only after the last stage
+>         with open(dump_root / "stage_npz_paths.txt", "w") as _f:
+>             _f.write("\n".join(str(p) for p in stage_npz_paths if p is not None))
+>         with open(dump_root / "stage_names.txt", "w") as _f:
+>             _f.write("\n".join(stage_names))

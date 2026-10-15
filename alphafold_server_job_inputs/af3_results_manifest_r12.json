@@ -1,0 +1,222 @@
+[
+  {
+    "job": "22hp_1",
+    "seed": [
+      "1312005939"
+    ],
+    "ranking_score": 0.89,
+    "ptm": 0.89,
+    "iptm": null,
+    "model_0_sha256": "d484432331e8ce73",
+    "placed_in": "input/68274/AF3_results/22hp_1"
+  },
+  {
+    "job": "22hp_2",
+    "seed": [
+      "248258057"
+    ],
+    "ranking_score": 0.9,
+    "ptm": 0.9,
+    "iptm": null,
+    "model_0_sha256": "45985214ab829f50",
+    "placed_in": "input/68274/AF3_results/22hp_2"
+  },
+  {
+    "job": "22hp_3",
+    "seed": [
+      "1961924618"
+    ],
+    "ranking_score": 0.91,
+    "ptm": 0.91,
+    "iptm": null,
+    "model_0_sha256": "cd95a3abb6cfbb34",
+    "placed_in": "input/68274/AF3_results/22hp_3"
+  },
+  {
+    "job": "22hp_4",
+    "seed": [
+      "1028548666"
+    ],
+    "ranking_score": 0.9,
+    "ptm": 0.9,
+    "iptm": null,
+    "model_0_sha256": "9cdc901dbddb941c",
+    "placed_in": "input/68274/AF3_results/22hp_4"
+  },
+  {
+    "job": "22hp_5",
+    "seed": [
+      "773071883"
+    ],
+    "ranking_score": 0.88,
+    "ptm": 0.88,
+    "iptm": null,
+    "model_0_sha256": "2fbd580e350f3fd7",
+    "placed_in": "input/68274/AF3_results/22hp_5"
+  },
+  {
+    "job": "24vt_1",
+    "seed": [
+      "1540027205"
+    ],
+    "ranking_score": 0.73,
+    "ptm": 0.54,
+    "iptm": null,
+    "model_0_sha256": "8ba1e616b88a84a4",
+    "placed_in": "input/69851/AF3_results/24vt_1"
+  },
+  {
+    "job": "24vt_2",
+    "seed": [
+      "1590057348"
+    ],
+    "ranking_score": 0.51,
+    "ptm": 0.42,
+    "iptm": 0.41,
+    "model_0_sha256": "c0f34afe8a8a17b1",
+    "placed_in": "input/69851/AF3_results/24vt_2"
+  },
+  {
+    "job": "9p80_1",
+    "seed": [
+      "493119218"
+    ],
+    "ranking_score": 0.93,
+    "ptm": 0.9,
+    "iptm": null,
+    "model_0_sha256": "457732e3e7dc4a49",
+    "placed_in": "input/71359/AF3_results/9p80_1"
+  },
+  {
+    "job": "9p80_2",
+    "seed": [
+      "432460424"
+    ],
+    "ranking_score": 1.07,
+    "ptm": 0.57,
+    "iptm": null,
+    "model_0_sha256": "32034ab9170ac7fa",
+    "placed_in": "input/71359/AF3_results/9p80_2"
+  },
+  {
+    "job": "9p80_3",
+    "seed": [
+      "1147705673"
+    ],
+    "ranking_score": 0.85,
+    "ptm": 0.73,
+    "iptm": null,
+    "model_0_sha256": "8965f4982532ca0d",
+    "placed_in": "input/71359/AF3_results/9p80_3"
+  },
+  {
+    "job": "9p80_4",
+    "seed": [
+      "1725195148"
+    ],
+    "ranking_score": 0.53,
+    "ptm": 0.03,
+    "iptm": null,
+    "model_0_sha256": "4e26bc141b571a26",
+    "placed_in": "input/71359/AF3_results/9p80_4"
+  },
+  {
+    "job": "9p80_5",
+    "seed": [
+      "870847716"
+    ],
+    "ranking_score": 0.89,
+    "ptm": 0.87,
+    "iptm": null,
+    "model_0_sha256": "41f5cdafb60fc0f7",
+    "placed_in": "input/71359/AF3_results/9p80_5"
+  },
+  {
+    "job": "9p9d_1",
+    "seed": [
+      "751051670"
+    ],
+    "ranking_score": 0.47,
+    "ptm": 0.44,
+    "iptm": 0.43,
+    "model_0_sha256": "7cea21d5aa9517f3",
+    "placed_in": "input/71407/AF3_results/9p9d_1"
+  },
+  {
+    "job": "9p9d_2",
+    "seed": [
+      "797215956"
+    ],
+    "ranking_score": 0.21,
+    "ptm": 0.31,
+    "iptm": 0.19,
+    "model_0_sha256": "90c579e0698b3dac",
+    "placed_in": "input/71407/AF3_results/9p9d_2"
+  },
+  {
+    "job": "9sdb_1",
+    "seed": [
+      "1622237655"
+    ],
+    "ranking_score": 0.86,
+    "ptm": 0.8,
+    "iptm": 0.79,
+    "model_0_sha256": "48500d717fead894",
+    "placed_in": "input/54783/AF3_results/9sdb_1"
+  },
+  {
+    "job": "9u62_1",
+    "seed": [
+      "2019911211"
+    ],
+    "ranking_score": 0.35,
+    "ptm": 0.43,
+    "iptm": 0.32,
+    "model_0_sha256": "b9560e693d3e28a4",
+    "placed_in": "input/63895/AF3_results/9u62_1"
+  },
+  {
+    "job": "9u62_2",
+    "seed": [
+      "1720516686"
+    ],
+    "ranking_score": 0.81,
+    "ptm": 0.81,
+    "iptm": null,
+    "model_0_sha256": "0ec1c1b061e163b5",
+    "placed_in": "input/63895/AF3_results/9u62_2"
+  },
+  {
+    "job": "9u62_3",
+    "seed": [
+      "181862801"
+    ],
+    "ranking_score": 0.67,
+    "ptm": 0.63,
+    "iptm": null,
+    "model_0_sha256": "e6660d7ab6fa3fe9",
+    "placed_in": "input/63895/AF3_results/9u62_3"
+  },
+  {
+    "job": "9wix_1",
+    "seed": [
+      "1189314439"
+    ],
+    "ranking_score": 0.86,
+    "ptm": 0.77,
+    "iptm": null,
+    "model_0_sha256": "53f6844f226f7700",
+    "placed_in": "input/66010/AF3_results/9wix_1"
+  },
+  {
+    "job": "9z81_1",
+    "seed": [
+      "1898720235"
+    ],
+    "ranking_score": 0.74,
+    "ptm": 0.59,
+    "iptm": 0.59,
+    "model_0_sha256": "494e619972bc73a2",
+    "placed_in": "input/73885/AF3_results/9z81_1"
+  }
+]

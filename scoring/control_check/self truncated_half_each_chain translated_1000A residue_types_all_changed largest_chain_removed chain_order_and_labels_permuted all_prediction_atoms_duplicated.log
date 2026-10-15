@@ -1,0 +1,13 @@
+Traceback (most recent call last):
+  File "/Users/anony/Downloads/MICA_GAIVI_run/scoring/evaluate.py", line 350, in <module>
+    main()
+  File "/Users/anony/Downloads/MICA_GAIVI_run/scoring/evaluate.py", line 342, in main
+    result = evaluate(args.prediction, args.reference, args.output, args.thresholds, args.usalign)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/anony/Downloads/MICA_GAIVI_run/scoring/evaluate.py", line 306, in evaluate
+    predicted, pmeta = read_ca(pred_path)
+                       ^^^^^^^^^^^^^^^^^^
+  File "/Users/anony/Downloads/MICA_GAIVI_run/scoring/evaluate.py", line 80, in read_ca
+    structure = gemmi.read_structure(str(path))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] unable to open() file /private/tmp/claude-501/-Users-anony-Downloads/13fd603b-9a85-49a9-84d8-d1832a2d4a21/scratchpad/pkg/mica_benchmark/metrics_work/controls/9QOP/self truncated_half_each_chain translated_1000A residue_types_all_changed largest_chain_removed chain_order_and_labels_permuted all_prediction_atoms_duplicated/synthetic_control.cif for reading: No such file or directory

@@ -1,0 +1,451 @@
+{
+  "generated_utc": "2026-10-08T20:33:50Z",
+  "cases": {
+    "EMD-55353_9SYT": {
+      "compressed_bytes": 102134966,
+      "compressed_prefix_match": true,
+      "gzip_ok": true,
+      "header_match": true,
+      "uncompressed_bytes": 108001024,
+      "size_matches_emdb_kb": true,
+      "shape": [
+        300,
+        300,
+        300
+      ],
+      "dtype": "float32",
+      "all_finite": true,
+      "density_min_max": [
+        -0.88069087266922,
+        1.7374879121780396
+      ],
+      "raw_map_sha256": "00d9e6458fad4c6ec1b01e1d654318960af4346455d463efb734df9a8bb6657b",
+      "coordinates_sha_match": true,
+      "coordinates_file": "9SYT.cif.gz",
+      "fasta_sha_match": true,
+      "canonical": {
+        "source": "/home/a/aravindav/bench/raw/EMD-55353_9SYT.map",
+        "destination": "/home/a/aravindav/bench/maps/EMD-55353_9SYT/canonical.mrc",
+        "source_sha256": "00d9e6458fad4c6ec1b01e1d654318960af4346455d463efb734df9a8bb6657b",
+        "destination_sha256": "293085523e64df3fe2d2f23c4479ba85895a458f553e9a1d64294e8d5f36656f",
+        "source_density_sha256": "a445406f2992fc7fbfaabfa0eb63926ad1ae23a0f8788a245875ff1d9b573b0d",
+        "restored_source_density_sha256": "a445406f2992fc7fbfaabfa0eb63926ad1ae23a0f8788a245875ff1d9b573b0d",
+        "canonical_unpadded_density_sha256": "a445406f2992fc7fbfaabfa0eb63926ad1ae23a0f8788a245875ff1d9b573b0d",
+        "output_preserved_region_sha256": "a445406f2992fc7fbfaabfa0eb63926ad1ae23a0f8788a245875ff1d9b573b0d",
+        "source_dtype": "float32",
+        "source_shape_src": [
+          300,
+          300,
+          300
+        ],
+        "source_axes_crs": [
+          1,
+          2,
+          3
+        ],
+        "source_starts_crs": [
+          0,
+          0,
+          0
+        ],
+        "source_starts_xyz": [
+          0,
+          0,
+          0
+        ],
+        "source_origin_xyz_A": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "origin_policy_requested": "strict",
+        "origin_policy_used": "NSTART_with_zero_ORIGIN",
+        "source_first_voxel_xyz_A": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "voxel_xyz_A": [
+          1.2999999523162842,
+          1.2999999523162842,
+          1.2999999523162842
+        ],
+        "transpose_src_to_zyx": [
+          0,
+          1,
+          2
+        ],
+        "output_shape_zyx": [
+          300,
+          300,
+          300
+        ],
+        "padding_before_zyx": [
+          0,
+          0,
+          0
+        ],
+        "padding_after_zyx": [
+          0,
+          0,
+          0
+        ],
+        "output_origin_xyz_A_requested": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "output_origin_xyz_A_serialized": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "output_voxel_xyz_A_serialized": [
+          1.2999999523162842,
+          1.2999999523162842,
+          1.2999999523162842
+        ],
+        "output_starts_xyz": [
+          0,
+          0,
+          0
+        ],
+        "reference_structure_used": false,
+        "density_interpolated": false,
+        "density_region_bitwise_preserved": true,
+        "inverse_permutation_hash_matches_native": true,
+        "world_coordinate_landmarks_tested": 27,
+        "max_world_position_error_A": 0.0,
+        "world_tolerance_A": 0.0002,
+        "elapsed_s": 4.05545780621469,
+        "predictor_frame_caution": "Some predictors ignore ORIGIN. Use the recorded first-voxel translation to map predictor-local coordinates back to this physical frame; verify predictor behavior before scoring."
+      },
+      "canonical_cube": {
+        "source": "/home/a/aravindav/bench/raw/EMD-55353_9SYT.map",
+        "destination": "/home/a/aravindav/bench/maps/EMD-55353_9SYT/canonical_cube.mrc",
+        "source_sha256": "00d9e6458fad4c6ec1b01e1d654318960af4346455d463efb734df9a8bb6657b",
+        "destination_sha256": "46ec93623e3185eeed4a82f4b256c415f882b489720508af46ce8c438435072d",
+        "source_density_sha256": "a445406f2992fc7fbfaabfa0eb63926ad1ae23a0f8788a245875ff1d9b573b0d",
+        "restored_source_density_sha256": "a445406f2992fc7fbfaabfa0eb63926ad1ae23a0f8788a245875ff1d9b573b0d",
+        "canonical_unpadded_density_sha256": "a445406f2992fc7fbfaabfa0eb63926ad1ae23a0f8788a245875ff1d9b573b0d",
+        "output_preserved_region_sha256": "a445406f2992fc7fbfaabfa0eb63926ad1ae23a0f8788a245875ff1d9b573b0d",
+        "source_dtype": "float32",
+        "source_shape_src": [
+          300,
+          300,
+          300
+        ],
+        "source_axes_crs": [
+          1,
+          2,
+          3
+        ],
+        "source_starts_crs": [
+          0,
+          0,
+          0
+        ],
+        "source_starts_xyz": [
+          0,
+          0,
+          0
+        ],
+        "source_origin_xyz_A": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "origin_policy_requested": "strict",
+        "origin_policy_used": "NSTART_with_zero_ORIGIN",
+        "source_first_voxel_xyz_A": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "voxel_xyz_A": [
+          1.2999999523162842,
+          1.2999999523162842,
+          1.2999999523162842
+        ],
+        "transpose_src_to_zyx": [
+          0,
+          1,
+          2
+        ],
+        "output_shape_zyx": [
+          300,
+          300,
+          300
+        ],
+        "padding_before_zyx": [
+          0,
+          0,
+          0
+        ],
+        "padding_after_zyx": [
+          0,
+          0,
+          0
+        ],
+        "output_origin_xyz_A_requested": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "output_origin_xyz_A_serialized": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "output_voxel_xyz_A_serialized": [
+          1.2999999523162842,
+          1.2999999523162842,
+          1.2999999523162842
+        ],
+        "output_starts_xyz": [
+          0,
+          0,
+          0
+        ],
+        "reference_structure_used": false,
+        "density_interpolated": false,
+        "density_region_bitwise_preserved": true,
+        "inverse_permutation_hash_matches_native": true,
+        "world_coordinate_landmarks_tested": 27,
+        "max_world_position_error_A": 0.0,
+        "world_tolerance_A": 0.0002,
+        "elapsed_s": 4.574541294947267,
+        "predictor_frame_caution": "Some predictors ignore ORIGIN. Use the recorded first-voxel translation to map predictor-local coordinates back to this physical frame; verify predictor behavior before scoring."
+      },
+      "canonical_matches_frozen": true,
+      "canonical_file_sha_matches_frozen": false,
+      "canonical_cube_matches_frozen": true,
+      "canonical_cube_file_sha_matches_frozen": false,
+      "full_map_integrity": "pass",
+      "seconds": 192.6
+    },
+    "EMD-65920_9WF0": {
+      "compressed_bytes": 815926426,
+      "compressed_prefix_match": true,
+      "gzip_ok": true,
+      "header_match": true,
+      "uncompressed_bytes": 864001024,
+      "size_matches_emdb_kb": true,
+      "shape": [
+        600,
+        600,
+        600
+      ],
+      "dtype": "float32",
+      "all_finite": true,
+      "density_min_max": [
+        -0.15820950269699097,
+        0.22837255895137787
+      ],
+      "raw_map_sha256": "a5b8d6ebacd2f0172c3b6c441821af1f35bc2d1ebe4c39231029155915bb2b0d",
+      "coordinates_sha_match": true,
+      "coordinates_file": "9WF0.cif.gz",
+      "fasta_sha_match": true,
+      "canonical": {
+        "source": "/home/a/aravindav/bench/raw/EMD-65920_9WF0.map",
+        "destination": "/home/a/aravindav/bench/maps/EMD-65920_9WF0/canonical.mrc",
+        "source_sha256": "a5b8d6ebacd2f0172c3b6c441821af1f35bc2d1ebe4c39231029155915bb2b0d",
+        "destination_sha256": "be851c81593e0979ed77cfb5be0195b2c9fbab0151b4227f26de016ed79bbbf2",
+        "source_density_sha256": "b77ba8feedf30959a4024ce086303b24701854bf2f83c311a2b15af0b88c7eff",
+        "restored_source_density_sha256": "b77ba8feedf30959a4024ce086303b24701854bf2f83c311a2b15af0b88c7eff",
+        "canonical_unpadded_density_sha256": "b77ba8feedf30959a4024ce086303b24701854bf2f83c311a2b15af0b88c7eff",
+        "output_preserved_region_sha256": "b77ba8feedf30959a4024ce086303b24701854bf2f83c311a2b15af0b88c7eff",
+        "source_dtype": "float32",
+        "source_shape_src": [
+          600,
+          600,
+          600
+        ],
+        "source_axes_crs": [
+          1,
+          2,
+          3
+        ],
+        "source_starts_crs": [
+          0,
+          0,
+          0
+        ],
+        "source_starts_xyz": [
+          0,
+          0,
+          0
+        ],
+        "source_origin_xyz_A": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "origin_policy_requested": "strict",
+        "origin_policy_used": "NSTART_with_zero_ORIGIN",
+        "source_first_voxel_xyz_A": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "voxel_xyz_A": [
+          0.6330000162124634,
+          0.6330000162124634,
+          0.6330000162124634
+        ],
+        "transpose_src_to_zyx": [
+          0,
+          1,
+          2
+        ],
+        "output_shape_zyx": [
+          600,
+          600,
+          600
+        ],
+        "padding_before_zyx": [
+          0,
+          0,
+          0
+        ],
+        "padding_after_zyx": [
+          0,
+          0,
+          0
+        ],
+        "output_origin_xyz_A_requested": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "output_origin_xyz_A_serialized": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "output_voxel_xyz_A_serialized": [
+          0.6330000162124634,
+          0.6330000162124634,
+          0.6330000162124634
+        ],
+        "output_starts_xyz": [
+          0,
+          0,
+          0
+        ],
+        "reference_structure_used": false,
+        "density_interpolated": false,
+        "density_region_bitwise_preserved": true,
+        "inverse_permutation_hash_matches_native": true,
+        "world_coordinate_landmarks_tested": 27,
+        "max_world_position_error_A": 0.0,
+        "world_tolerance_A": 0.0002,
+        "elapsed_s": 33.6446634279564,
+        "predictor_frame_caution": "Some predictors ignore ORIGIN. Use the recorded first-voxel translation to map predictor-local coordinates back to this physical frame; verify predictor behavior before scoring."
+      },
+      "canonical_cube": {
+        "source": "/home/a/aravindav/bench/raw/EMD-65920_9WF0.map",
+        "destination": "/home/a/aravindav/bench/maps/EMD-65920_9WF0/canonical_cube.mrc",
+        "source_sha256": "a5b8d6ebacd2f0172c3b6c441821af1f35bc2d1ebe4c39231029155915bb2b0d",
+        "destination_sha256": "04001a104e50113c9c25153ac5b3f45e6152b5bf9711da3d714a53a7a40d8cb0",
+        "source_density_sha256": "b77ba8feedf30959a4024ce086303b24701854bf2f83c311a2b15af0b88c7eff",
+        "restored_source_density_sha256": "b77ba8feedf30959a4024ce086303b24701854bf2f83c311a2b15af0b88c7eff",
+        "canonical_unpadded_density_sha256": "b77ba8feedf30959a4024ce086303b24701854bf2f83c311a2b15af0b88c7eff",
+        "output_preserved_region_sha256": "b77ba8feedf30959a4024ce086303b24701854bf2f83c311a2b15af0b88c7eff",
+        "source_dtype": "float32",
+        "source_shape_src": [
+          600,
+          600,
+          600
+        ],
+        "source_axes_crs": [
+          1,
+          2,
+          3
+        ],
+        "source_starts_crs": [
+          0,
+          0,
+          0
+        ],
+        "source_starts_xyz": [
+          0,
+          0,
+          0
+        ],
+        "source_origin_xyz_A": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "origin_policy_requested": "strict",
+        "origin_policy_used": "NSTART_with_zero_ORIGIN",
+        "source_first_voxel_xyz_A": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "voxel_xyz_A": [
+          0.6330000162124634,
+          0.6330000162124634,
+          0.6330000162124634
+        ],
+        "transpose_src_to_zyx": [
+          0,
+          1,
+          2
+        ],
+        "output_shape_zyx": [
+          600,
+          600,
+          600
+        ],
+        "padding_before_zyx": [
+          0,
+          0,
+          0
+        ],
+        "padding_after_zyx": [
+          0,
+          0,
+          0
+        ],
+        "output_origin_xyz_A_requested": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "output_origin_xyz_A_serialized": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "output_voxel_xyz_A_serialized": [
+          0.6330000162124634,
+          0.6330000162124634,
+          0.6330000162124634
+        ],
+        "output_starts_xyz": [
+          0,
+          0,
+          0
+        ],
+        "reference_structure_used": false,
+        "density_interpolated": false,
+        "density_region_bitwise_preserved": true,
+        "inverse_permutation_hash_matches_native": true,
+        "world_coordinate_landmarks_tested": 27,
+        "max_world_position_error_A": 0.0,
+        "world_tolerance_A": 0.0002,
+        "elapsed_s": 33.82529425714165,
+        "predictor_frame_caution": "Some predictors ignore ORIGIN. Use the recorded first-voxel translation to map predictor-local coordinates back to this physical frame; verify predictor behavior before scoring."
+      },
+      "canonical_matches_frozen": true,
+      "canonical_file_sha_matches_frozen": false,
+      "canonical_cube_matches_frozen": true,
+      "canonical_cube_file_sha_matches_frozen": false,
+      "full_map_integrity": "pass",
+      "seconds": 1665.9
+    }
+  }
+}

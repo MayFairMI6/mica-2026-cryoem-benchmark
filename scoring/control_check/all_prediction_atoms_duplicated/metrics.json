@@ -1,0 +1,266 @@
+{
+  "schema_version": "1.0",
+  "experiment_type": "model_evaluation",
+  "prediction": {
+    "path": "/private/tmp/claude-501/-Users-anony-Downloads/13fd603b-9a85-49a9-84d8-d1832a2d4a21/scratchpad/pkg/mica_benchmark/metrics_work/controls/9QOP/all_prediction_atoms_duplicated/synthetic_control.cif",
+    "sha256": "e25fa0d8d91ada7c0ea26211c6539827c0b12865c2c52a943dcbea7ee605fdd9",
+    "coordinate_model_index": 0,
+    "coordinate_models_in_file": 1,
+    "protein_ca_count": 2166,
+    "chain_ca_counts": {
+      "auth=C1|label=C1": 52,
+      "auth=C2|label=C2": 953,
+      "auth=C3|label=C3": 78,
+      "auth=C4|label=C4": 52,
+      "auth=C5|label=C5": 953,
+      "auth=C6|label=C6": 78
+    },
+    "alternate_location_choices": 0,
+    "unknown_amino_acid_count": 0,
+    "excluded": {},
+    "coordinate_bbox_angstrom": [
+      [
+        61.987,
+        52.255,
+        44.133
+      ],
+      [
+        132.669,
+        138.537,
+        149.214
+      ]
+    ]
+  },
+  "reference": {
+    "path": "/private/tmp/claude-501/-Users-anony-Downloads/13fd603b-9a85-49a9-84d8-d1832a2d4a21/scratchpad/pkg/mica_benchmark/dataset_work/pilot/EMD-53266_9QOP/9QOP.cif",
+    "sha256": "391a10f514cfa88520d1160b663feafa3cbc639880aa6533209d88be0cdf959c",
+    "coordinate_model_index": 0,
+    "coordinate_models_in_file": 1,
+    "protein_ca_count": 1083,
+    "chain_ca_counts": {
+      "auth=B|label=A": 52,
+      "auth=A|label=B": 953,
+      "auth=C|label=C": 78
+    },
+    "alternate_location_choices": 0,
+    "unknown_amino_acid_count": 0,
+    "excluded": {},
+    "coordinate_bbox_angstrom": [
+      [
+        61.987,
+        52.255,
+        44.133
+      ],
+      [
+        132.669,
+        138.537,
+        149.214
+      ]
+    ]
+  },
+  "definitions": {
+    "map_frame": "Original Cartesian coordinates; no centering, scaling, symmetry expansion, or rigid fit",
+    "superposed": "Single global US-align rigid transform; report separately from map-frame metrics",
+    "protein_subset": "First model, observed occupied amino-acid CA only; fixed original stoichiometry",
+    "sequence_identity_unknowns": "Supplementary metrics count X as non-identical; US-align identity follows tool"
+  },
+  "supplementary_map_frame": [
+    {
+      "threshold_angstrom_inclusive": 1,
+      "matching": "maximum cardinality then minimum total distance; one-to-one; sequence-independent",
+      "matched_ca": 1083,
+      "predicted_ca": 2166,
+      "reference_ca": 1083,
+      "precision": 0.5,
+      "recall": 1.0,
+      "f1": 0.6666666666666666,
+      "identical_amino_acid_pairs": 1083,
+      "sequence_identity_among_spatial_matches": 1.0,
+      "sequence_correct_reference_coverage": 1.0,
+      "matched_pair_rmsd_angstrom": 0.0,
+      "matched_distance_max_angstrom": 0.0,
+      "excess_prediction_fraction": 1.0,
+      "candidate_edges": 2166
+    },
+    {
+      "threshold_angstrom_inclusive": 2,
+      "matching": "maximum cardinality then minimum total distance; one-to-one; sequence-independent",
+      "matched_ca": 1083,
+      "predicted_ca": 2166,
+      "reference_ca": 1083,
+      "precision": 0.5,
+      "recall": 1.0,
+      "f1": 0.6666666666666666,
+      "identical_amino_acid_pairs": 1083,
+      "sequence_identity_among_spatial_matches": 1.0,
+      "sequence_correct_reference_coverage": 1.0,
+      "matched_pair_rmsd_angstrom": 0.0,
+      "matched_distance_max_angstrom": 0.0,
+      "excess_prediction_fraction": 1.0,
+      "candidate_edges": 2166
+    },
+    {
+      "threshold_angstrom_inclusive": 3,
+      "matching": "maximum cardinality then minimum total distance; one-to-one; sequence-independent",
+      "matched_ca": 1083,
+      "predicted_ca": 2166,
+      "reference_ca": 1083,
+      "precision": 0.5,
+      "recall": 1.0,
+      "f1": 0.6666666666666666,
+      "identical_amino_acid_pairs": 1083,
+      "sequence_identity_among_spatial_matches": 1.0,
+      "sequence_correct_reference_coverage": 1.0,
+      "matched_pair_rmsd_angstrom": 0.0,
+      "matched_distance_max_angstrom": 0.0,
+      "excess_prediction_fraction": 1.0,
+      "candidate_edges": 2174
+    },
+    {
+      "threshold_angstrom_inclusive": 5,
+      "matching": "maximum cardinality then minimum total distance; one-to-one; sequence-independent",
+      "matched_ca": 1083,
+      "predicted_ca": 2166,
+      "reference_ca": 1083,
+      "precision": 0.5,
+      "recall": 1.0,
+      "f1": 0.6666666666666666,
+      "identical_amino_acid_pairs": 1083,
+      "sequence_identity_among_spatial_matches": 1.0,
+      "sequence_correct_reference_coverage": 1.0,
+      "matched_pair_rmsd_angstrom": 0.0,
+      "matched_distance_max_angstrom": 0.0,
+      "excess_prediction_fraction": 1.0,
+      "candidate_edges": 7670
+    }
+  ],
+  "phenix_paper_metrics": {
+    "status": "executed_official_cctbx_chain_comparison",
+    "implementation_version": "2025.11",
+    "implementation_source_sha256": "9a2dd855f7f5615f274f4e8265180580037de658803ca7bf8a90343fd6a45d55",
+    "implementation_note": "Official cctbx mmtbx.validation.chain_comparison module; full Phenix suite is not required for this calculation",
+    "original_mica_command_recovered": false,
+    "arguments": [
+      "/Users/anony/Downloads/MICA_GAIVI_run/scoring/control_check/all_prediction_atoms_duplicated/chain_comparison/reference_CA.cif",
+      "/Users/anony/Downloads/MICA_GAIVI_run/scoring/control_check/all_prediction_atoms_duplicated/chain_comparison/prediction_CA.cif",
+      "unique_part_of_target_only=False",
+      "test_unique_part_of_target_only=False",
+      "unique_query_only=False",
+      "use_crystal_symmetry=False",
+      "target_length_from_matching_chains=False",
+      "chain_type=PROTEIN",
+      "max_dist=3.0",
+      "remove_alt_conf=True"
+    ],
+    "reference_ca_used": 1083,
+    "predicted_ca_used": 2166,
+    "matched_ca": 1083,
+    "far_ca": 1083,
+    "ca_match_percent_paper_prose_denominator": 50.0,
+    "ca_quality_fraction_paper_formula": 1.0,
+    "sequence_match_percent": 100.0,
+    "phenix_percent_found_reference_denominator": 100.0,
+    "matched_ca_rmsd_angstrom": 0.0,
+    "count_reconciliation": true,
+    "note": "Phenix printed %Found uses reference length; CAlphaMatch above uses prediction length as specified in MICA prose."
+  },
+  "paper_named_usalign_metrics": {
+    "status": "ok",
+    "returncode": 0,
+    "wall_seconds": 3.986664457999723,
+    "command": [
+      "/Users/anony/Downloads/MICA_GAIVI_run/scoring/USalign/USalign",
+      "/Users/anony/Downloads/MICA_GAIVI_run/scoring/control_check/all_prediction_atoms_duplicated/usalign/prediction_CA.cif",
+      "/Users/anony/Downloads/MICA_GAIVI_run/scoring/control_check/all_prediction_atoms_duplicated/usalign/reference_CA.cif",
+      "-mol",
+      "prot",
+      "-mm",
+      "1",
+      "-ter",
+      "1",
+      "-m",
+      "/Users/anony/Downloads/MICA_GAIVI_run/scoring/control_check/all_prediction_atoms_duplicated/usalign/usalign_matrix.txt"
+    ],
+    "executable_sha256": "09842282c73e10f727d692a182711c11786aabdd3aa2ccc4b4103242b8c308fc",
+    "normalization": "Structure_2: full retained experimental reference CA length",
+    "alignment": "US-align -mol prot -mm 1 -ter 1; one global complex transform",
+    "tm_score_reference_normalized": 1.0,
+    "aligned_ca_length": 1083,
+    "sequence_identity": 1.0,
+    "aligned_rmsd_angstrom": 0.0,
+    "reference_ca_count_used": 1083,
+    "predicted_ca_count_used": 2166,
+    "rotation_determinant": 1.0,
+    "transform_status": "ok"
+  },
+  "supplementary_after_global_superposition": [
+    {
+      "threshold_angstrom_inclusive": 1,
+      "matching": "maximum cardinality then minimum total distance; one-to-one; sequence-independent",
+      "matched_ca": 1083,
+      "predicted_ca": 2166,
+      "reference_ca": 1083,
+      "precision": 0.5,
+      "recall": 1.0,
+      "f1": 0.6666666666666666,
+      "identical_amino_acid_pairs": 1083,
+      "sequence_identity_among_spatial_matches": 1.0,
+      "sequence_correct_reference_coverage": 1.0,
+      "matched_pair_rmsd_angstrom": 0.0,
+      "matched_distance_max_angstrom": 0.0,
+      "excess_prediction_fraction": 1.0,
+      "candidate_edges": 2166
+    },
+    {
+      "threshold_angstrom_inclusive": 2,
+      "matching": "maximum cardinality then minimum total distance; one-to-one; sequence-independent",
+      "matched_ca": 1083,
+      "predicted_ca": 2166,
+      "reference_ca": 1083,
+      "precision": 0.5,
+      "recall": 1.0,
+      "f1": 0.6666666666666666,
+      "identical_amino_acid_pairs": 1083,
+      "sequence_identity_among_spatial_matches": 1.0,
+      "sequence_correct_reference_coverage": 1.0,
+      "matched_pair_rmsd_angstrom": 0.0,
+      "matched_distance_max_angstrom": 0.0,
+      "excess_prediction_fraction": 1.0,
+      "candidate_edges": 2166
+    },
+    {
+      "threshold_angstrom_inclusive": 3,
+      "matching": "maximum cardinality then minimum total distance; one-to-one; sequence-independent",
+      "matched_ca": 1083,
+      "predicted_ca": 2166,
+      "reference_ca": 1083,
+      "precision": 0.5,
+      "recall": 1.0,
+      "f1": 0.6666666666666666,
+      "identical_amino_acid_pairs": 1083,
+      "sequence_identity_among_spatial_matches": 1.0,
+      "sequence_correct_reference_coverage": 1.0,
+      "matched_pair_rmsd_angstrom": 0.0,
+      "matched_distance_max_angstrom": 0.0,
+      "excess_prediction_fraction": 1.0,
+      "candidate_edges": 2174
+    },
+    {
+      "threshold_angstrom_inclusive": 5,
+      "matching": "maximum cardinality then minimum total distance; one-to-one; sequence-independent",
+      "matched_ca": 1083,
+      "predicted_ca": 2166,
+      "reference_ca": 1083,
+      "precision": 0.5,
+      "recall": 1.0,
+      "f1": 0.6666666666666666,
+      "identical_amino_acid_pairs": 1083,
+      "sequence_identity_among_spatial_matches": 1.0,
+      "sequence_correct_reference_coverage": 1.0,
+      "matched_pair_rmsd_angstrom": 0.0,
+      "matched_distance_max_angstrom": 0.0,
+      "excess_prediction_fraction": 1.0,
+      "candidate_edges": 7670
+    }
+  ]
+}

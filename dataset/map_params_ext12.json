@@ -1,0 +1,74 @@
+{
+ "EMD-65879_9WCY": {
+  "emdb": "65879",
+  "contour_level": 0.0332,
+  "resolution_A": 2.26,
+  "table_resolution_A": 2.26
+ },
+ "EMD-64749_9V35": {
+  "emdb": "64749",
+  "contour_level": 0.043,
+  "resolution_A": 2.97,
+  "table_resolution_A": 2.97
+ },
+ "EMD-72881_9YF9": {
+  "emdb": "72881",
+  "contour_level": 0.0467,
+  "resolution_A": 3.24,
+  "table_resolution_A": 3.24
+ },
+ "EMD-47901_9EC7": {
+  "emdb": "47901",
+  "contour_level": 0.06,
+  "resolution_A": 3.76,
+  "table_resolution_A": 3.76
+ },
+ "EMD-54540_9S3M": {
+  "emdb": "54540",
+  "contour_level": 0.078,
+  "resolution_A": 2.31,
+  "table_resolution_A": 2.31
+ },
+ "EMD-47973_9EFH": {
+  "emdb": "47973",
+  "contour_level": 0.2,
+  "resolution_A": 2.5,
+  "table_resolution_A": 2.5
+ },
+ "EMD-54029_9RL3": {
+  "emdb": "54029",
+  "contour_level": 0.0958,
+  "resolution_A": 3.31,
+  "table_resolution_A": 3.31
+ },
+ "EMD-72927_9YGJ": {
+  "emdb": "72927",
+  "contour_level": 0.887,
+  "resolution_A": 3.7,
+  "table_resolution_A": 3.7
+ },
+ "EMD-75879_11OC": {
+  "emdb": "75879",
+  "contour_level": 0.0702,
+  "resolution_A": 2.18,
+  "table_resolution_A": 2.18
+ },
+ "EMD-73285_9YP6": {
+  "emdb": "73285",
+  "contour_level": 0.0402,
+  "resolution_A": 2.8,
+  "table_resolution_A": 2.8
+ },
+ "EMD-71089_9P0O": {
+  "emdb": "71089",
+  "contour_level": 0.0993,
+  "resolution_A": 3.34,
+  "table_resolution_A": 3.34
+ },
+ "EMD-65772_9W9E": {
+  "emdb": "65772",
+  "contour_level": 0.0346,
+  "resolution_A": 3.7,
+  "table_resolution_A": 3.7
+ }
+}

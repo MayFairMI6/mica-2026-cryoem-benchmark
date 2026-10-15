@@ -1,0 +1,13 @@
+{
+  "python": "3.12.14 (main, Aug 25 2026, 14:00:49) [Clang 22.1.3 ]",
+  "platform": "Linux-6.18.44-x86_64-with-glibc2.39",
+  "numpy": "2.3.5",
+  "scipy": "1.17.0",
+  "gemmi": "0.7.5",
+  "cctbx_base": "2025.11",
+  "cctbx_chain_comparison_sha256": "9a2dd855f7f5615f274f4e8265180580037de658803ca7bf8a90343fd6a45d55",
+  "usalign_git_commit": "1fa25a958fe3095900eba2ef9b48562bdc462251",
+  "mica_audited_git_commit": "726d1bb14be04887a43b7f5aefcff0d843761d01",
+  "usalign_compile_command": "g++ -O3 -ffast-math USalign.cpp -o USalign",
+  "compiler": "g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0"
+}

@@ -1,0 +1,13 @@
+[
+  "/Users/anony/Downloads/MICA_GAIVI_run/scoring/USalign/USalign",
+  "/Users/anony/Downloads/MICA_GAIVI_run/scoring/control_check/all_prediction_atoms_duplicated/usalign/prediction_CA.cif",
+  "/Users/anony/Downloads/MICA_GAIVI_run/scoring/control_check/all_prediction_atoms_duplicated/usalign/reference_CA.cif",
+  "-mol",
+  "prot",
+  "-mm",
+  "1",
+  "-ter",
+  "1",
+  "-m",
+  "/Users/anony/Downloads/MICA_GAIVI_run/scoring/control_check/all_prediction_atoms_duplicated/usalign/usalign_matrix.txt"
+]

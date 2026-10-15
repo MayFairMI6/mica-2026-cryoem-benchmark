@@ -1,0 +1,2633 @@
+{
+  "generated_utc": "2026-10-07T06:04:18Z",
+  "cases": {
+    "EMD-71359_9P80": {
+      "compressed_bytes": 58224709,
+      "compressed_prefix_match": true,
+      "gzip_ok": true,
+      "header_match": true,
+      "uncompressed_bytes": 112378880,
+      "size_matches_emdb_kb": true,
+      "shape": [
+        304,
+        304,
+        304
+      ],
+      "dtype": "float32",
+      "all_finite": true,
+      "density_min_max": [
+        -1.126868486404419,
+        1.5148038864135742
+      ],
+      "raw_map_sha256": "5405ee139ad6e8d72689d92f958fa5926768a2996670bc16af8e1a3de85d85fa",
+      "coordinates_sha_match": true,
+      "coordinates_file": "9p80.cif",
+      "fasta_sha_match": true,
+      "canonical": {
+        "source": "/tmp/raw/EMD-71359_9P80.map",
+        "destination": "/kaggle/working/bench12/EMD-71359_9P80/canonical.mrc",
+        "source_sha256": "5405ee139ad6e8d72689d92f958fa5926768a2996670bc16af8e1a3de85d85fa",
+        "destination_sha256": "fe67ac48733fb6d62d0054e88109200ba28aaade30989a06ca71a42c141276cf",
+        "source_density_sha256": "f297e5e23289791836cbc142ab81ecb04740b65a0f9cea32c5c727188bf72146",
+        "restored_source_density_sha256": "f297e5e23289791836cbc142ab81ecb04740b65a0f9cea32c5c727188bf72146",
+        "canonical_unpadded_density_sha256": "f297e5e23289791836cbc142ab81ecb04740b65a0f9cea32c5c727188bf72146",
+        "output_preserved_region_sha256": "f297e5e23289791836cbc142ab81ecb04740b65a0f9cea32c5c727188bf72146",
+        "source_dtype": "float32",
+        "source_shape_src": [
+          304,
+          304,
+          304
+        ],
+        "source_axes_crs": [
+          1,
+          2,
+          3
+        ],
+        "source_starts_crs": [
+          0,
+          0,
+          0
+        ],
+        "source_starts_xyz": [
+          0,
+          0,
+          0
+        ],
+        "source_origin_xyz_A": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "origin_policy_requested": "strict",
+        "origin_policy_used": "NSTART_with_zero_ORIGIN",
+        "source_first_voxel_xyz_A": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "voxel_xyz_A": [
+          0.8320000171661377,
+          0.8320000171661377,
+          0.8320000171661377
+        ],
+        "transpose_src_to_zyx": [
+          0,
+          1,
+          2
+        ],
+        "output_shape_zyx": [
+          304,
+          304,
+          304
+        ],
+        "padding_before_zyx": [
+          0,
+          0,
+          0
+        ],
+        "padding_after_zyx": [
+          0,
+          0,
+          0
+        ],
+        "output_origin_xyz_A_requested": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "output_origin_xyz_A_serialized": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "output_voxel_xyz_A_serialized": [
+          0.8320000171661377,
+          0.8320000171661377,
+          0.8320000171661377
+        ],
+        "output_starts_xyz": [
+          0,
+          0,
+          0
+        ],
+        "reference_structure_used": false,
+        "density_interpolated": false,
+        "density_region_bitwise_preserved": true,
+        "inverse_permutation_hash_matches_native": true,
+        "world_coordinate_landmarks_tested": 27,
+        "max_world_position_error_A": 0.0,
+        "world_tolerance_A": 0.0002,
+        "elapsed_s": 1.245001813999977,
+        "predictor_frame_caution": "Some predictors ignore ORIGIN. Use the recorded first-voxel translation to map predictor-local coordinates back to this physical frame; verify predictor behavior before scoring."
+      },
+      "canonical_cube": {
+        "source": "/tmp/raw/EMD-71359_9P80.map",
+        "destination": "/kaggle/working/bench12/EMD-71359_9P80/canonical_cube.mrc",
+        "source_sha256": "5405ee139ad6e8d72689d92f958fa5926768a2996670bc16af8e1a3de85d85fa",
+        "destination_sha256": "f6539fd35d8c08769b0503e969a0db2fc6db8447f442a2c9711a039f08355612",
+        "source_density_sha256": "f297e5e23289791836cbc142ab81ecb04740b65a0f9cea32c5c727188bf72146",
+        "restored_source_density_sha256": "f297e5e23289791836cbc142ab81ecb04740b65a0f9cea32c5c727188bf72146",
+        "canonical_unpadded_density_sha256": "f297e5e23289791836cbc142ab81ecb04740b65a0f9cea32c5c727188bf72146",
+        "output_preserved_region_sha256": "f297e5e23289791836cbc142ab81ecb04740b65a0f9cea32c5c727188bf72146",
+        "source_dtype": "float32",
+        "source_shape_src": [
+          304,
+          304,
+          304
+        ],
+        "source_axes_crs": [
+          1,
+          2,
+          3
+        ],
+        "source_starts_crs": [
+          0,
+          0,
+          0
+        ],
+        "source_starts_xyz": [
+          0,
+          0,
+          0
+        ],
+        "source_origin_xyz_A": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "origin_policy_requested": "strict",
+        "origin_policy_used": "NSTART_with_zero_ORIGIN",
+        "source_first_voxel_xyz_A": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "voxel_xyz_A": [
+          0.8320000171661377,
+          0.8320000171661377,
+          0.8320000171661377
+        ],
+        "transpose_src_to_zyx": [
+          0,
+          1,
+          2
+        ],
+        "output_shape_zyx": [
+          304,
+          304,
+          304
+        ],
+        "padding_before_zyx": [
+          0,
+          0,
+          0
+        ],
+        "padding_after_zyx": [
+          0,
+          0,
+          0
+        ],
+        "output_origin_xyz_A_requested": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "output_origin_xyz_A_serialized": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "output_voxel_xyz_A_serialized": [
+          0.8320000171661377,
+          0.8320000171661377,
+          0.8320000171661377
+        ],
+        "output_starts_xyz": [
+          0,
+          0,
+          0
+        ],
+        "reference_structure_used": false,
+        "density_interpolated": false,
+        "density_region_bitwise_preserved": true,
+        "inverse_permutation_hash_matches_native": true,
+        "world_coordinate_landmarks_tested": 27,
+        "max_world_position_error_A": 0.0,
+        "world_tolerance_A": 0.0002,
+        "elapsed_s": 1.2871951170000102,
+        "predictor_frame_caution": "Some predictors ignore ORIGIN. Use the recorded first-voxel translation to map predictor-local coordinates back to this physical frame; verify predictor behavior before scoring."
+      },
+      "full_map_integrity": "pass",
+      "seconds": 84.1
+    },
+    "EMD-73885_9Z81": {
+      "compressed_bytes": 8493241,
+      "compressed_prefix_match": true,
+      "gzip_ok": true,
+      "header_match": true,
+      "uncompressed_bytes": 226493440,
+      "size_matches_emdb_kb": true,
+      "shape": [
+        384,
+        384,
+        384
+      ],
+      "dtype": "float32",
+      "all_finite": true,
+      "density_min_max": [
+        -1.9258880615234375,
+        3.432927370071411
+      ],
+      "raw_map_sha256": "61cdecde43ca236f0b0b7c4b9014358e517d7332efb9ed8106f5f0d4dc4d1a3d",
+      "coordinates_sha_match": true,
+      "coordinates_file": "9z81.cif",
+      "fasta_sha_match": true,
+      "canonical": {
+        "source": "/tmp/raw/EMD-73885_9Z81.map",
+        "destination": "/kaggle/working/bench12/EMD-73885_9Z81/canonical.mrc",
+        "source_sha256": "61cdecde43ca236f0b0b7c4b9014358e517d7332efb9ed8106f5f0d4dc4d1a3d",
+        "destination_sha256": "b2d80253484def6912bf65f958b03fc063030cbea7661f8fc7041dbdd95af212",
+        "source_density_sha256": "d958ed63b547bcf746cdc9b67d3197ef21fc665991e10ffd5ac28b2081f8b1d9",
+        "restored_source_density_sha256": "d958ed63b547bcf746cdc9b67d3197ef21fc665991e10ffd5ac28b2081f8b1d9",
+        "canonical_unpadded_density_sha256": "d958ed63b547bcf746cdc9b67d3197ef21fc665991e10ffd5ac28b2081f8b1d9",
+        "output_preserved_region_sha256": "d958ed63b547bcf746cdc9b67d3197ef21fc665991e10ffd5ac28b2081f8b1d9",
+        "source_dtype": "float32",
+        "source_shape_src": [
+          384,
+          384,
+          384
+        ],
+        "source_axes_crs": [
+          1,
+          2,
+          3
+        ],
+        "source_starts_crs": [
+          0,
+          0,
+          0
+        ],
+        "source_starts_xyz": [
+          0,
+          0,
+          0
+        ],
+        "source_origin_xyz_A": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "origin_policy_requested": "strict",
+        "origin_policy_used": "NSTART_with_zero_ORIGIN",
+        "source_first_voxel_xyz_A": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "voxel_xyz_A": [
+          0.8220000267028809,
+          0.8220000267028809,
+          0.8220000267028809
+        ],
+        "transpose_src_to_zyx": [
+          0,
+          1,
+          2
+        ],
+        "output_shape_zyx": [
+          384,
+          384,
+          384
+        ],
+        "padding_before_zyx": [
+          0,
+          0,
+          0
+        ],
+        "padding_after_zyx": [
+          0,
+          0,
+          0
+        ],
+        "output_origin_xyz_A_requested": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "output_origin_xyz_A_serialized": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "output_voxel_xyz_A_serialized": [
+          0.8220000267028809,
+          0.8220000267028809,
+          0.8220000267028809
+        ],
+        "output_starts_xyz": [
+          0,
+          0,
+          0
+        ],
+        "reference_structure_used": false,
+        "density_interpolated": false,
+        "density_region_bitwise_preserved": true,
+        "inverse_permutation_hash_matches_native": true,
+        "world_coordinate_landmarks_tested": 27,
+        "max_world_position_error_A": 0.0,
+        "world_tolerance_A": 0.0002,
+        "elapsed_s": 2.582829554,
+        "predictor_frame_caution": "Some predictors ignore ORIGIN. Use the recorded first-voxel translation to map predictor-local coordinates back to this physical frame; verify predictor behavior before scoring."
+      },
+      "canonical_cube": {
+        "source": "/tmp/raw/EMD-73885_9Z81.map",
+        "destination": "/kaggle/working/bench12/EMD-73885_9Z81/canonical_cube.mrc",
+        "source_sha256": "61cdecde43ca236f0b0b7c4b9014358e517d7332efb9ed8106f5f0d4dc4d1a3d",
+        "destination_sha256": "efee1ca7e4883d630659b3bc593d9b07ed9eb84cb853890c6e78fdfc0e236e52",
+        "source_density_sha256": "d958ed63b547bcf746cdc9b67d3197ef21fc665991e10ffd5ac28b2081f8b1d9",
+        "restored_source_density_sha256": "d958ed63b547bcf746cdc9b67d3197ef21fc665991e10ffd5ac28b2081f8b1d9",
+        "canonical_unpadded_density_sha256": "d958ed63b547bcf746cdc9b67d3197ef21fc665991e10ffd5ac28b2081f8b1d9",
+        "output_preserved_region_sha256": "d958ed63b547bcf746cdc9b67d3197ef21fc665991e10ffd5ac28b2081f8b1d9",
+        "source_dtype": "float32",
+        "source_shape_src": [
+          384,
+          384,
+          384
+        ],
+        "source_axes_crs": [
+          1,
+          2,
+          3
+        ],
+        "source_starts_crs": [
+          0,
+          0,
+          0
+        ],
+        "source_starts_xyz": [
+          0,
+          0,
+          0
+        ],
+        "source_origin_xyz_A": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "origin_policy_requested": "strict",
+        "origin_policy_used": "NSTART_with_zero_ORIGIN",
+        "source_first_voxel_xyz_A": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "voxel_xyz_A": [
+          0.8220000267028809,
+          0.8220000267028809,
+          0.8220000267028809
+        ],
+        "transpose_src_to_zyx": [
+          0,
+          1,
+          2
+        ],
+        "output_shape_zyx": [
+          384,
+          384,
+          384
+        ],
+        "padding_before_zyx": [
+          0,
+          0,
+          0
+        ],
+        "padding_after_zyx": [
+          0,
+          0,
+          0
+        ],
+        "output_origin_xyz_A_requested": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "output_origin_xyz_A_serialized": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "output_voxel_xyz_A_serialized": [
+          0.8220000267028809,
+          0.8220000267028809,
+          0.8220000267028809
+        ],
+        "output_starts_xyz": [
+          0,
+          0,
+          0
+        ],
+        "reference_structure_used": false,
+        "density_interpolated": false,
+        "density_region_bitwise_preserved": true,
+        "inverse_permutation_hash_matches_native": true,
+        "world_coordinate_landmarks_tested": 27,
+        "max_world_position_error_A": 0.0,
+        "world_tolerance_A": 0.0002,
+        "elapsed_s": 2.546539081999981,
+        "predictor_frame_caution": "Some predictors ignore ORIGIN. Use the recorded first-voxel translation to map predictor-local coordinates back to this physical frame; verify predictor behavior before scoring."
+      },
+      "full_map_integrity": "pass",
+      "seconds": 16.0
+    },
+    "EMD-74910_9ZWK": {
+      "compressed_bytes": 170461240,
+      "compressed_prefix_match": true,
+      "gzip_ok": true,
+      "header_match": true,
+      "uncompressed_bytes": 186625024,
+      "size_matches_emdb_kb": true,
+      "shape": [
+        360,
+        360,
+        360
+      ],
+      "dtype": "float32",
+      "all_finite": true,
+      "density_min_max": [
+        -1.0910264253616333,
+        2.039436101913452
+      ],
+      "raw_map_sha256": "1a8cca01f715568d82ff864a509e2bcc6093745545d0f8d89d82031eb64e558c",
+      "coordinates_sha_match": true,
+      "coordinates_file": "9zwk.cif",
+      "fasta_sha_match": true,
+      "canonical": {
+        "source": "/tmp/raw/EMD-74910_9ZWK.map",
+        "destination": "/kaggle/working/bench12/EMD-74910_9ZWK/canonical.mrc",
+        "source_sha256": "1a8cca01f715568d82ff864a509e2bcc6093745545d0f8d89d82031eb64e558c",
+        "destination_sha256": "8b3b6c37e9938a47b0e4699e6cc649fa296d7b4125f6b9936cbeef17a3c616d1",
+        "source_density_sha256": "5390177cbd2cc003c67bb87418227f8cd52dfd605206b79c2bf7e5ac026948e5",
+        "restored_source_density_sha256": "5390177cbd2cc003c67bb87418227f8cd52dfd605206b79c2bf7e5ac026948e5",
+        "canonical_unpadded_density_sha256": "5390177cbd2cc003c67bb87418227f8cd52dfd605206b79c2bf7e5ac026948e5",
+        "output_preserved_region_sha256": "5390177cbd2cc003c67bb87418227f8cd52dfd605206b79c2bf7e5ac026948e5",
+        "source_dtype": "float32",
+        "source_shape_src": [
+          360,
+          360,
+          360
+        ],
+        "source_axes_crs": [
+          1,
+          2,
+          3
+        ],
+        "source_starts_crs": [
+          0,
+          0,
+          0
+        ],
+        "source_starts_xyz": [
+          0,
+          0,
+          0
+        ],
+        "source_origin_xyz_A": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "origin_policy_requested": "strict",
+        "origin_policy_used": "NSTART_with_zero_ORIGIN",
+        "source_first_voxel_xyz_A": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "voxel_xyz_A": [
+          0.9299999475479126,
+          0.9299999475479126,
+          0.9299999475479126
+        ],
+        "transpose_src_to_zyx": [
+          0,
+          1,
+          2
+        ],
+        "output_shape_zyx": [
+          360,
+          360,
+          360
+        ],
+        "padding_before_zyx": [
+          0,
+          0,
+          0
+        ],
+        "padding_after_zyx": [
+          0,
+          0,
+          0
+        ],
+        "output_origin_xyz_A_requested": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "output_origin_xyz_A_serialized": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "output_voxel_xyz_A_serialized": [
+          0.9299999475479126,
+          0.9299999475479126,
+          0.9299999475479126
+        ],
+        "output_starts_xyz": [
+          0,
+          0,
+          0
+        ],
+        "reference_structure_used": false,
+        "density_interpolated": false,
+        "density_region_bitwise_preserved": true,
+        "inverse_permutation_hash_matches_native": true,
+        "world_coordinate_landmarks_tested": 27,
+        "max_world_position_error_A": 0.0,
+        "world_tolerance_A": 0.0002,
+        "elapsed_s": 2.026257995999913,
+        "predictor_frame_caution": "Some predictors ignore ORIGIN. Use the recorded first-voxel translation to map predictor-local coordinates back to this physical frame; verify predictor behavior before scoring."
+      },
+      "canonical_cube": {
+        "source": "/tmp/raw/EMD-74910_9ZWK.map",
+        "destination": "/kaggle/working/bench12/EMD-74910_9ZWK/canonical_cube.mrc",
+        "source_sha256": "1a8cca01f715568d82ff864a509e2bcc6093745545d0f8d89d82031eb64e558c",
+        "destination_sha256": "66fe4efb94e94604839ee079142f2c6f7ec1d6023a577e67da314bacb7592acd",
+        "source_density_sha256": "5390177cbd2cc003c67bb87418227f8cd52dfd605206b79c2bf7e5ac026948e5",
+        "restored_source_density_sha256": "5390177cbd2cc003c67bb87418227f8cd52dfd605206b79c2bf7e5ac026948e5",
+        "canonical_unpadded_density_sha256": "5390177cbd2cc003c67bb87418227f8cd52dfd605206b79c2bf7e5ac026948e5",
+        "output_preserved_region_sha256": "5390177cbd2cc003c67bb87418227f8cd52dfd605206b79c2bf7e5ac026948e5",
+        "source_dtype": "float32",
+        "source_shape_src": [
+          360,
+          360,
+          360
+        ],
+        "source_axes_crs": [
+          1,
+          2,
+          3
+        ],
+        "source_starts_crs": [
+          0,
+          0,
+          0
+        ],
+        "source_starts_xyz": [
+          0,
+          0,
+          0
+        ],
+        "source_origin_xyz_A": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "origin_policy_requested": "strict",
+        "origin_policy_used": "NSTART_with_zero_ORIGIN",
+        "source_first_voxel_xyz_A": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "voxel_xyz_A": [
+          0.9299999475479126,
+          0.9299999475479126,
+          0.9299999475479126
+        ],
+        "transpose_src_to_zyx": [
+          0,
+          1,
+          2
+        ],
+        "output_shape_zyx": [
+          360,
+          360,
+          360
+        ],
+        "padding_before_zyx": [
+          0,
+          0,
+          0
+        ],
+        "padding_after_zyx": [
+          0,
+          0,
+          0
+        ],
+        "output_origin_xyz_A_requested": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "output_origin_xyz_A_serialized": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "output_voxel_xyz_A_serialized": [
+          0.9299999475479126,
+          0.9299999475479126,
+          0.9299999475479126
+        ],
+        "output_starts_xyz": [
+          0,
+          0,
+          0
+        ],
+        "reference_structure_used": false,
+        "density_interpolated": false,
+        "density_region_bitwise_preserved": true,
+        "inverse_permutation_hash_matches_native": true,
+        "world_coordinate_landmarks_tested": 27,
+        "max_world_position_error_A": 0.0,
+        "world_tolerance_A": 0.0002,
+        "elapsed_s": 1.995602737000013,
+        "predictor_frame_caution": "Some predictors ignore ORIGIN. Use the recorded first-voxel translation to map predictor-local coordinates back to this physical frame; verify predictor behavior before scoring."
+      },
+      "full_map_integrity": "pass",
+      "seconds": 270.9
+    },
+    "EMD-63895_9U62": {
+      "compressed_bytes": 176211579,
+      "compressed_prefix_match": true,
+      "gzip_ok": true,
+      "header_match": true,
+      "uncompressed_bytes": 186625024,
+      "size_matches_emdb_kb": true,
+      "shape": [
+        360,
+        360,
+        360
+      ],
+      "dtype": "float32",
+      "all_finite": true,
+      "density_min_max": [
+        -1.1682195663452148,
+        1.785159945487976
+      ],
+      "raw_map_sha256": "53aeca4265ce57c34850141c26f3199958b2a1ba24e5bec5fc3ef460e13376b3",
+      "coordinates_sha_match": true,
+      "coordinates_file": "9u62.cif",
+      "fasta_sha_match": true,
+      "canonical": {
+        "source": "/tmp/raw/EMD-63895_9U62.map",
+        "destination": "/kaggle/working/bench12/EMD-63895_9U62/canonical.mrc",
+        "source_sha256": "53aeca4265ce57c34850141c26f3199958b2a1ba24e5bec5fc3ef460e13376b3",
+        "destination_sha256": "a3f2b57a9fe4f477f28eddb43ef8e9893c2acaa695daf81efa0d33ab0ac446a5",
+        "source_density_sha256": "9a55c5eed9fb5061357336b10b6f9b3801dd14c169522dd3e86522aff679ae12",
+        "restored_source_density_sha256": "9a55c5eed9fb5061357336b10b6f9b3801dd14c169522dd3e86522aff679ae12",
+        "canonical_unpadded_density_sha256": "9a55c5eed9fb5061357336b10b6f9b3801dd14c169522dd3e86522aff679ae12",
+        "output_preserved_region_sha256": "9a55c5eed9fb5061357336b10b6f9b3801dd14c169522dd3e86522aff679ae12",
+        "source_dtype": "float32",
+        "source_shape_src": [
+          360,
+          360,
+          360
+        ],
+        "source_axes_crs": [
+          1,
+          2,
+          3
+        ],
+        "source_starts_crs": [
+          0,
+          0,
+          0
+        ],
+        "source_starts_xyz": [
+          0,
+          0,
+          0
+        ],
+        "source_origin_xyz_A": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "origin_policy_requested": "strict",
+        "origin_policy_used": "NSTART_with_zero_ORIGIN",
+        "source_first_voxel_xyz_A": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "voxel_xyz_A": [
+          0.949999988079071,
+          0.949999988079071,
+          0.949999988079071
+        ],
+        "transpose_src_to_zyx": [
+          0,
+          1,
+          2
+        ],
+        "output_shape_zyx": [
+          360,
+          360,
+          360
+        ],
+        "padding_before_zyx": [
+          0,
+          0,
+          0
+        ],
+        "padding_after_zyx": [
+          0,
+          0,
+          0
+        ],
+        "output_origin_xyz_A_requested": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "output_origin_xyz_A_serialized": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "output_voxel_xyz_A_serialized": [
+          0.949999988079071,
+          0.949999988079071,
+          0.949999988079071
+        ],
+        "output_starts_xyz": [
+          0,
+          0,
+          0
+        ],
+        "reference_structure_used": false,
+        "density_interpolated": false,
+        "density_region_bitwise_preserved": true,
+        "inverse_permutation_hash_matches_native": true,
+        "world_coordinate_landmarks_tested": 27,
+        "max_world_position_error_A": 0.0,
+        "world_tolerance_A": 0.0002,
+        "elapsed_s": 2.0080387969999265,
+        "predictor_frame_caution": "Some predictors ignore ORIGIN. Use the recorded first-voxel translation to map predictor-local coordinates back to this physical frame; verify predictor behavior before scoring."
+      },
+      "canonical_cube": {
+        "source": "/tmp/raw/EMD-63895_9U62.map",
+        "destination": "/kaggle/working/bench12/EMD-63895_9U62/canonical_cube.mrc",
+        "source_sha256": "53aeca4265ce57c34850141c26f3199958b2a1ba24e5bec5fc3ef460e13376b3",
+        "destination_sha256": "5ac24671ba9030105713289ae2848b217a3253c6f800626ce09983b537501379",
+        "source_density_sha256": "9a55c5eed9fb5061357336b10b6f9b3801dd14c169522dd3e86522aff679ae12",
+        "restored_source_density_sha256": "9a55c5eed9fb5061357336b10b6f9b3801dd14c169522dd3e86522aff679ae12",
+        "canonical_unpadded_density_sha256": "9a55c5eed9fb5061357336b10b6f9b3801dd14c169522dd3e86522aff679ae12",
+        "output_preserved_region_sha256": "9a55c5eed9fb5061357336b10b6f9b3801dd14c169522dd3e86522aff679ae12",
+        "source_dtype": "float32",
+        "source_shape_src": [
+          360,
+          360,
+          360
+        ],
+        "source_axes_crs": [
+          1,
+          2,
+          3
+        ],
+        "source_starts_crs": [
+          0,
+          0,
+          0
+        ],
+        "source_starts_xyz": [
+          0,
+          0,
+          0
+        ],
+        "source_origin_xyz_A": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "origin_policy_requested": "strict",
+        "origin_policy_used": "NSTART_with_zero_ORIGIN",
+        "source_first_voxel_xyz_A": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "voxel_xyz_A": [
+          0.949999988079071,
+          0.949999988079071,
+          0.949999988079071
+        ],
+        "transpose_src_to_zyx": [
+          0,
+          1,
+          2
+        ],
+        "output_shape_zyx": [
+          360,
+          360,
+          360
+        ],
+        "padding_before_zyx": [
+          0,
+          0,
+          0
+        ],
+        "padding_after_zyx": [
+          0,
+          0,
+          0
+        ],
+        "output_origin_xyz_A_requested": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "output_origin_xyz_A_serialized": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "output_voxel_xyz_A_serialized": [
+          0.949999988079071,
+          0.949999988079071,
+          0.949999988079071
+        ],
+        "output_starts_xyz": [
+          0,
+          0,
+          0
+        ],
+        "reference_structure_used": false,
+        "density_interpolated": false,
+        "density_region_bitwise_preserved": true,
+        "inverse_permutation_hash_matches_native": true,
+        "world_coordinate_landmarks_tested": 27,
+        "max_world_position_error_A": 0.0,
+        "world_tolerance_A": 0.0002,
+        "elapsed_s": 2.0288869270000305,
+        "predictor_frame_caution": "Some predictors ignore ORIGIN. Use the recorded first-voxel translation to map predictor-local coordinates back to this physical frame; verify predictor behavior before scoring."
+      },
+      "full_map_integrity": "pass",
+      "seconds": 260.5
+    },
+    "EMD-54783_9SDB": {
+      "compressed_bytes": 29818875,
+      "compressed_prefix_match": true,
+      "gzip_ok": true,
+      "header_match": true,
+      "uncompressed_bytes": 32001024,
+      "size_matches_emdb_kb": true,
+      "shape": [
+        200,
+        200,
+        200
+      ],
+      "dtype": "float32",
+      "all_finite": true,
+      "density_min_max": [
+        -0.026695527136325836,
+        0.04843375086784363
+      ],
+      "raw_map_sha256": "0af70ecc00074da03c9963630ff1e8a561c9ee461dc6b5ed88a56febd971c3ad",
+      "coordinates_sha_match": true,
+      "coordinates_file": "9sdb.cif",
+      "fasta_sha_match": true,
+      "canonical": {
+        "source": "/tmp/raw/EMD-54783_9SDB.map",
+        "destination": "/kaggle/working/bench12/EMD-54783_9SDB/canonical.mrc",
+        "source_sha256": "0af70ecc00074da03c9963630ff1e8a561c9ee461dc6b5ed88a56febd971c3ad",
+        "destination_sha256": "00717a0d060977a4572300fa0b27c008ee80c56fe0f4b8b95c70d681af13475a",
+        "source_density_sha256": "8c2ba32df262cf54e8ebab79704e6ba1d5bcaec014a1bba420f39a86039c2f8c",
+        "restored_source_density_sha256": "8c2ba32df262cf54e8ebab79704e6ba1d5bcaec014a1bba420f39a86039c2f8c",
+        "canonical_unpadded_density_sha256": "8c2ba32df262cf54e8ebab79704e6ba1d5bcaec014a1bba420f39a86039c2f8c",
+        "output_preserved_region_sha256": "8c2ba32df262cf54e8ebab79704e6ba1d5bcaec014a1bba420f39a86039c2f8c",
+        "source_dtype": "float32",
+        "source_shape_src": [
+          200,
+          200,
+          200
+        ],
+        "source_axes_crs": [
+          1,
+          2,
+          3
+        ],
+        "source_starts_crs": [
+          0,
+          0,
+          0
+        ],
+        "source_starts_xyz": [
+          0,
+          0,
+          0
+        ],
+        "source_origin_xyz_A": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "origin_policy_requested": "strict",
+        "origin_policy_used": "NSTART_with_zero_ORIGIN",
+        "source_first_voxel_xyz_A": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "voxel_xyz_A": [
+          0.9459999799728394,
+          0.9459999799728394,
+          0.9459999799728394
+        ],
+        "transpose_src_to_zyx": [
+          0,
+          1,
+          2
+        ],
+        "output_shape_zyx": [
+          200,
+          200,
+          200
+        ],
+        "padding_before_zyx": [
+          0,
+          0,
+          0
+        ],
+        "padding_after_zyx": [
+          0,
+          0,
+          0
+        ],
+        "output_origin_xyz_A_requested": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "output_origin_xyz_A_serialized": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "output_voxel_xyz_A_serialized": [
+          0.9459999799728394,
+          0.9459999799728394,
+          0.9459999799728394
+        ],
+        "output_starts_xyz": [
+          0,
+          0,
+          0
+        ],
+        "reference_structure_used": false,
+        "density_interpolated": false,
+        "density_region_bitwise_preserved": true,
+        "inverse_permutation_hash_matches_native": true,
+        "world_coordinate_landmarks_tested": 27,
+        "max_world_position_error_A": 0.0,
+        "world_tolerance_A": 0.0002,
+        "elapsed_s": 0.30673660100001143,
+        "predictor_frame_caution": "Some predictors ignore ORIGIN. Use the recorded first-voxel translation to map predictor-local coordinates back to this physical frame; verify predictor behavior before scoring."
+      },
+      "canonical_cube": {
+        "source": "/tmp/raw/EMD-54783_9SDB.map",
+        "destination": "/kaggle/working/bench12/EMD-54783_9SDB/canonical_cube.mrc",
+        "source_sha256": "0af70ecc00074da03c9963630ff1e8a561c9ee461dc6b5ed88a56febd971c3ad",
+        "destination_sha256": "00717a0d060977a4572300fa0b27c008ee80c56fe0f4b8b95c70d681af13475a",
+        "source_density_sha256": "8c2ba32df262cf54e8ebab79704e6ba1d5bcaec014a1bba420f39a86039c2f8c",
+        "restored_source_density_sha256": "8c2ba32df262cf54e8ebab79704e6ba1d5bcaec014a1bba420f39a86039c2f8c",
+        "canonical_unpadded_density_sha256": "8c2ba32df262cf54e8ebab79704e6ba1d5bcaec014a1bba420f39a86039c2f8c",
+        "output_preserved_region_sha256": "8c2ba32df262cf54e8ebab79704e6ba1d5bcaec014a1bba420f39a86039c2f8c",
+        "source_dtype": "float32",
+        "source_shape_src": [
+          200,
+          200,
+          200
+        ],
+        "source_axes_crs": [
+          1,
+          2,
+          3
+        ],
+        "source_starts_crs": [
+          0,
+          0,
+          0
+        ],
+        "source_starts_xyz": [
+          0,
+          0,
+          0
+        ],
+        "source_origin_xyz_A": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "origin_policy_requested": "strict",
+        "origin_policy_used": "NSTART_with_zero_ORIGIN",
+        "source_first_voxel_xyz_A": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "voxel_xyz_A": [
+          0.9459999799728394,
+          0.9459999799728394,
+          0.9459999799728394
+        ],
+        "transpose_src_to_zyx": [
+          0,
+          1,
+          2
+        ],
+        "output_shape_zyx": [
+          200,
+          200,
+          200
+        ],
+        "padding_before_zyx": [
+          0,
+          0,
+          0
+        ],
+        "padding_after_zyx": [
+          0,
+          0,
+          0
+        ],
+        "output_origin_xyz_A_requested": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "output_origin_xyz_A_serialized": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "output_voxel_xyz_A_serialized": [
+          0.9459999799728394,
+          0.9459999799728394,
+          0.9459999799728394
+        ],
+        "output_starts_xyz": [
+          0,
+          0,
+          0
+        ],
+        "reference_structure_used": false,
+        "density_interpolated": false,
+        "density_region_bitwise_preserved": true,
+        "inverse_permutation_hash_matches_native": true,
+        "world_coordinate_landmarks_tested": 27,
+        "max_world_position_error_A": 0.0,
+        "world_tolerance_A": 0.0002,
+        "elapsed_s": 0.26178828299998713,
+        "predictor_frame_caution": "Some predictors ignore ORIGIN. Use the recorded first-voxel translation to map predictor-local coordinates back to this physical frame; verify predictor behavior before scoring."
+      },
+      "full_map_integrity": "pass",
+      "seconds": 42.7
+    },
+    "EMD-63011_9LE0": {
+      "compressed_bytes": 84386800,
+      "compressed_prefix_match": true,
+      "gzip_ok": true,
+      "header_match": true,
+      "uncompressed_bytes": 95552512,
+      "size_matches_emdb_kb": true,
+      "shape": [
+        288,
+        288,
+        288
+      ],
+      "dtype": "float32",
+      "all_finite": true,
+      "density_min_max": [
+        -0.0017869697185233235,
+        2.0520551204681396
+      ],
+      "raw_map_sha256": "6d0b3753c3a2a7bd3362ec315ed709a622e85b251245f62d5c8f2b2a7a3d22ee",
+      "coordinates_sha_match": true,
+      "coordinates_file": "9le0.cif",
+      "fasta_sha_match": true,
+      "canonical": {
+        "source": "/tmp/raw/EMD-63011_9LE0.map",
+        "destination": "/kaggle/working/bench12/EMD-63011_9LE0/canonical.mrc",
+        "source_sha256": "6d0b3753c3a2a7bd3362ec315ed709a622e85b251245f62d5c8f2b2a7a3d22ee",
+        "destination_sha256": "cef2e3d11ef2394f04c9f8405fd893ef1b937154988568a3e8d950142480a0e6",
+        "source_density_sha256": "03532cd532a7e3fa22a0f82f072d88061f665b09fa191d29fff07cf2b8aeb813",
+        "restored_source_density_sha256": "03532cd532a7e3fa22a0f82f072d88061f665b09fa191d29fff07cf2b8aeb813",
+        "canonical_unpadded_density_sha256": "03532cd532a7e3fa22a0f82f072d88061f665b09fa191d29fff07cf2b8aeb813",
+        "output_preserved_region_sha256": "03532cd532a7e3fa22a0f82f072d88061f665b09fa191d29fff07cf2b8aeb813",
+        "source_dtype": "float32",
+        "source_shape_src": [
+          288,
+          288,
+          288
+        ],
+        "source_axes_crs": [
+          1,
+          2,
+          3
+        ],
+        "source_starts_crs": [
+          0,
+          0,
+          0
+        ],
+        "source_starts_xyz": [
+          0,
+          0,
+          0
+        ],
+        "source_origin_xyz_A": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "origin_policy_requested": "strict",
+        "origin_policy_used": "NSTART_with_zero_ORIGIN",
+        "source_first_voxel_xyz_A": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "voxel_xyz_A": [
+          0.8320000171661377,
+          0.8320000171661377,
+          0.8320000171661377
+        ],
+        "transpose_src_to_zyx": [
+          0,
+          1,
+          2
+        ],
+        "output_shape_zyx": [
+          288,
+          288,
+          288
+        ],
+        "padding_before_zyx": [
+          0,
+          0,
+          0
+        ],
+        "padding_after_zyx": [
+          0,
+          0,
+          0
+        ],
+        "output_origin_xyz_A_requested": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "output_origin_xyz_A_serialized": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "output_voxel_xyz_A_serialized": [
+          0.8320000171661377,
+          0.8320000171661377,
+          0.8320000171661377
+        ],
+        "output_starts_xyz": [
+          0,
+          0,
+          0
+        ],
+        "reference_structure_used": false,
+        "density_interpolated": false,
+        "density_region_bitwise_preserved": true,
+        "inverse_permutation_hash_matches_native": true,
+        "world_coordinate_landmarks_tested": 27,
+        "max_world_position_error_A": 0.0,
+        "world_tolerance_A": 0.0002,
+        "elapsed_s": 1.0924549910000678,
+        "predictor_frame_caution": "Some predictors ignore ORIGIN. Use the recorded first-voxel translation to map predictor-local coordinates back to this physical frame; verify predictor behavior before scoring."
+      },
+      "canonical_cube": {
+        "source": "/tmp/raw/EMD-63011_9LE0.map",
+        "destination": "/kaggle/working/bench12/EMD-63011_9LE0/canonical_cube.mrc",
+        "source_sha256": "6d0b3753c3a2a7bd3362ec315ed709a622e85b251245f62d5c8f2b2a7a3d22ee",
+        "destination_sha256": "ced1938500c167df6d759490fe8286974cffa0e9ff4d815783cfcd62bf85b47e",
+        "source_density_sha256": "03532cd532a7e3fa22a0f82f072d88061f665b09fa191d29fff07cf2b8aeb813",
+        "restored_source_density_sha256": "03532cd532a7e3fa22a0f82f072d88061f665b09fa191d29fff07cf2b8aeb813",
+        "canonical_unpadded_density_sha256": "03532cd532a7e3fa22a0f82f072d88061f665b09fa191d29fff07cf2b8aeb813",
+        "output_preserved_region_sha256": "03532cd532a7e3fa22a0f82f072d88061f665b09fa191d29fff07cf2b8aeb813",
+        "source_dtype": "float32",
+        "source_shape_src": [
+          288,
+          288,
+          288
+        ],
+        "source_axes_crs": [
+          1,
+          2,
+          3
+        ],
+        "source_starts_crs": [
+          0,
+          0,
+          0
+        ],
+        "source_starts_xyz": [
+          0,
+          0,
+          0
+        ],
+        "source_origin_xyz_A": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "origin_policy_requested": "strict",
+        "origin_policy_used": "NSTART_with_zero_ORIGIN",
+        "source_first_voxel_xyz_A": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "voxel_xyz_A": [
+          0.8320000171661377,
+          0.8320000171661377,
+          0.8320000171661377
+        ],
+        "transpose_src_to_zyx": [
+          0,
+          1,
+          2
+        ],
+        "output_shape_zyx": [
+          288,
+          288,
+          288
+        ],
+        "padding_before_zyx": [
+          0,
+          0,
+          0
+        ],
+        "padding_after_zyx": [
+          0,
+          0,
+          0
+        ],
+        "output_origin_xyz_A_requested": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "output_origin_xyz_A_serialized": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "output_voxel_xyz_A_serialized": [
+          0.8320000171661377,
+          0.8320000171661377,
+          0.8320000171661377
+        ],
+        "output_starts_xyz": [
+          0,
+          0,
+          0
+        ],
+        "reference_structure_used": false,
+        "density_interpolated": false,
+        "density_region_bitwise_preserved": true,
+        "inverse_permutation_hash_matches_native": true,
+        "world_coordinate_landmarks_tested": 27,
+        "max_world_position_error_A": 0.0,
+        "world_tolerance_A": 0.0002,
+        "elapsed_s": 1.1037805010000739,
+        "predictor_frame_caution": "Some predictors ignore ORIGIN. Use the recorded first-voxel translation to map predictor-local coordinates back to this physical frame; verify predictor behavior before scoring."
+      },
+      "full_map_integrity": "pass",
+      "seconds": 130.3
+    },
+    "EMD-66010_9WIX": {
+      "compressed_bytes": 66182078,
+      "compressed_prefix_match": true,
+      "gzip_ok": true,
+      "header_match": true,
+      "uncompressed_bytes": 70305024,
+      "size_matches_emdb_kb": true,
+      "shape": [
+        260,
+        260,
+        260
+      ],
+      "dtype": "float32",
+      "all_finite": true,
+      "density_min_max": [
+        -2.4629759788513184,
+        3.8886077404022217
+      ],
+      "raw_map_sha256": "67cc5919bc89f9568490497812c551ac941a220bd9ec9b73f90ddd03e1b7db88",
+      "coordinates_sha_match": true,
+      "coordinates_file": "9wix.cif",
+      "fasta_sha_match": true,
+      "canonical": {
+        "source": "/tmp/raw/EMD-66010_9WIX.map",
+        "destination": "/kaggle/working/bench12/EMD-66010_9WIX/canonical.mrc",
+        "source_sha256": "67cc5919bc89f9568490497812c551ac941a220bd9ec9b73f90ddd03e1b7db88",
+        "destination_sha256": "c4c27894e6437d98e95381677145c0da6700cdb6095049823b038081f9320661",
+        "source_density_sha256": "d419d1d32f6eaac6c259eb4139e6f4537b30bee8ea2b70d84629f854c35b7f50",
+        "restored_source_density_sha256": "d419d1d32f6eaac6c259eb4139e6f4537b30bee8ea2b70d84629f854c35b7f50",
+        "canonical_unpadded_density_sha256": "d419d1d32f6eaac6c259eb4139e6f4537b30bee8ea2b70d84629f854c35b7f50",
+        "output_preserved_region_sha256": "d419d1d32f6eaac6c259eb4139e6f4537b30bee8ea2b70d84629f854c35b7f50",
+        "source_dtype": "float32",
+        "source_shape_src": [
+          260,
+          260,
+          260
+        ],
+        "source_axes_crs": [
+          1,
+          2,
+          3
+        ],
+        "source_starts_crs": [
+          0,
+          0,
+          0
+        ],
+        "source_starts_xyz": [
+          0,
+          0,
+          0
+        ],
+        "source_origin_xyz_A": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "origin_policy_requested": "strict",
+        "origin_policy_used": "NSTART_with_zero_ORIGIN",
+        "source_first_voxel_xyz_A": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "voxel_xyz_A": [
+          0.8220000267028809,
+          0.8220000267028809,
+          0.8220000267028809
+        ],
+        "transpose_src_to_zyx": [
+          0,
+          1,
+          2
+        ],
+        "output_shape_zyx": [
+          260,
+          260,
+          260
+        ],
+        "padding_before_zyx": [
+          0,
+          0,
+          0
+        ],
+        "padding_after_zyx": [
+          0,
+          0,
+          0
+        ],
+        "output_origin_xyz_A_requested": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "output_origin_xyz_A_serialized": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "output_voxel_xyz_A_serialized": [
+          0.8220000267028809,
+          0.8220000267028809,
+          0.8220000267028809
+        ],
+        "output_starts_xyz": [
+          0,
+          0,
+          0
+        ],
+        "reference_structure_used": false,
+        "density_interpolated": false,
+        "density_region_bitwise_preserved": true,
+        "inverse_permutation_hash_matches_native": true,
+        "world_coordinate_landmarks_tested": 27,
+        "max_world_position_error_A": 0.0,
+        "world_tolerance_A": 0.0002,
+        "elapsed_s": 0.800115974999926,
+        "predictor_frame_caution": "Some predictors ignore ORIGIN. Use the recorded first-voxel translation to map predictor-local coordinates back to this physical frame; verify predictor behavior before scoring."
+      },
+      "canonical_cube": {
+        "source": "/tmp/raw/EMD-66010_9WIX.map",
+        "destination": "/kaggle/working/bench12/EMD-66010_9WIX/canonical_cube.mrc",
+        "source_sha256": "67cc5919bc89f9568490497812c551ac941a220bd9ec9b73f90ddd03e1b7db88",
+        "destination_sha256": "88311be02838eef1b3a95b3a72a284b454a92e883a0fbab0721df3b50b39ea30",
+        "source_density_sha256": "d419d1d32f6eaac6c259eb4139e6f4537b30bee8ea2b70d84629f854c35b7f50",
+        "restored_source_density_sha256": "d419d1d32f6eaac6c259eb4139e6f4537b30bee8ea2b70d84629f854c35b7f50",
+        "canonical_unpadded_density_sha256": "d419d1d32f6eaac6c259eb4139e6f4537b30bee8ea2b70d84629f854c35b7f50",
+        "output_preserved_region_sha256": "d419d1d32f6eaac6c259eb4139e6f4537b30bee8ea2b70d84629f854c35b7f50",
+        "source_dtype": "float32",
+        "source_shape_src": [
+          260,
+          260,
+          260
+        ],
+        "source_axes_crs": [
+          1,
+          2,
+          3
+        ],
+        "source_starts_crs": [
+          0,
+          0,
+          0
+        ],
+        "source_starts_xyz": [
+          0,
+          0,
+          0
+        ],
+        "source_origin_xyz_A": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "origin_policy_requested": "strict",
+        "origin_policy_used": "NSTART_with_zero_ORIGIN",
+        "source_first_voxel_xyz_A": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "voxel_xyz_A": [
+          0.8220000267028809,
+          0.8220000267028809,
+          0.8220000267028809
+        ],
+        "transpose_src_to_zyx": [
+          0,
+          1,
+          2
+        ],
+        "output_shape_zyx": [
+          260,
+          260,
+          260
+        ],
+        "padding_before_zyx": [
+          0,
+          0,
+          0
+        ],
+        "padding_after_zyx": [
+          0,
+          0,
+          0
+        ],
+        "output_origin_xyz_A_requested": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "output_origin_xyz_A_serialized": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "output_voxel_xyz_A_serialized": [
+          0.8220000267028809,
+          0.8220000267028809,
+          0.8220000267028809
+        ],
+        "output_starts_xyz": [
+          0,
+          0,
+          0
+        ],
+        "reference_structure_used": false,
+        "density_interpolated": false,
+        "density_region_bitwise_preserved": true,
+        "inverse_permutation_hash_matches_native": true,
+        "world_coordinate_landmarks_tested": 27,
+        "max_world_position_error_A": 0.0,
+        "world_tolerance_A": 0.0002,
+        "elapsed_s": 0.7722208259999661,
+        "predictor_frame_caution": "Some predictors ignore ORIGIN. Use the recorded first-voxel translation to map predictor-local coordinates back to this physical frame; verify predictor behavior before scoring."
+      },
+      "full_map_integrity": "pass",
+      "seconds": 68.0
+    },
+    "EMD-68274_22HP": {
+      "compressed_bytes": 223466464,
+      "compressed_prefix_match": true,
+      "gzip_ok": true,
+      "header_match": true,
+      "uncompressed_bytes": 256001024,
+      "size_matches_emdb_kb": true,
+      "shape": [
+        400,
+        400,
+        400
+      ],
+      "dtype": "float32",
+      "all_finite": true,
+      "density_min_max": [
+        -0.001781557104550302,
+        2.354905843734741
+      ],
+      "raw_map_sha256": "a16ec95cf689ceaa5e48f5375b0e950d59e1dd85ab8ac792f631c0326c99b08d",
+      "coordinates_sha_match": true,
+      "coordinates_file": "22hp.cif",
+      "fasta_sha_match": true,
+      "canonical": {
+        "source": "/tmp/raw/EMD-68274_22HP.map",
+        "destination": "/kaggle/working/bench12/EMD-68274_22HP/canonical.mrc",
+        "source_sha256": "a16ec95cf689ceaa5e48f5375b0e950d59e1dd85ab8ac792f631c0326c99b08d",
+        "destination_sha256": "60908047e04d0fa5257a7097cf8636968518d4c7549125c736a304caca9a49f4",
+        "source_density_sha256": "29111b0ad5eca1ba7826dd301d3ab3fd8fb570e30d109801b1fc051bf21d5882",
+        "restored_source_density_sha256": "29111b0ad5eca1ba7826dd301d3ab3fd8fb570e30d109801b1fc051bf21d5882",
+        "canonical_unpadded_density_sha256": "29111b0ad5eca1ba7826dd301d3ab3fd8fb570e30d109801b1fc051bf21d5882",
+        "output_preserved_region_sha256": "29111b0ad5eca1ba7826dd301d3ab3fd8fb570e30d109801b1fc051bf21d5882",
+        "source_dtype": "float32",
+        "source_shape_src": [
+          400,
+          400,
+          400
+        ],
+        "source_axes_crs": [
+          1,
+          2,
+          3
+        ],
+        "source_starts_crs": [
+          0,
+          0,
+          0
+        ],
+        "source_starts_xyz": [
+          0,
+          0,
+          0
+        ],
+        "source_origin_xyz_A": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "origin_policy_requested": "strict",
+        "origin_policy_used": "NSTART_with_zero_ORIGIN",
+        "source_first_voxel_xyz_A": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "voxel_xyz_A": [
+          0.5799999833106995,
+          0.5799999833106995,
+          0.5799999833106995
+        ],
+        "transpose_src_to_zyx": [
+          0,
+          1,
+          2
+        ],
+        "output_shape_zyx": [
+          400,
+          400,
+          400
+        ],
+        "padding_before_zyx": [
+          0,
+          0,
+          0
+        ],
+        "padding_after_zyx": [
+          0,
+          0,
+          0
+        ],
+        "output_origin_xyz_A_requested": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "output_origin_xyz_A_serialized": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "output_voxel_xyz_A_serialized": [
+          0.5799999833106995,
+          0.5799999833106995,
+          0.5799999833106995
+        ],
+        "output_starts_xyz": [
+          0,
+          0,
+          0
+        ],
+        "reference_structure_used": false,
+        "density_interpolated": false,
+        "density_region_bitwise_preserved": true,
+        "inverse_permutation_hash_matches_native": true,
+        "world_coordinate_landmarks_tested": 27,
+        "max_world_position_error_A": 0.0,
+        "world_tolerance_A": 0.0002,
+        "elapsed_s": 2.856756050000058,
+        "predictor_frame_caution": "Some predictors ignore ORIGIN. Use the recorded first-voxel translation to map predictor-local coordinates back to this physical frame; verify predictor behavior before scoring."
+      },
+      "canonical_cube": {
+        "source": "/tmp/raw/EMD-68274_22HP.map",
+        "destination": "/kaggle/working/bench12/EMD-68274_22HP/canonical_cube.mrc",
+        "source_sha256": "a16ec95cf689ceaa5e48f5375b0e950d59e1dd85ab8ac792f631c0326c99b08d",
+        "destination_sha256": "abc29548cbb0705aefefa027395409567eb18d5478f060cfc7689996b1c0f17a",
+        "source_density_sha256": "29111b0ad5eca1ba7826dd301d3ab3fd8fb570e30d109801b1fc051bf21d5882",
+        "restored_source_density_sha256": "29111b0ad5eca1ba7826dd301d3ab3fd8fb570e30d109801b1fc051bf21d5882",
+        "canonical_unpadded_density_sha256": "29111b0ad5eca1ba7826dd301d3ab3fd8fb570e30d109801b1fc051bf21d5882",
+        "output_preserved_region_sha256": "29111b0ad5eca1ba7826dd301d3ab3fd8fb570e30d109801b1fc051bf21d5882",
+        "source_dtype": "float32",
+        "source_shape_src": [
+          400,
+          400,
+          400
+        ],
+        "source_axes_crs": [
+          1,
+          2,
+          3
+        ],
+        "source_starts_crs": [
+          0,
+          0,
+          0
+        ],
+        "source_starts_xyz": [
+          0,
+          0,
+          0
+        ],
+        "source_origin_xyz_A": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "origin_policy_requested": "strict",
+        "origin_policy_used": "NSTART_with_zero_ORIGIN",
+        "source_first_voxel_xyz_A": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "voxel_xyz_A": [
+          0.5799999833106995,
+          0.5799999833106995,
+          0.5799999833106995
+        ],
+        "transpose_src_to_zyx": [
+          0,
+          1,
+          2
+        ],
+        "output_shape_zyx": [
+          400,
+          400,
+          400
+        ],
+        "padding_before_zyx": [
+          0,
+          0,
+          0
+        ],
+        "padding_after_zyx": [
+          0,
+          0,
+          0
+        ],
+        "output_origin_xyz_A_requested": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "output_origin_xyz_A_serialized": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "output_voxel_xyz_A_serialized": [
+          0.5799999833106995,
+          0.5799999833106995,
+          0.5799999833106995
+        ],
+        "output_starts_xyz": [
+          0,
+          0,
+          0
+        ],
+        "reference_structure_used": false,
+        "density_interpolated": false,
+        "density_region_bitwise_preserved": true,
+        "inverse_permutation_hash_matches_native": true,
+        "world_coordinate_landmarks_tested": 27,
+        "max_world_position_error_A": 0.0,
+        "world_tolerance_A": 0.0002,
+        "elapsed_s": 2.8176066010000795,
+        "predictor_frame_caution": "Some predictors ignore ORIGIN. Use the recorded first-voxel translation to map predictor-local coordinates back to this physical frame; verify predictor behavior before scoring."
+      },
+      "full_map_integrity": "pass",
+      "seconds": 373.9
+    },
+    "EMD-55353_9SYT": {
+      "compressed_bytes": 102134966,
+      "compressed_prefix_match": true,
+      "gzip_ok": true,
+      "header_match": true,
+      "uncompressed_bytes": 108001024,
+      "size_matches_emdb_kb": true,
+      "shape": [
+        300,
+        300,
+        300
+      ],
+      "dtype": "float32",
+      "all_finite": true,
+      "density_min_max": [
+        -0.88069087266922,
+        1.7374879121780396
+      ],
+      "raw_map_sha256": "00d9e6458fad4c6ec1b01e1d654318960af4346455d463efb734df9a8bb6657b",
+      "coordinates_sha_match": true,
+      "coordinates_file": "9syt.cif",
+      "fasta_sha_match": true,
+      "canonical": {
+        "source": "/tmp/raw/EMD-55353_9SYT.map",
+        "destination": "/kaggle/working/bench12/EMD-55353_9SYT/canonical.mrc",
+        "source_sha256": "00d9e6458fad4c6ec1b01e1d654318960af4346455d463efb734df9a8bb6657b",
+        "destination_sha256": "5d8951f7437b1325b5dfcab8eacbaf75b15f2251abde573bb0373b50b28232e1",
+        "source_density_sha256": "a445406f2992fc7fbfaabfa0eb63926ad1ae23a0f8788a245875ff1d9b573b0d",
+        "restored_source_density_sha256": "a445406f2992fc7fbfaabfa0eb63926ad1ae23a0f8788a245875ff1d9b573b0d",
+        "canonical_unpadded_density_sha256": "a445406f2992fc7fbfaabfa0eb63926ad1ae23a0f8788a245875ff1d9b573b0d",
+        "output_preserved_region_sha256": "a445406f2992fc7fbfaabfa0eb63926ad1ae23a0f8788a245875ff1d9b573b0d",
+        "source_dtype": "float32",
+        "source_shape_src": [
+          300,
+          300,
+          300
+        ],
+        "source_axes_crs": [
+          1,
+          2,
+          3
+        ],
+        "source_starts_crs": [
+          0,
+          0,
+          0
+        ],
+        "source_starts_xyz": [
+          0,
+          0,
+          0
+        ],
+        "source_origin_xyz_A": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "origin_policy_requested": "strict",
+        "origin_policy_used": "NSTART_with_zero_ORIGIN",
+        "source_first_voxel_xyz_A": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "voxel_xyz_A": [
+          1.2999999523162842,
+          1.2999999523162842,
+          1.2999999523162842
+        ],
+        "transpose_src_to_zyx": [
+          0,
+          1,
+          2
+        ],
+        "output_shape_zyx": [
+          300,
+          300,
+          300
+        ],
+        "padding_before_zyx": [
+          0,
+          0,
+          0
+        ],
+        "padding_after_zyx": [
+          0,
+          0,
+          0
+        ],
+        "output_origin_xyz_A_requested": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "output_origin_xyz_A_serialized": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "output_voxel_xyz_A_serialized": [
+          1.2999999523162842,
+          1.2999999523162842,
+          1.2999999523162842
+        ],
+        "output_starts_xyz": [
+          0,
+          0,
+          0
+        ],
+        "reference_structure_used": false,
+        "density_interpolated": false,
+        "density_region_bitwise_preserved": true,
+        "inverse_permutation_hash_matches_native": true,
+        "world_coordinate_landmarks_tested": 27,
+        "max_world_position_error_A": 0.0,
+        "world_tolerance_A": 0.0002,
+        "elapsed_s": 1.2199774519999664,
+        "predictor_frame_caution": "Some predictors ignore ORIGIN. Use the recorded first-voxel translation to map predictor-local coordinates back to this physical frame; verify predictor behavior before scoring."
+      },
+      "canonical_cube": {
+        "source": "/tmp/raw/EMD-55353_9SYT.map",
+        "destination": "/kaggle/working/bench12/EMD-55353_9SYT/canonical_cube.mrc",
+        "source_sha256": "00d9e6458fad4c6ec1b01e1d654318960af4346455d463efb734df9a8bb6657b",
+        "destination_sha256": "13c9b8e203f5d14d48c3e8082c5d5a8b7f56c651add689e00e977b9c3772edd1",
+        "source_density_sha256": "a445406f2992fc7fbfaabfa0eb63926ad1ae23a0f8788a245875ff1d9b573b0d",
+        "restored_source_density_sha256": "a445406f2992fc7fbfaabfa0eb63926ad1ae23a0f8788a245875ff1d9b573b0d",
+        "canonical_unpadded_density_sha256": "a445406f2992fc7fbfaabfa0eb63926ad1ae23a0f8788a245875ff1d9b573b0d",
+        "output_preserved_region_sha256": "a445406f2992fc7fbfaabfa0eb63926ad1ae23a0f8788a245875ff1d9b573b0d",
+        "source_dtype": "float32",
+        "source_shape_src": [
+          300,
+          300,
+          300
+        ],
+        "source_axes_crs": [
+          1,
+          2,
+          3
+        ],
+        "source_starts_crs": [
+          0,
+          0,
+          0
+        ],
+        "source_starts_xyz": [
+          0,
+          0,
+          0
+        ],
+        "source_origin_xyz_A": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "origin_policy_requested": "strict",
+        "origin_policy_used": "NSTART_with_zero_ORIGIN",
+        "source_first_voxel_xyz_A": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "voxel_xyz_A": [
+          1.2999999523162842,
+          1.2999999523162842,
+          1.2999999523162842
+        ],
+        "transpose_src_to_zyx": [
+          0,
+          1,
+          2
+        ],
+        "output_shape_zyx": [
+          300,
+          300,
+          300
+        ],
+        "padding_before_zyx": [
+          0,
+          0,
+          0
+        ],
+        "padding_after_zyx": [
+          0,
+          0,
+          0
+        ],
+        "output_origin_xyz_A_requested": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "output_origin_xyz_A_serialized": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "output_voxel_xyz_A_serialized": [
+          1.2999999523162842,
+          1.2999999523162842,
+          1.2999999523162842
+        ],
+        "output_starts_xyz": [
+          0,
+          0,
+          0
+        ],
+        "reference_structure_used": false,
+        "density_interpolated": false,
+        "density_region_bitwise_preserved": true,
+        "inverse_permutation_hash_matches_native": true,
+        "world_coordinate_landmarks_tested": 27,
+        "max_world_position_error_A": 0.0,
+        "world_tolerance_A": 0.0002,
+        "elapsed_s": 1.1846829620001245,
+        "predictor_frame_caution": "Some predictors ignore ORIGIN. Use the recorded first-voxel translation to map predictor-local coordinates back to this physical frame; verify predictor behavior before scoring."
+      },
+      "full_map_integrity": "pass",
+      "seconds": 140.7
+    },
+    "EMD-69851_24VT": {
+      "compressed_bytes": 52200676,
+      "compressed_prefix_match": true,
+      "gzip_ok": true,
+      "header_match": true,
+      "uncompressed_bytes": 55297024,
+      "size_matches_emdb_kb": true,
+      "shape": [
+        240,
+        240,
+        240
+      ],
+      "dtype": "float32",
+      "all_finite": true,
+      "density_min_max": [
+        -3.338778257369995,
+        5.395684242248535
+      ],
+      "raw_map_sha256": "38a1017c87b4b60e27bf945d7c97047b6edb4cd948aff52712c5eb3dd1b1b0c9",
+      "coordinates_sha_match": true,
+      "coordinates_file": "24vt.cif",
+      "fasta_sha_match": true,
+      "canonical": {
+        "source": "/tmp/raw/EMD-69851_24VT.map",
+        "destination": "/kaggle/working/bench12/EMD-69851_24VT/canonical.mrc",
+        "source_sha256": "38a1017c87b4b60e27bf945d7c97047b6edb4cd948aff52712c5eb3dd1b1b0c9",
+        "destination_sha256": "b237b1915b8fe093df03785d1e3d16230ba1b56472b08b2dc82085de5865efa7",
+        "source_density_sha256": "c8de2042610fa4a8cb9081252d8b08fcc2b17a93822f24ad0abe74a65e00fb3c",
+        "restored_source_density_sha256": "c8de2042610fa4a8cb9081252d8b08fcc2b17a93822f24ad0abe74a65e00fb3c",
+        "canonical_unpadded_density_sha256": "c8de2042610fa4a8cb9081252d8b08fcc2b17a93822f24ad0abe74a65e00fb3c",
+        "output_preserved_region_sha256": "c8de2042610fa4a8cb9081252d8b08fcc2b17a93822f24ad0abe74a65e00fb3c",
+        "source_dtype": "float32",
+        "source_shape_src": [
+          240,
+          240,
+          240
+        ],
+        "source_axes_crs": [
+          1,
+          2,
+          3
+        ],
+        "source_starts_crs": [
+          0,
+          0,
+          0
+        ],
+        "source_starts_xyz": [
+          0,
+          0,
+          0
+        ],
+        "source_origin_xyz_A": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "origin_policy_requested": "strict",
+        "origin_policy_used": "NSTART_with_zero_ORIGIN",
+        "source_first_voxel_xyz_A": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "voxel_xyz_A": [
+          1.0870000123977661,
+          1.0870000123977661,
+          1.0870000123977661
+        ],
+        "transpose_src_to_zyx": [
+          0,
+          1,
+          2
+        ],
+        "output_shape_zyx": [
+          240,
+          240,
+          240
+        ],
+        "padding_before_zyx": [
+          0,
+          0,
+          0
+        ],
+        "padding_after_zyx": [
+          0,
+          0,
+          0
+        ],
+        "output_origin_xyz_A_requested": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "output_origin_xyz_A_serialized": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "output_voxel_xyz_A_serialized": [
+          1.0870000123977661,
+          1.0870000123977661,
+          1.0870000123977661
+        ],
+        "output_starts_xyz": [
+          0,
+          0,
+          0
+        ],
+        "reference_structure_used": false,
+        "density_interpolated": false,
+        "density_region_bitwise_preserved": true,
+        "inverse_permutation_hash_matches_native": true,
+        "world_coordinate_landmarks_tested": 27,
+        "max_world_position_error_A": 0.0,
+        "world_tolerance_A": 0.0002,
+        "elapsed_s": 0.6325990349998847,
+        "predictor_frame_caution": "Some predictors ignore ORIGIN. Use the recorded first-voxel translation to map predictor-local coordinates back to this physical frame; verify predictor behavior before scoring."
+      },
+      "canonical_cube": {
+        "source": "/tmp/raw/EMD-69851_24VT.map",
+        "destination": "/kaggle/working/bench12/EMD-69851_24VT/canonical_cube.mrc",
+        "source_sha256": "38a1017c87b4b60e27bf945d7c97047b6edb4cd948aff52712c5eb3dd1b1b0c9",
+        "destination_sha256": "b237b1915b8fe093df03785d1e3d16230ba1b56472b08b2dc82085de5865efa7",
+        "source_density_sha256": "c8de2042610fa4a8cb9081252d8b08fcc2b17a93822f24ad0abe74a65e00fb3c",
+        "restored_source_density_sha256": "c8de2042610fa4a8cb9081252d8b08fcc2b17a93822f24ad0abe74a65e00fb3c",
+        "canonical_unpadded_density_sha256": "c8de2042610fa4a8cb9081252d8b08fcc2b17a93822f24ad0abe74a65e00fb3c",
+        "output_preserved_region_sha256": "c8de2042610fa4a8cb9081252d8b08fcc2b17a93822f24ad0abe74a65e00fb3c",
+        "source_dtype": "float32",
+        "source_shape_src": [
+          240,
+          240,
+          240
+        ],
+        "source_axes_crs": [
+          1,
+          2,
+          3
+        ],
+        "source_starts_crs": [
+          0,
+          0,
+          0
+        ],
+        "source_starts_xyz": [
+          0,
+          0,
+          0
+        ],
+        "source_origin_xyz_A": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "origin_policy_requested": "strict",
+        "origin_policy_used": "NSTART_with_zero_ORIGIN",
+        "source_first_voxel_xyz_A": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "voxel_xyz_A": [
+          1.0870000123977661,
+          1.0870000123977661,
+          1.0870000123977661
+        ],
+        "transpose_src_to_zyx": [
+          0,
+          1,
+          2
+        ],
+        "output_shape_zyx": [
+          240,
+          240,
+          240
+        ],
+        "padding_before_zyx": [
+          0,
+          0,
+          0
+        ],
+        "padding_after_zyx": [
+          0,
+          0,
+          0
+        ],
+        "output_origin_xyz_A_requested": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "output_origin_xyz_A_serialized": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "output_voxel_xyz_A_serialized": [
+          1.0870000123977661,
+          1.0870000123977661,
+          1.0870000123977661
+        ],
+        "output_starts_xyz": [
+          0,
+          0,
+          0
+        ],
+        "reference_structure_used": false,
+        "density_interpolated": false,
+        "density_region_bitwise_preserved": true,
+        "inverse_permutation_hash_matches_native": true,
+        "world_coordinate_landmarks_tested": 27,
+        "max_world_position_error_A": 0.0,
+        "world_tolerance_A": 0.0002,
+        "elapsed_s": 0.6234322539999084,
+        "predictor_frame_caution": "Some predictors ignore ORIGIN. Use the recorded first-voxel translation to map predictor-local coordinates back to this physical frame; verify predictor behavior before scoring."
+      },
+      "full_map_integrity": "pass",
+      "seconds": 54.7
+    },
+    "EMD-71407_9P9D": {
+      "compressed_bytes": 241295823,
+      "compressed_prefix_match": true,
+      "gzip_ok": true,
+      "header_match": true,
+      "uncompressed_bytes": 256001024,
+      "size_matches_emdb_kb": true,
+      "shape": [
+        400,
+        400,
+        400
+      ],
+      "dtype": "float32",
+      "all_finite": true,
+      "density_min_max": [
+        -0.2748963236808777,
+        0.5369157195091248
+      ],
+      "raw_map_sha256": "ea2de0e28223fb46d4751acb217b833ac3161c063d367a2a4fe3ef38bb8348f8",
+      "coordinates_sha_match": true,
+      "coordinates_file": "9p9d.cif",
+      "fasta_sha_match": true,
+      "canonical": {
+        "source": "/tmp/raw/EMD-71407_9P9D.map",
+        "destination": "/kaggle/working/bench12/EMD-71407_9P9D/canonical.mrc",
+        "source_sha256": "ea2de0e28223fb46d4751acb217b833ac3161c063d367a2a4fe3ef38bb8348f8",
+        "destination_sha256": "cc1108f2d4f10e8a5887825fa55a51ccfe7dd7474d07e3fc209476a07a4eb2ee",
+        "source_density_sha256": "bf1bb2e2ecd5d93857964623649e4da5cbab09740ed93851fc88751e597a81bd",
+        "restored_source_density_sha256": "bf1bb2e2ecd5d93857964623649e4da5cbab09740ed93851fc88751e597a81bd",
+        "canonical_unpadded_density_sha256": "bf1bb2e2ecd5d93857964623649e4da5cbab09740ed93851fc88751e597a81bd",
+        "output_preserved_region_sha256": "bf1bb2e2ecd5d93857964623649e4da5cbab09740ed93851fc88751e597a81bd",
+        "source_dtype": "float32",
+        "source_shape_src": [
+          400,
+          400,
+          400
+        ],
+        "source_axes_crs": [
+          1,
+          2,
+          3
+        ],
+        "source_starts_crs": [
+          0,
+          0,
+          0
+        ],
+        "source_starts_xyz": [
+          0,
+          0,
+          0
+        ],
+        "source_origin_xyz_A": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "origin_policy_requested": "strict",
+        "origin_policy_used": "NSTART_with_zero_ORIGIN",
+        "source_first_voxel_xyz_A": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "voxel_xyz_A": [
+          0.9300000071525574,
+          0.9300000071525574,
+          0.9300000071525574
+        ],
+        "transpose_src_to_zyx": [
+          0,
+          1,
+          2
+        ],
+        "output_shape_zyx": [
+          400,
+          400,
+          400
+        ],
+        "padding_before_zyx": [
+          0,
+          0,
+          0
+        ],
+        "padding_after_zyx": [
+          0,
+          0,
+          0
+        ],
+        "output_origin_xyz_A_requested": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "output_origin_xyz_A_serialized": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "output_voxel_xyz_A_serialized": [
+          0.9300000071525574,
+          0.9300000071525574,
+          0.9300000071525574
+        ],
+        "output_starts_xyz": [
+          0,
+          0,
+          0
+        ],
+        "reference_structure_used": false,
+        "density_interpolated": false,
+        "density_region_bitwise_preserved": true,
+        "inverse_permutation_hash_matches_native": true,
+        "world_coordinate_landmarks_tested": 27,
+        "max_world_position_error_A": 0.0,
+        "world_tolerance_A": 0.0002,
+        "elapsed_s": 2.927495043000363,
+        "predictor_frame_caution": "Some predictors ignore ORIGIN. Use the recorded first-voxel translation to map predictor-local coordinates back to this physical frame; verify predictor behavior before scoring."
+      },
+      "canonical_cube": {
+        "source": "/tmp/raw/EMD-71407_9P9D.map",
+        "destination": "/kaggle/working/bench12/EMD-71407_9P9D/canonical_cube.mrc",
+        "source_sha256": "ea2de0e28223fb46d4751acb217b833ac3161c063d367a2a4fe3ef38bb8348f8",
+        "destination_sha256": "31c90e491b8dbb0aba813dff21e2c0930f5f3d4a72bbc1af98eed9a4cf403573",
+        "source_density_sha256": "bf1bb2e2ecd5d93857964623649e4da5cbab09740ed93851fc88751e597a81bd",
+        "restored_source_density_sha256": "bf1bb2e2ecd5d93857964623649e4da5cbab09740ed93851fc88751e597a81bd",
+        "canonical_unpadded_density_sha256": "bf1bb2e2ecd5d93857964623649e4da5cbab09740ed93851fc88751e597a81bd",
+        "output_preserved_region_sha256": "bf1bb2e2ecd5d93857964623649e4da5cbab09740ed93851fc88751e597a81bd",
+        "source_dtype": "float32",
+        "source_shape_src": [
+          400,
+          400,
+          400
+        ],
+        "source_axes_crs": [
+          1,
+          2,
+          3
+        ],
+        "source_starts_crs": [
+          0,
+          0,
+          0
+        ],
+        "source_starts_xyz": [
+          0,
+          0,
+          0
+        ],
+        "source_origin_xyz_A": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "origin_policy_requested": "strict",
+        "origin_policy_used": "NSTART_with_zero_ORIGIN",
+        "source_first_voxel_xyz_A": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "voxel_xyz_A": [
+          0.9300000071525574,
+          0.9300000071525574,
+          0.9300000071525574
+        ],
+        "transpose_src_to_zyx": [
+          0,
+          1,
+          2
+        ],
+        "output_shape_zyx": [
+          400,
+          400,
+          400
+        ],
+        "padding_before_zyx": [
+          0,
+          0,
+          0
+        ],
+        "padding_after_zyx": [
+          0,
+          0,
+          0
+        ],
+        "output_origin_xyz_A_requested": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "output_origin_xyz_A_serialized": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "output_voxel_xyz_A_serialized": [
+          0.9300000071525574,
+          0.9300000071525574,
+          0.9300000071525574
+        ],
+        "output_starts_xyz": [
+          0,
+          0,
+          0
+        ],
+        "reference_structure_used": false,
+        "density_interpolated": false,
+        "density_region_bitwise_preserved": true,
+        "inverse_permutation_hash_matches_native": true,
+        "world_coordinate_landmarks_tested": 27,
+        "max_world_position_error_A": 0.0,
+        "world_tolerance_A": 0.0002,
+        "elapsed_s": 2.956533262999983,
+        "predictor_frame_caution": "Some predictors ignore ORIGIN. Use the recorded first-voxel translation to map predictor-local coordinates back to this physical frame; verify predictor behavior before scoring."
+      },
+      "full_map_integrity": "pass",
+      "seconds": 367.4
+    },
+    "EMD-65920_9WF0": {
+      "compressed_bytes": 815926426,
+      "compressed_prefix_match": true,
+      "gzip_ok": true,
+      "header_match": true,
+      "uncompressed_bytes": 864001024,
+      "size_matches_emdb_kb": true,
+      "shape": [
+        600,
+        600,
+        600
+      ],
+      "dtype": "float32",
+      "all_finite": true,
+      "density_min_max": [
+        -0.15820950269699097,
+        0.22837255895137787
+      ],
+      "raw_map_sha256": "a5b8d6ebacd2f0172c3b6c441821af1f35bc2d1ebe4c39231029155915bb2b0d",
+      "coordinates_sha_match": true,
+      "coordinates_file": "9wf0.cif",
+      "fasta_sha_match": true,
+      "canonical": {
+        "source": "/tmp/raw/EMD-65920_9WF0.map",
+        "destination": "/kaggle/working/bench12/EMD-65920_9WF0/canonical.mrc",
+        "source_sha256": "a5b8d6ebacd2f0172c3b6c441821af1f35bc2d1ebe4c39231029155915bb2b0d",
+        "destination_sha256": "aa5ff7c6ac78dd97ac327138117a7a2110232d16e044465958607b88bbe5cb2b",
+        "source_density_sha256": "b77ba8feedf30959a4024ce086303b24701854bf2f83c311a2b15af0b88c7eff",
+        "restored_source_density_sha256": "b77ba8feedf30959a4024ce086303b24701854bf2f83c311a2b15af0b88c7eff",
+        "canonical_unpadded_density_sha256": "b77ba8feedf30959a4024ce086303b24701854bf2f83c311a2b15af0b88c7eff",
+        "output_preserved_region_sha256": "b77ba8feedf30959a4024ce086303b24701854bf2f83c311a2b15af0b88c7eff",
+        "source_dtype": "float32",
+        "source_shape_src": [
+          600,
+          600,
+          600
+        ],
+        "source_axes_crs": [
+          1,
+          2,
+          3
+        ],
+        "source_starts_crs": [
+          0,
+          0,
+          0
+        ],
+        "source_starts_xyz": [
+          0,
+          0,
+          0
+        ],
+        "source_origin_xyz_A": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "origin_policy_requested": "strict",
+        "origin_policy_used": "NSTART_with_zero_ORIGIN",
+        "source_first_voxel_xyz_A": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "voxel_xyz_A": [
+          0.6330000162124634,
+          0.6330000162124634,
+          0.6330000162124634
+        ],
+        "transpose_src_to_zyx": [
+          0,
+          1,
+          2
+        ],
+        "output_shape_zyx": [
+          600,
+          600,
+          600
+        ],
+        "padding_before_zyx": [
+          0,
+          0,
+          0
+        ],
+        "padding_after_zyx": [
+          0,
+          0,
+          0
+        ],
+        "output_origin_xyz_A_requested": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "output_origin_xyz_A_serialized": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "output_voxel_xyz_A_serialized": [
+          0.6330000162124634,
+          0.6330000162124634,
+          0.6330000162124634
+        ],
+        "output_starts_xyz": [
+          0,
+          0,
+          0
+        ],
+        "reference_structure_used": false,
+        "density_interpolated": false,
+        "density_region_bitwise_preserved": true,
+        "inverse_permutation_hash_matches_native": true,
+        "world_coordinate_landmarks_tested": 27,
+        "max_world_position_error_A": 0.0,
+        "world_tolerance_A": 0.0002,
+        "elapsed_s": 10.271839226999873,
+        "predictor_frame_caution": "Some predictors ignore ORIGIN. Use the recorded first-voxel translation to map predictor-local coordinates back to this physical frame; verify predictor behavior before scoring."
+      },
+      "canonical_cube": {
+        "source": "/tmp/raw/EMD-65920_9WF0.map",
+        "destination": "/kaggle/working/bench12/EMD-65920_9WF0/canonical_cube.mrc",
+        "source_sha256": "a5b8d6ebacd2f0172c3b6c441821af1f35bc2d1ebe4c39231029155915bb2b0d",
+        "destination_sha256": "cca1cf50b81121e7e190e5b07967630b1d4eadcb74dcf5e48a2578c602b66c22",
+        "source_density_sha256": "b77ba8feedf30959a4024ce086303b24701854bf2f83c311a2b15af0b88c7eff",
+        "restored_source_density_sha256": "b77ba8feedf30959a4024ce086303b24701854bf2f83c311a2b15af0b88c7eff",
+        "canonical_unpadded_density_sha256": "b77ba8feedf30959a4024ce086303b24701854bf2f83c311a2b15af0b88c7eff",
+        "output_preserved_region_sha256": "b77ba8feedf30959a4024ce086303b24701854bf2f83c311a2b15af0b88c7eff",
+        "source_dtype": "float32",
+        "source_shape_src": [
+          600,
+          600,
+          600
+        ],
+        "source_axes_crs": [
+          1,
+          2,
+          3
+        ],
+        "source_starts_crs": [
+          0,
+          0,
+          0
+        ],
+        "source_starts_xyz": [
+          0,
+          0,
+          0
+        ],
+        "source_origin_xyz_A": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "origin_policy_requested": "strict",
+        "origin_policy_used": "NSTART_with_zero_ORIGIN",
+        "source_first_voxel_xyz_A": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "voxel_xyz_A": [
+          0.6330000162124634,
+          0.6330000162124634,
+          0.6330000162124634
+        ],
+        "transpose_src_to_zyx": [
+          0,
+          1,
+          2
+        ],
+        "output_shape_zyx": [
+          600,
+          600,
+          600
+        ],
+        "padding_before_zyx": [
+          0,
+          0,
+          0
+        ],
+        "padding_after_zyx": [
+          0,
+          0,
+          0
+        ],
+        "output_origin_xyz_A_requested": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "output_origin_xyz_A_serialized": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "output_voxel_xyz_A_serialized": [
+          0.6330000162124634,
+          0.6330000162124634,
+          0.6330000162124634
+        ],
+        "output_starts_xyz": [
+          0,
+          0,
+          0
+        ],
+        "reference_structure_used": false,
+        "density_interpolated": false,
+        "density_region_bitwise_preserved": true,
+        "inverse_permutation_hash_matches_native": true,
+        "world_coordinate_landmarks_tested": 27,
+        "max_world_position_error_A": 0.0,
+        "world_tolerance_A": 0.0002,
+        "elapsed_s": 13.12377848899996,
+        "predictor_frame_caution": "Some predictors ignore ORIGIN. Use the recorded first-voxel translation to map predictor-local coordinates back to this physical frame; verify predictor behavior before scoring."
+      },
+      "full_map_integrity": "pass",
+      "seconds": 1332.9
+    }
+  }
+}

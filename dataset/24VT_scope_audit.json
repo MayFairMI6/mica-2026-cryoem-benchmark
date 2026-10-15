@@ -1,0 +1,48 @@
+{
+ "map": "/Users/anony/Downloads/MICA_GAIVI_run/benchmark/audit2/24VT_canonical.mrc",
+ "contour": 0.424,
+ "reference_ca": 975,
+ "reference_ca_frac_above_contour": 0.911,
+ "methods": {
+  "MICA": {
+   "pred_ca": 1445,
+   "within_3A_of_reference": 834,
+   "extra_ca": 611,
+   "near_frac_above_contour": 0.941,
+   "extra_frac_above_contour": 0.259,
+   "extra_median_density": 0.322
+  },
+  "EModelX(+AF)": {
+   "pred_ca": 1572,
+   "within_3A_of_reference": 867,
+   "extra_ca": 705,
+   "near_frac_above_contour": 0.965,
+   "extra_frac_above_contour": 0.336,
+   "extra_median_density": 0.371
+  },
+  "ModelAngelo": {
+   "pred_ca": 886,
+   "within_3A_of_reference": 861,
+   "extra_ca": 25,
+   "near_frac_above_contour": 0.986,
+   "extra_frac_above_contour": 0.48,
+   "extra_median_density": 0.421
+  },
+  "CryoAtom": {
+   "pred_ca": 1056,
+   "within_3A_of_reference": 950,
+   "extra_ca": 106,
+   "near_frac_above_contour": 0.949,
+   "extra_frac_above_contour": 0.472,
+   "extra_median_density": 0.414
+  },
+  "EMProt": {
+   "pred_ca": 890,
+   "within_3A_of_reference": 836,
+   "extra_ca": 54,
+   "near_frac_above_contour": 0.987,
+   "extra_frac_above_contour": 0.685,
+   "extra_median_density": 0.484
+  }
+ }
+}

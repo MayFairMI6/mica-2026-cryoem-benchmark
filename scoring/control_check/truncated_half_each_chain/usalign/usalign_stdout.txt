@@ -1,0 +1,26 @@
+
+ ********************************************************************
+ * US-align (Version 20260920)                                      *
+ * Universal Structure Alignment of Proteins and Nucleic Acids      *
+ * Reference: C Zhang, L Freddolino, Y Zhang. (2026) Nat Protoc     *
+ *            C Zhang, M Shine, AM Pyle, Y Zhang. (2022) Nat Methods*
+ *            C Zhang, AM Pyle (2022) iScience.                     *
+ * Please email comments and suggestions to zhanglab@zhanggroup.org *
+ ********************************************************************
+
+Name of Structure_1: /Users/anony/Downloads/MICA_GAIVI_run/scoring/control_check/truncated_half_each_chain/usalign/prediction_CA.cif:C1:C2:C3 (to be superimposed onto Structure_2)
+Name of Structure_2: /Users/anony/Downloads/MICA_GAIVI_run/scoring/control_check/truncated_half_each_chain/usalign/reference_CA.cif:C1:C2:C3
+Length of Structure_1: 541 residues
+Length of Structure_2: 1083 residues
+
+Aligned length= 541, RMSD=   0.00, Seq_ID=n_identical/n_aligned= 1.000
+TM-score= 1.00000 (normalized by length of Structure_1: L=541, d0=8.21)
+TM-score= 0.49954 (normalized by length of Structure_2: L=1083, d0=10.87)
+(You should use TM-score normalized by length of the reference structure)
+
+(":" denotes residue pairs of d < 5.0 Angstrom, "." denotes other aligned residues)
+LFTLRQVGMICERLLKEREEKVREEY--------------------------*PVAQGLKEALVDTLTGILSPVQEVRAAAEEQIKVLEVTEEFGVHLAELTVDPQGALAIRQLASVILKQYVETHWCAQSEKFRPPETTERAKIVIRELLPNGLRESISKVRSSVAYAVSAIAHWDWPEAWPQLFNLLMEMLVSGDLNAVHGAMRVLTEFTREVTDTQMPLVAPVILPEMYKIFTMAEVYGIRTRSRAVEIFTTCAHMICNMEELEKGAAKVLIFPVVQQFTEAFVQALQIPDGPTSDSGFKMEVLKAVTALVKNFPKHMVSSMQQILPIVWNTLTESAAFYVRTEVNYLGFENLVFSIFEFVHALLENSKFKSTVKKALPELIYYIILYMQITEEQIKVWTANPQQFVEDEDDDTFSYTVRIAAQDLLLAVATDFQNESAAALAAAATRHLQEAEQTKNSGTEHWWKIHEACMLALGSVKAIITDSVKFDMHGFLTNVILADLNLSVSPFLLGRALWAASRFTVAMS---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*SPFGDVSSRLTTEQILYNIKQEYKRMLFTLRQVGMICER---------------------------------------*
+::::::::::::::::::::::::::                          *::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             *:::::::::::::::::::::::::::::::::::::::                                       *
+LFTLRQVGMICERLLKEREEKVREEYEEILNTKLAEQYDAFVKFTHDQIMRR*PVAQGLKEALVDTLTGILSPVQEVRAAAEEQIKVLEVTEEFGVHLAELTVDPQGALAIRQLASVILKQYVETHWCAQSEKFRPPETTERAKIVIRELLPNGLRESISKVRSSVAYAVSAIAHWDWPEAWPQLFNLLMEMLVSGDLNAVHGAMRVLTEFTREVTDTQMPLVAPVILPEMYKIFTMAEVYGIRTRSRAVEIFTTCAHMICNMEELEKGAAKVLIFPVVQQFTEAFVQALQIPDGPTSDSGFKMEVLKAVTALVKNFPKHMVSSMQQILPIVWNTLTESAAFYVRTEVNYLGFENLVFSIFEFVHALLENSKFKSTVKKALPELIYYIILYMQITEEQIKVWTANPQQFVEDEDDDTFSYTVRIAAQDLLLAVATDFQNESAAALAAAATRHLQEAEQTKNSGTEHWWKIHEACMLALGSVKAIITDSVKFDMHGFLTNVILADLNLSVSPFLLGRALWAASRFTVAMSPELIQQFLQATVSGLHETQPPSVRISAVRAIWGYCDQLKVSESTHVLQPFLPSILDGLIHLAAQFSSEVLNLVMETLCIVCTVDPEFTASMESKICPFTIAIFLKYSNDPVVASLAQDIFKELSQIEACQGPMQMRLIPTLVSIMQAPADKIPAGLCATAIDILTTVVRNTKPPLSQLLICQAFPAVAQCTLHTDDNATMQNGGECLRAYVSVTLEQVAQWHDEQGHNGLWYVMQVVSQLLDPRTSEFTAAFVGRLVSTLISKAGRELGENLDQILRAILSKMQQAETLSVMQSLIMVFAHLVHTQLEPLLEFLCSLPGPTGKPALEFVMAEWTSRQHLFYGQYEGKVSSVALCKLLQHGINADDKRLQDIRVKGEEIYSMDEGIRTRSKSAKNPERWTNIPLLVKILKLIINELSNVMEANAARQEDDPDALKDPLYQIDLQAYLTDFLCQFAQQPCYIMFSGHLNDNERRVLQTI*SPFGDVSSRLTTEQILYNIKQEYKRMLFTLRQVGMICERLLKEREEKVREEYEEILNTKLAEQYDAFVKFTHDQIMRR*
+
+#Total CPU time is  0.64 seconds

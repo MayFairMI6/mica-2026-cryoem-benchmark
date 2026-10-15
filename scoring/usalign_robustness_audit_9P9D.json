@@ -1,0 +1,154 @@
+[
+ {
+  "set": "MICA",
+  "case": "EMD-71407_9P9D",
+  "recorded": {
+   "tm": 0.65496,
+   "aligned": 1538,
+   "seq_id": 0.933
+  },
+  "plain": {
+   "tm": 0.65496,
+   "aligned": 1538,
+   "seq_id": 0.933
+  },
+  "mapframe": {
+   "tm": 0.65489,
+   "aligned": 1539,
+   "seq_id": 0.936
+  }
+ },
+ {
+  "set": "EModelX(+AF)",
+  "case": "EMD-71407_9P9D",
+  "recorded": {
+   "tm": 0.75774,
+   "aligned": 1791,
+   "seq_id": 0.922
+  },
+  "plain": {
+   "tm": 0.75774,
+   "aligned": 1791,
+   "seq_id": 0.922
+  },
+  "mapframe": {
+   "tm": 0.75799,
+   "aligned": 1791,
+   "seq_id": 0.926
+  }
+ },
+ {
+  "set": "ModelAngelo",
+  "case": "EMD-71407_9P9D",
+  "recorded": {
+   "tm": 0.35748,
+   "aligned": 827,
+   "seq_id": 0.981
+  },
+  "plain": {
+   "tm": 0.35748,
+   "aligned": 827,
+   "seq_id": 0.981
+  },
+  "mapframe": {
+   "tm": 0.35761,
+   "aligned": 827,
+   "seq_id": 0.979
+  }
+ },
+ {
+  "set": "CryoAtom",
+  "case": "EMD-71407_9P9D",
+  "recorded": {
+   "tm": 0.64675,
+   "aligned": 1508,
+   "seq_id": 0.947
+  },
+  "plain": {
+   "tm": 0.64675,
+   "aligned": 1508,
+   "seq_id": 0.947
+  },
+  "mapframe": {
+   "tm": 0.64672,
+   "aligned": 1508,
+   "seq_id": 0.947
+  }
+ },
+ {
+  "set": "EMProt",
+  "case": "EMD-71407_9P9D",
+  "recorded": {
+   "tm": 0.17197,
+   "aligned": 413,
+   "seq_id": 0.896
+  },
+  "plain": {
+   "tm": 0.17504,
+   "aligned": 413,
+   "seq_id": 0.971
+  },
+  "mapframe": {
+   "tm": 0.18095,
+   "aligned": 423,
+   "seq_id": 0.969
+  }
+ },
+ {
+  "set": "MICA_unrefined",
+  "case": "EMD-71407_9P9D",
+  "recorded": {
+   "tm": 0.65535,
+   "aligned": 1539,
+   "seq_id": 0.934
+  },
+  "plain": {
+   "tm": 0.65535,
+   "aligned": 1539,
+   "seq_id": 0.934
+  },
+  "mapframe": {
+   "tm": 0.65523,
+   "aligned": 1539,
+   "seq_id": 0.934
+  }
+ },
+ {
+  "set": "EMProt_raw_single_chain",
+  "case": "EMD-71407_9P9D",
+  "recorded": {
+   "tm": 0.13231,
+   "aligned": 312,
+   "seq_id": 0.936
+  },
+  "plain": {
+   "tm": 0.13231,
+   "aligned": 312,
+   "seq_id": 0.936
+  },
+  "mapframe": {
+   "tm": 0.13245,
+   "aligned": 312,
+   "seq_id": 0.939
+  }
+ },
+ {
+  "set": "EMProt_all_fragments_split",
+  "case": "EMD-71407_9P9D",
+  "recorded": {
+   "tm": 0.18098,
+   "aligned": 423,
+   "seq_id": 0.969
+  },
+  "plain": {
+   "tm": 0.18098,
+   "aligned": 423,
+   "seq_id": 0.969
+  },
+  "mapframe": {
+   "tm": 0.18095,
+   "aligned": 423,
+   "seq_id": 0.969
+  }
+ }
+]

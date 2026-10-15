@@ -1,0 +1,2998 @@
+[
+ {
+  "set": "EMProt_raw_single_chain",
+  "case": "EMD-72881_9YF9",
+  "search": {
+   "tm": 0.08166,
+   "aligned": 633,
+   "seq_id": 0.983
+  },
+  "mapframe": {
+   "tm": 0.08165,
+   "aligned": 633,
+   "seq_id": 0.983
+  }
+ },
+ {
+  "set": "EMProt",
+  "case": "EMD-72881_9YF9",
+  "search": {
+   "tm": 0.33577,
+   "aligned": 2589,
+   "seq_id": 0.963
+  },
+  "mapframe": {
+   "tm": 0.33575,
+   "aligned": 2589,
+   "seq_id": 0.963
+  }
+ },
+ {
+  "set": "EMProt_all_fragments_split",
+  "case": "EMD-72881_9YF9",
+  "search": {
+   "tm": 0.33577,
+   "aligned": 2589,
+   "seq_id": 0.963
+  },
+  "mapframe": {
+   "tm": 0.33575,
+   "aligned": 2589,
+   "seq_id": 0.963
+  }
+ },
+ {
+  "set": "MICA",
+  "case": "EMD-65879_9WCY",
+  "search": {
+   "tm": 0.93422,
+   "aligned": 5259,
+   "seq_id": 0.974
+  },
+  "mapframe": {
+   "tm": 0.93421,
+   "aligned": 5259,
+   "seq_id": 0.974
+  }
+ },
+ {
+  "set": "EModelX(+AF)",
+  "case": "EMD-65879_9WCY",
+  "search": {
+   "tm": 0.93887,
+   "aligned": 5303,
+   "seq_id": 0.982
+  },
+  "mapframe": {
+   "tm": 0.93862,
+   "aligned": 5302,
+   "seq_id": 0.981
+  }
+ },
+ {
+  "set": "CryoAtom",
+  "case": "EMD-72881_9YF9",
+  "search": {
+   "tm": 0.7336,
+   "aligned": 5732,
+   "seq_id": 0.97
+  },
+  "mapframe": {
+   "tm": 0.73347,
+   "aligned": 5732,
+   "seq_id": 0.97
+  }
+ },
+ {
+  "set": "ModelAngelo",
+  "case": "EMD-72881_9YF9",
+  "search": {
+   "tm": 0.64648,
+   "aligned": 5492,
+   "seq_id": 0.93
+  },
+  "mapframe": {
+   "tm": 0.64497,
+   "aligned": 5492,
+   "seq_id": 0.93
+  }
+ },
+ {
+  "set": "ModelAngelo",
+  "case": "EMD-65879_9WCY",
+  "search": {
+   "tm": 0.98137,
+   "aligned": 5514,
+   "seq_id": 0.984
+  },
+  "mapframe": {
+   "tm": 0.98137,
+   "aligned": 5514,
+   "seq_id": 0.984
+  }
+ },
+ {
+  "set": "CryoAtom",
+  "case": "EMD-65879_9WCY",
+  "search": {
+   "tm": 0.89386,
+   "aligned": 5023,
+   "seq_id": 0.987
+  },
+  "mapframe": {
+   "tm": 0.89385,
+   "aligned": 5023,
+   "seq_id": 0.987
+  }
+ },
+ {
+  "set": "EMProt_raw_single_chain",
+  "case": "EMD-65879_9WCY",
+  "search": {
+   "tm": 0.49042,
+   "aligned": 2755,
+   "seq_id": 0.991
+  },
+  "mapframe": {
+   "tm": 0.49042,
+   "aligned": 2755,
+   "seq_id": 0.991
+  }
+ },
+ {
+  "set": "EMProt",
+  "case": "EMD-65879_9WCY",
+  "search": {
+   "tm": 0.80907,
+   "aligned": 4546,
+   "seq_id": 0.99
+  },
+  "mapframe": {
+   "tm": 0.80907,
+   "aligned": 4546,
+   "seq_id": 0.99
+  }
+ },
+ {
+  "set": "EMProt_all_fragments_split",
+  "case": "EMD-65879_9WCY",
+  "search": {
+   "tm": 0.80907,
+   "aligned": 4546,
+   "seq_id": 0.99
+  },
+  "mapframe": {
+   "tm": 0.80907,
+   "aligned": 4546,
+   "seq_id": 0.99
+  }
+ },
+ {
+  "set": "EModelX(+AF)",
+  "case": "EMD-72881_9YF9",
+  "search": {
+   "tm": 0.953,
+   "aligned": 7362,
+   "seq_id": 0.993
+  },
+  "mapframe": {
+   "tm": 0.95253,
+   "aligned": 7362,
+   "seq_id": 0.993
+  }
+ },
+ {
+  "set": "MICA_unrefined",
+  "case": "EMD-65879_9WCY",
+  "search": {
+   "tm": 0.93415,
+   "aligned": 5260,
+   "seq_id": 0.974
+  },
+  "mapframe": {
+   "tm": 0.93407,
+   "aligned": 5260,
+   "seq_id": 0.974
+  }
+ },
+ {
+  "set": "MICA",
+  "case": "EMD-65920_9WF0",
+  "search": {
+   "tm": 0.75068,
+   "aligned": 4103,
+   "seq_id": 0.9
+  },
+  "mapframe": {
+   "tm": 0.75049,
+   "aligned": 4103,
+   "seq_id": 0.9
+  }
+ },
+ {
+  "set": "EMProt",
+  "case": "EMD-65920_9WF0",
+  "search": {
+   "tm": 0.20048,
+   "aligned": 1079,
+   "seq_id": 0.98
+  },
+  "mapframe": {
+   "tm": 0.20451,
+   "aligned": 1094,
+   "seq_id": 0.985
+  }
+ },
+ {
+  "set": "EMProt_raw_single_chain",
+  "case": "EMD-65920_9WF0",
+  "search": {
+   "tm": 0.07075,
+   "aligned": 380,
+   "seq_id": 0.95
+  },
+  "mapframe": {
+   "tm": 0.07095,
+   "aligned": 382,
+   "seq_id": 0.948
+  }
+ },
+ {
+  "set": "MICA",
+  "case": "EMD-72881_9YF9",
+  "search": {
+   "tm": 0.98187,
+   "aligned": 7573,
+   "seq_id": 0.998
+  },
+  "mapframe": {
+   "tm": 0.98182,
+   "aligned": 7573,
+   "seq_id": 0.998
+  }
+ },
+ {
+  "set": "MICA_unrefined",
+  "case": "EMD-72881_9YF9",
+  "search": {
+   "tm": 0.98167,
+   "aligned": 7573,
+   "seq_id": 0.998
+  },
+  "mapframe": {
+   "tm": 0.98136,
+   "aligned": 7573,
+   "seq_id": 0.998
+  }
+ },
+ {
+  "set": "EMProt_all_fragments_split",
+  "case": "EMD-65920_9WF0",
+  "search": {
+   "tm": 0.20048,
+   "aligned": 1079,
+   "seq_id": 0.98
+  },
+  "mapframe": {
+   "tm": 0.20451,
+   "aligned": 1094,
+   "seq_id": 0.985
+  }
+ },
+ {
+  "set": "EModelX(+AF)",
+  "case": "EMD-65920_9WF0",
+  "search": {
+   "tm": 0.83571,
+   "aligned": 4505,
+   "seq_id": 0.963
+  },
+  "mapframe": {
+   "tm": 0.83544,
+   "aligned": 4505,
+   "seq_id": 0.963
+  }
+ },
+ {
+  "set": "ModelAngelo",
+  "case": "EMD-65920_9WF0",
+  "search": {
+   "tm": 0.64537,
+   "aligned": 3447,
+   "seq_id": 0.99
+  },
+  "mapframe": {
+   "tm": 0.64532,
+   "aligned": 3447,
+   "seq_id": 0.99
+  }
+ },
+ {
+  "set": "CryoAtom",
+  "case": "EMD-65920_9WF0",
+  "search": {
+   "tm": 0.60724,
+   "aligned": 3284,
+   "seq_id": 0.916
+  },
+  "mapframe": {
+   "tm": 0.61502,
+   "aligned": 3330,
+   "seq_id": 0.895
+  }
+ },
+ {
+  "set": "EMProt",
+  "case": "EMD-73285_9YP6",
+  "search": {
+   "tm": 0.33656,
+   "aligned": 1484,
+   "seq_id": 0.97
+  },
+  "mapframe": {
+   "tm": 0.33656,
+   "aligned": 1484,
+   "seq_id": 0.97
+  }
+ },
+ {
+  "set": "ModelAngelo",
+  "case": "EMD-73285_9YP6",
+  "search": {
+   "tm": 0.64646,
+   "aligned": 2934,
+   "seq_id": 0.925
+  },
+  "mapframe": {
+   "tm": 0.6464,
+   "aligned": 2934,
+   "seq_id": 0.925
+  }
+ },
+ {
+  "set": "EModelX(+AF)",
+  "case": "EMD-73285_9YP6",
+  "search": {
+   "tm": 0.76855,
+   "aligned": 3526,
+   "seq_id": 0.892
+  },
+  "mapframe": {
+   "tm": 0.76831,
+   "aligned": 3526,
+   "seq_id": 0.892
+  }
+ },
+ {
+  "set": "EMProt_raw_single_chain",
+  "case": "EMD-73285_9YP6",
+  "search": {
+   "tm": 0.15557,
+   "aligned": 695,
+   "seq_id": 0.958
+  },
+  "mapframe": {
+   "tm": 0.15556,
+   "aligned": 695,
+   "seq_id": 0.958
+  }
+ },
+ {
+  "set": "CryoAtom",
+  "case": "EMD-73285_9YP6",
+  "search": {
+   "tm": 0.62459,
+   "aligned": 2778,
+   "seq_id": 0.983
+  },
+  "mapframe": {
+   "tm": 0.62457,
+   "aligned": 2778,
+   "seq_id": 0.983
+  }
+ },
+ {
+  "set": "EMProt_all_fragments_split",
+  "case": "EMD-73285_9YP6",
+  "search": {
+   "tm": 0.33656,
+   "aligned": 1484,
+   "seq_id": 0.97
+  },
+  "mapframe": {
+   "tm": 0.33656,
+   "aligned": 1484,
+   "seq_id": 0.97
+  }
+ },
+ {
+  "set": "MICA",
+  "case": "EMD-73285_9YP6",
+  "search": {
+   "tm": 0.98659,
+   "aligned": 4362,
+   "seq_id": 0.994
+  },
+  "mapframe": {
+   "tm": 0.98655,
+   "aligned": 4362,
+   "seq_id": 0.994
+  }
+ },
+ {
+  "set": "MICA_unrefined",
+  "case": "EMD-65920_9WF0",
+  "search": {
+   "tm": 0.75152,
+   "aligned": 4112,
+   "seq_id": 0.899
+  },
+  "mapframe": {
+   "tm": 0.7512,
+   "aligned": 4112,
+   "seq_id": 0.897
+  }
+ },
+ {
+  "set": "EModelX(+AF)",
+  "case": "EMD-63895_9U62",
+  "search": {
+   "tm": 0.59596,
+   "aligned": 2248,
+   "seq_id": 0.954
+  },
+  "mapframe": {
+   "tm": 0.59584,
+   "aligned": 2248,
+   "seq_id": 0.954
+  }
+ },
+ {
+  "set": "MICA",
+  "case": "EMD-63895_9U62",
+  "search": {
+   "tm": 0.72948,
+   "aligned": 2804,
+   "seq_id": 0.876
+  },
+  "mapframe": {
+   "tm": 0.7292,
+   "aligned": 2803,
+   "seq_id": 0.875
+  }
+ },
+ {
+  "set": "ModelAngelo",
+  "case": "EMD-63895_9U62",
+  "search": {
+   "tm": 0.70229,
+   "aligned": 2627,
+   "seq_id": 0.965
+  },
+  "mapframe": {
+   "tm": 0.70208,
+   "aligned": 2627,
+   "seq_id": 0.965
+  }
+ },
+ {
+  "set": "CryoAtom",
+  "case": "EMD-63895_9U62",
+  "search": {
+   "tm": 0.73963,
+   "aligned": 2760,
+   "seq_id": 0.982
+  },
+  "mapframe": {
+   "tm": 0.73945,
+   "aligned": 2760,
+   "seq_id": 0.982
+  }
+ },
+ {
+  "set": "EMProt",
+  "case": "EMD-63895_9U62",
+  "search": {
+   "tm": 0.6777,
+   "aligned": 2521,
+   "seq_id": 0.99
+  },
+  "mapframe": {
+   "tm": 0.67756,
+   "aligned": 2521,
+   "seq_id": 0.99
+  }
+ },
+ {
+  "set": "EMProt_raw_single_chain",
+  "case": "EMD-63895_9U62",
+  "search": {
+   "tm": 0.45806,
+   "aligned": 1703,
+   "seq_id": 0.992
+  },
+  "mapframe": {
+   "tm": 0.45801,
+   "aligned": 1703,
+   "seq_id": 0.992
+  }
+ },
+ {
+  "set": "ModelAngelo",
+  "case": "EMD-65772_9W9E",
+  "search": {
+   "tm": 0.25898,
+   "aligned": 895,
+   "seq_id": 0.984
+  },
+  "mapframe": {
+   "tm": 0.25894,
+   "aligned": 895,
+   "seq_id": 0.984
+  }
+ },
+ {
+  "set": "CryoAtom",
+  "case": "EMD-65772_9W9E",
+  "search": {
+   "tm": 0.27592,
+   "aligned": 958,
+   "seq_id": 0.983
+  },
+  "mapframe": {
+   "tm": 0.27586,
+   "aligned": 958,
+   "seq_id": 0.983
+  }
+ },
+ {
+  "set": "EMProt",
+  "case": "EMD-65772_9W9E",
+  "search": {
+   "tm": 0.11991,
+   "aligned": 415,
+   "seq_id": 0.981
+  },
+  "mapframe": {
+   "tm": 0.11988,
+   "aligned": 415,
+   "seq_id": 0.981
+  }
+ },
+ {
+  "set": "EMProt_all_fragments_split",
+  "case": "EMD-63895_9U62",
+  "search": {
+   "tm": 0.62732,
+   "aligned": 2334,
+   "seq_id": 0.989
+  },
+  "mapframe": {
+   "tm": 0.62717,
+   "aligned": 2334,
+   "seq_id": 0.989
+  }
+ },
+ {
+  "set": "CryoZeta",
+  "case": "EMD-73285_9YP6",
+  "search": {
+   "tm": 0.99629,
+   "aligned": 4404,
+   "seq_id": 0.997
+  },
+  "mapframe": {
+   "tm": 0.99616,
+   "aligned": 4404,
+   "seq_id": 0.997
+  }
+ },
+ {
+  "set": "MICA",
+  "case": "EMD-65772_9W9E",
+  "search": {
+   "tm": 0.74878,
+   "aligned": 2610,
+   "seq_id": 0.98
+  },
+  "mapframe": {
+   "tm": 0.7486,
+   "aligned": 2610,
+   "seq_id": 0.98
+  }
+ },
+ {
+  "set": "MICA_unrefined",
+  "case": "EMD-63895_9U62",
+  "search": {
+   "tm": 0.72968,
+   "aligned": 2803,
+   "seq_id": 0.868
+  },
+  "mapframe": {
+   "tm": 0.72954,
+   "aligned": 2803,
+   "seq_id": 0.868
+  }
+ },
+ {
+  "set": "MICA_unrefined",
+  "case": "EMD-73285_9YP6",
+  "search": {
+   "tm": 0.98659,
+   "aligned": 4362,
+   "seq_id": 0.995
+  },
+  "mapframe": {
+   "tm": 0.98646,
+   "aligned": 4362,
+   "seq_id": 0.995
+  }
+ },
+ {
+  "set": "EMProt_all_fragments_split",
+  "case": "EMD-65772_9W9E",
+  "search": {
+   "tm": 0.11991,
+   "aligned": 415,
+   "seq_id": 0.981
+  },
+  "mapframe": {
+   "tm": 0.11988,
+   "aligned": 415,
+   "seq_id": 0.981
+  }
+ },
+ {
+  "set": "EMProt_raw_single_chain",
+  "case": "EMD-65772_9W9E",
+  "search": {
+   "tm": 0.10416,
+   "aligned": 372,
+   "seq_id": 0.868
+  },
+  "mapframe": {
+   "tm": 0.12242,
+   "aligned": 428,
+   "seq_id": 0.953
+  }
+ },
+ {
+  "set": "EModelX(+AF)",
+  "case": "EMD-65772_9W9E",
+  "search": {
+   "tm": 0.66283,
+   "aligned": 2377,
+   "seq_id": 0.902
+  },
+  "mapframe": {
+   "tm": 0.66214,
+   "aligned": 2377,
+   "seq_id": 0.902
+  }
+ },
+ {
+  "set": "ModelAngelo",
+  "case": "EMD-72927_9YGJ",
+  "search": {
+   "tm": 0.573,
+   "aligned": 1771,
+   "seq_id": 0.989
+  },
+  "mapframe": {
+   "tm": 0.573,
+   "aligned": 1771,
+   "seq_id": 0.989
+  }
+ },
+ {
+  "set": "CryoAtom",
+  "case": "EMD-72927_9YGJ",
+  "search": {
+   "tm": 0.58658,
+   "aligned": 1815,
+   "seq_id": 0.988
+  },
+  "mapframe": {
+   "tm": 0.58658,
+   "aligned": 1815,
+   "seq_id": 0.988
+  }
+ },
+ {
+  "set": "MICA_unrefined",
+  "case": "EMD-65772_9W9E",
+  "search": {
+   "tm": 0.74882,
+   "aligned": 2610,
+   "seq_id": 0.98
+  },
+  "mapframe": {
+   "tm": 0.74857,
+   "aligned": 2610,
+   "seq_id": 0.98
+  }
+ },
+ {
+  "set": "EModelX(+AF)",
+  "case": "EMD-72927_9YGJ",
+  "search": {
+   "tm": 0.69009,
+   "aligned": 2187,
+   "seq_id": 0.921
+  },
+  "mapframe": {
+   "tm": 0.69006,
+   "aligned": 2187,
+   "seq_id": 0.921
+  }
+ },
+ {
+  "set": "EMProt",
+  "case": "EMD-72927_9YGJ",
+  "search": {
+   "tm": 0.79473,
+   "aligned": 2457,
+   "seq_id": 0.996
+  },
+  "mapframe": {
+   "tm": 0.79473,
+   "aligned": 2457,
+   "seq_id": 0.996
+  }
+ },
+ {
+  "set": "EMProt_all_fragments_split",
+  "case": "EMD-72927_9YGJ",
+  "search": {
+   "tm": 0.2915,
+   "aligned": 902,
+   "seq_id": 0.998
+  },
+  "mapframe": {
+   "tm": 0.29149,
+   "aligned": 902,
+   "seq_id": 0.998
+  }
+ },
+ {
+  "set": "CryoZeta",
+  "case": "EMD-65772_9W9E",
+  "search": {
+   "tm": 0.65565,
+   "aligned": 2333,
+   "seq_id": 0.996
+  },
+  "mapframe": {
+   "tm": 0.65501,
+   "aligned": 2333,
+   "seq_id": 0.996
+  }
+ },
+ {
+  "set": "MICA",
+  "case": "EMD-72927_9YGJ",
+  "search": {
+   "tm": 0.87151,
+   "aligned": 2728,
+   "seq_id": 0.964
+  },
+  "mapframe": {
+   "tm": 0.87137,
+   "aligned": 2727,
+   "seq_id": 0.964
+  }
+ },
+ {
+  "set": "EMProt_raw_single_chain",
+  "case": "EMD-72927_9YGJ",
+  "search": {
+   "tm": 0.79473,
+   "aligned": 2457,
+   "seq_id": 0.996
+  },
+  "mapframe": {
+   "tm": 0.79473,
+   "aligned": 2457,
+   "seq_id": 0.996
+  }
+ },
+ {
+  "set": "MICA_unrefined",
+  "case": "EMD-72927_9YGJ",
+  "search": {
+   "tm": 0.8724,
+   "aligned": 2732,
+   "seq_id": 0.964
+  },
+  "mapframe": {
+   "tm": 0.87238,
+   "aligned": 2732,
+   "seq_id": 0.964
+  }
+ },
+ {
+  "set": "ModelAngelo",
+  "case": "EMD-54029_9RL3",
+  "search": {
+   "tm": 0.93598,
+   "aligned": 2792,
+   "seq_id": 0.989
+  },
+  "mapframe": {
+   "tm": 0.93598,
+   "aligned": 2792,
+   "seq_id": 0.989
+  }
+ },
+ {
+  "set": "EModelX(+AF)",
+  "case": "EMD-54029_9RL3",
+  "search": {
+   "tm": 0.94268,
+   "aligned": 2819,
+   "seq_id": 0.995
+  },
+  "mapframe": {
+   "tm": 0.94266,
+   "aligned": 2819,
+   "seq_id": 0.995
+  }
+ },
+ {
+  "set": "MICA",
+  "case": "EMD-54029_9RL3",
+  "search": {
+   "tm": 0.94128,
+   "aligned": 2820,
+   "seq_id": 0.985
+  },
+  "mapframe": {
+   "tm": 0.94127,
+   "aligned": 2820,
+   "seq_id": 0.985
+  }
+ },
+ {
+  "set": "EMProt",
+  "case": "EMD-54029_9RL3",
+  "search": {
+   "tm": 0.89378,
+   "aligned": 2666,
+   "seq_id": 0.979
+  },
+  "mapframe": {
+   "tm": 0.89378,
+   "aligned": 2666,
+   "seq_id": 0.979
+  }
+ },
+ {
+  "set": "CryoAtom",
+  "case": "EMD-54029_9RL3",
+  "search": {
+   "tm": 0.93938,
+   "aligned": 2806,
+   "seq_id": 0.991
+  },
+  "mapframe": {
+   "tm": 0.93938,
+   "aligned": 2806,
+   "seq_id": 0.991
+  }
+ },
+ {
+  "set": "ModelAngelo",
+  "case": "EMD-55353_9SYT",
+  "search": {
+   "tm": 0.57988,
+   "aligned": 1463,
+   "seq_id": 0.921
+  },
+  "mapframe": {
+   "tm": 0.57984,
+   "aligned": 1463,
+   "seq_id": 0.921
+  }
+ },
+ {
+  "set": "MICA_unrefined",
+  "case": "EMD-54029_9RL3",
+  "search": {
+   "tm": 0.94102,
+   "aligned": 2819,
+   "seq_id": 0.985
+  },
+  "mapframe": {
+   "tm": 0.94101,
+   "aligned": 2819,
+   "seq_id": 0.985
+  }
+ },
+ {
+  "set": "EMProt",
+  "case": "EMD-55353_9SYT",
+  "search": {
+   "tm": 0.34563,
+   "aligned": 874,
+   "seq_id": 0.902
+  },
+  "mapframe": {
+   "tm": 0.3456,
+   "aligned": 874,
+   "seq_id": 0.902
+  }
+ },
+ {
+  "set": "EMProt_all_fragments_split",
+  "case": "EMD-54029_9RL3",
+  "search": {
+   "tm": 0.70076,
+   "aligned": 2090,
+   "seq_id": 0.974
+  },
+  "mapframe": {
+   "tm": 0.70076,
+   "aligned": 2090,
+   "seq_id": 0.974
+  }
+ },
+ {
+  "set": "EMProt_raw_single_chain",
+  "case": "EMD-54029_9RL3",
+  "search": {
+   "tm": 0.89378,
+   "aligned": 2666,
+   "seq_id": 0.979
+  },
+  "mapframe": {
+   "tm": 0.89378,
+   "aligned": 2666,
+   "seq_id": 0.979
+  }
+ },
+ {
+  "set": "CryoAtom",
+  "case": "EMD-55353_9SYT",
+  "search": {
+   "tm": 0.53761,
+   "aligned": 1364,
+   "seq_id": 0.921
+  },
+  "mapframe": {
+   "tm": 0.53358,
+   "aligned": 1347,
+   "seq_id": 0.931
+  }
+ },
+ {
+  "set": "EMProt_raw_single_chain",
+  "case": "EMD-55353_9SYT",
+  "search": {
+   "tm": 0.31103,
+   "aligned": 794,
+   "seq_id": 0.89
+  },
+  "mapframe": {
+   "tm": 0.31101,
+   "aligned": 794,
+   "seq_id": 0.89
+  }
+ },
+ {
+  "set": "EMProt_all_fragments_split",
+  "case": "EMD-55353_9SYT",
+  "search": {
+   "tm": 0.34563,
+   "aligned": 874,
+   "seq_id": 0.902
+  },
+  "mapframe": {
+   "tm": 0.3456,
+   "aligned": 874,
+   "seq_id": 0.902
+  }
+ },
+ {
+  "set": "ModelAngelo",
+  "case": "EMD-71407_9P9D",
+  "search": {
+   "tm": 0.35748,
+   "aligned": 827,
+   "seq_id": 0.981
+  },
+  "mapframe": {
+   "tm": 0.35761,
+   "aligned": 827,
+   "seq_id": 0.979
+  }
+ },
+ {
+  "set": "EMProt",
+  "case": "EMD-71407_9P9D",
+  "search": {
+   "tm": 0.18098,
+   "aligned": 423,
+   "seq_id": 0.969
+  },
+  "mapframe": {
+   "tm": 0.18095,
+   "aligned": 423,
+   "seq_id": 0.969
+  }
+ },
+ {
+  "set": "EModelX(+AF)",
+  "case": "EMD-55353_9SYT",
+  "search": {
+   "tm": 0.89551,
+   "aligned": 2289,
+   "seq_id": 0.941
+  },
+  "mapframe": {
+   "tm": 0.89501,
+   "aligned": 2289,
+   "seq_id": 0.941
+  }
+ },
+ {
+  "set": "EMProt_raw_single_chain",
+  "case": "EMD-71407_9P9D",
+  "search": {
+   "tm": 0.13231,
+   "aligned": 312,
+   "seq_id": 0.936
+  },
+  "mapframe": {
+   "tm": 0.13245,
+   "aligned": 312,
+   "seq_id": 0.939
+  }
+ },
+ {
+  "set": "MICA",
+  "case": "EMD-55353_9SYT",
+  "search": {
+   "tm": 0.91368,
+   "aligned": 2329,
+   "seq_id": 0.948
+  },
+  "mapframe": {
+   "tm": 0.91358,
+   "aligned": 2329,
+   "seq_id": 0.948
+  }
+ },
+ {
+  "set": "EMProt_all_fragments_split",
+  "case": "EMD-71407_9P9D",
+  "search": {
+   "tm": 0.18098,
+   "aligned": 423,
+   "seq_id": 0.969
+  },
+  "mapframe": {
+   "tm": 0.18095,
+   "aligned": 423,
+   "seq_id": 0.969
+  }
+ },
+ {
+  "set": "CryoAtom",
+  "case": "EMD-71407_9P9D",
+  "search": {
+   "tm": 0.64675,
+   "aligned": 1508,
+   "seq_id": 0.947
+  },
+  "mapframe": {
+   "tm": 0.64672,
+   "aligned": 1508,
+   "seq_id": 0.947
+  }
+ },
+ {
+  "set": "MICA",
+  "case": "EMD-71407_9P9D",
+  "search": {
+   "tm": 0.65496,
+   "aligned": 1538,
+   "seq_id": 0.933
+  },
+  "mapframe": {
+   "tm": 0.65489,
+   "aligned": 1539,
+   "seq_id": 0.936
+  }
+ },
+ {
+  "set": "EModelX(+AF)",
+  "case": "EMD-71407_9P9D",
+  "search": {
+   "tm": 0.75774,
+   "aligned": 1791,
+   "seq_id": 0.922
+  },
+  "mapframe": {
+   "tm": 0.75799,
+   "aligned": 1791,
+   "seq_id": 0.926
+  }
+ },
+ {
+  "set": "MICA_unrefined",
+  "case": "EMD-71407_9P9D",
+  "search": {
+   "tm": 0.65535,
+   "aligned": 1539,
+   "seq_id": 0.934
+  },
+  "mapframe": {
+   "tm": 0.65523,
+   "aligned": 1539,
+   "seq_id": 0.934
+  }
+ },
+ {
+  "set": "MICA_unrefined",
+  "case": "EMD-55353_9SYT",
+  "search": {
+   "tm": 0.91357,
+   "aligned": 2328,
+   "seq_id": 0.943
+  },
+  "mapframe": {
+   "tm": 0.91341,
+   "aligned": 2328,
+   "seq_id": 0.943
+  }
+ },
+ {
+  "set": "EMProt_raw_single_chain",
+  "case": "EMD-73885_9Z81",
+  "search": {
+   "tm": 0.0816,
+   "aligned": 188,
+   "seq_id": 0.984
+  },
+  "mapframe": {
+   "tm": 0.08159,
+   "aligned": 188,
+   "seq_id": 0.984
+  }
+ },
+ {
+  "set": "EMProt",
+  "case": "EMD-73885_9Z81",
+  "search": {
+   "tm": 0.52474,
+   "aligned": 1197,
+   "seq_id": 1.0
+  },
+  "mapframe": {
+   "tm": 0.52474,
+   "aligned": 1197,
+   "seq_id": 1.0
+  }
+ },
+ {
+  "set": "CryoAtom",
+  "case": "EMD-73885_9Z81",
+  "search": {
+   "tm": 0.5795,
+   "aligned": 1372,
+   "seq_id": 0.93
+  },
+  "mapframe": {
+   "tm": 0.5795,
+   "aligned": 1372,
+   "seq_id": 0.93
+  }
+ },
+ {
+  "set": "ModelAngelo",
+  "case": "EMD-73885_9Z81",
+  "search": {
+   "tm": 0.61278,
+   "aligned": 1449,
+   "seq_id": 0.934
+  },
+  "mapframe": {
+   "tm": 0.61278,
+   "aligned": 1449,
+   "seq_id": 0.934
+  }
+ },
+ {
+  "set": "EMProt_all_fragments_split",
+  "case": "EMD-73885_9Z81",
+  "search": {
+   "tm": 0.52474,
+   "aligned": 1197,
+   "seq_id": 1.0
+  },
+  "mapframe": {
+   "tm": 0.52474,
+   "aligned": 1197,
+   "seq_id": 1.0
+  }
+ },
+ {
+  "set": "EModelX(+AF)",
+  "case": "EMD-47973_9EFH",
+  "search": {
+   "tm": 0.25263,
+   "aligned": 558,
+   "seq_id": 0.907
+  },
+  "mapframe": {
+   "tm": 0.2525,
+   "aligned": 558,
+   "seq_id": 0.907
+  }
+ },
+ {
+  "set": "EModelX(+AF)",
+  "case": "EMD-73885_9Z81",
+  "search": {
+   "tm": 0.95965,
+   "aligned": 2218,
+   "seq_id": 0.933
+  },
+  "mapframe": {
+   "tm": 0.95911,
+   "aligned": 2218,
+   "seq_id": 0.933
+  }
+ },
+ {
+  "set": "MICA",
+  "case": "EMD-73885_9Z81",
+  "search": {
+   "tm": 0.98971,
+   "aligned": 2267,
+   "seq_id": 0.989
+  },
+  "mapframe": {
+   "tm": 0.9897,
+   "aligned": 2267,
+   "seq_id": 0.989
+  }
+ },
+ {
+  "set": "EMProt",
+  "case": "EMD-47973_9EFH",
+  "search": {
+   "tm": 0.34018,
+   "aligned": 728,
+   "seq_id": 0.99
+  },
+  "mapframe": {
+   "tm": 0.34017,
+   "aligned": 728,
+   "seq_id": 0.99
+  }
+ },
+ {
+  "set": "EMProt_raw_single_chain",
+  "case": "EMD-47973_9EFH",
+  "search": {
+   "tm": 0.32117,
+   "aligned": 693,
+   "seq_id": 0.971
+  },
+  "mapframe": {
+   "tm": 0.32104,
+   "aligned": 693,
+   "seq_id": 0.974
+  }
+ },
+ {
+  "set": "MICA_unrefined",
+  "case": "EMD-73885_9Z81",
+  "search": {
+   "tm": 0.98978,
+   "aligned": 2266,
+   "seq_id": 0.991
+  },
+  "mapframe": {
+   "tm": 0.9896,
+   "aligned": 2266,
+   "seq_id": 0.991
+  }
+ },
+ {
+  "set": "MICA",
+  "case": "EMD-47973_9EFH",
+  "search": {
+   "tm": 0.63261,
+   "aligned": 1466,
+   "seq_id": 0.827
+  },
+  "mapframe": {
+   "tm": 0.63355,
+   "aligned": 1469,
+   "seq_id": 0.826
+  }
+ },
+ {
+  "set": "EMProt_all_fragments_split",
+  "case": "EMD-47973_9EFH",
+  "search": {
+   "tm": 0.34018,
+   "aligned": 728,
+   "seq_id": 0.99
+  },
+  "mapframe": {
+   "tm": 0.34017,
+   "aligned": 728,
+   "seq_id": 0.99
+  }
+ },
+ {
+  "set": "ModelAngelo",
+  "case": "EMD-47901_9EC7",
+  "search": {
+   "tm": 0.2068,
+   "aligned": 402,
+   "seq_id": 0.955
+  },
+  "mapframe": {
+   "tm": 0.20678,
+   "aligned": 402,
+   "seq_id": 0.955
+  }
+ },
+ {
+  "set": "ModelAngelo",
+  "case": "EMD-47973_9EFH",
+  "search": {
+   "tm": 0.65383,
+   "aligned": 1568,
+   "seq_id": 0.757
+  },
+  "mapframe": {
+   "tm": 0.65179,
+   "aligned": 1561,
+   "seq_id": 0.76
+  }
+ },
+ {
+  "set": "CryoAtom",
+  "case": "EMD-47973_9EFH",
+  "search": {
+   "tm": 0.71642,
+   "aligned": 1599,
+   "seq_id": 0.909
+  },
+  "mapframe": {
+   "tm": 0.71626,
+   "aligned": 1599,
+   "seq_id": 0.909
+  }
+ },
+ {
+  "set": "CryoAtom",
+  "case": "EMD-47901_9EC7",
+  "search": {
+   "tm": 0.47181,
+   "aligned": 920,
+   "seq_id": 0.909
+  },
+  "mapframe": {
+   "tm": 0.4718,
+   "aligned": 920,
+   "seq_id": 0.909
+  }
+ },
+ {
+  "set": "EMProt",
+  "case": "EMD-47901_9EC7",
+  "search": {
+   "tm": 0.12332,
+   "aligned": 242,
+   "seq_id": 0.86
+  },
+  "mapframe": {
+   "tm": 0.12328,
+   "aligned": 242,
+   "seq_id": 0.86
+  }
+ },
+ {
+  "set": "MICA",
+  "case": "EMD-47901_9EC7",
+  "search": {
+   "tm": 0.52237,
+   "aligned": 1041,
+   "seq_id": 0.919
+  },
+  "mapframe": {
+   "tm": 0.52226,
+   "aligned": 1041,
+   "seq_id": 0.919
+  }
+ },
+ {
+  "set": "MICA_unrefined",
+  "case": "EMD-47973_9EFH",
+  "search": {
+   "tm": 0.63334,
+   "aligned": 1468,
+   "seq_id": 0.826
+  },
+  "mapframe": {
+   "tm": 0.63317,
+   "aligned": 1468,
+   "seq_id": 0.826
+  }
+ },
+ {
+  "set": "EMProt_raw_single_chain",
+  "case": "EMD-47901_9EC7",
+  "search": {
+   "tm": 0.07973,
+   "aligned": 159,
+   "seq_id": 0.78
+  },
+  "mapframe": {
+   "tm": 0.08608,
+   "aligned": 169,
+   "seq_id": 0.757
+  }
+ },
+ {
+  "set": "EMProt_all_fragments_split",
+  "case": "EMD-47901_9EC7",
+  "search": {
+   "tm": 0.12332,
+   "aligned": 242,
+   "seq_id": 0.86
+  },
+  "mapframe": {
+   "tm": 0.12328,
+   "aligned": 242,
+   "seq_id": 0.855
+  }
+ },
+ {
+  "set": "MICA_unrefined",
+  "case": "EMD-47901_9EC7",
+  "search": {
+   "tm": 0.5234,
+   "aligned": 1043,
+   "seq_id": 0.919
+  },
+  "mapframe": {
+   "tm": 0.52349,
+   "aligned": 1044,
+   "seq_id": 0.919
+  }
+ },
+ {
+  "set": "CryoZeta",
+  "case": "EMD-47973_9EFH",
+  "search": {
+   "tm": 0.67309,
+   "aligned": 1529,
+   "seq_id": 0.89
+  },
+  "mapframe": {
+   "tm": 0.6728,
+   "aligned": 1529,
+   "seq_id": 0.891
+  }
+ },
+ {
+  "set": "EModelX(+AF)",
+  "case": "EMD-47901_9EC7",
+  "search": {
+   "tm": 0.73197,
+   "aligned": 1458,
+   "seq_id": 0.922
+  },
+  "mapframe": {
+   "tm": 0.73143,
+   "aligned": 1458,
+   "seq_id": 0.922
+  }
+ },
+ {
+  "set": "ModelAngelo",
+  "case": "EMD-71089_9P0O",
+  "search": {
+   "tm": 0.70787,
+   "aligned": 1321,
+   "seq_id": 0.993
+  },
+  "mapframe": {
+   "tm": 0.70975,
+   "aligned": 1321,
+   "seq_id": 0.992
+  }
+ },
+ {
+  "set": "EMProt_raw_single_chain",
+  "case": "EMD-71089_9P0O",
+  "search": {
+   "tm": 0.13174,
+   "aligned": 246,
+   "seq_id": 0.996
+  },
+  "mapframe": {
+   "tm": 0.132,
+   "aligned": 246,
+   "seq_id": 0.992
+  }
+ },
+ {
+  "set": "EMProt",
+  "case": "EMD-71089_9P0O",
+  "search": {
+   "tm": 0.58538,
+   "aligned": 1091,
+   "seq_id": 0.991
+  },
+  "mapframe": {
+   "tm": 0.5869,
+   "aligned": 1091,
+   "seq_id": 0.991
+  }
+ },
+ {
+  "set": "MICA",
+  "case": "EMD-71089_9P0O",
+  "search": {
+   "tm": 0.92715,
+   "aligned": 1747,
+   "seq_id": 0.957
+  },
+  "mapframe": {
+   "tm": 0.9293,
+   "aligned": 1746,
+   "seq_id": 0.963
+  }
+ },
+ {
+  "set": "CryoAtom",
+  "case": "EMD-71089_9P0O",
+  "search": {
+   "tm": 0.91166,
+   "aligned": 1699,
+   "seq_id": 0.999
+  },
+  "mapframe": {
+   "tm": 0.91221,
+   "aligned": 1699,
+   "seq_id": 0.999
+  }
+ },
+ {
+  "set": "EMProt_all_fragments_split",
+  "case": "EMD-71089_9P0O",
+  "search": {
+   "tm": 0.58538,
+   "aligned": 1091,
+   "seq_id": 0.991
+  },
+  "mapframe": {
+   "tm": 0.5869,
+   "aligned": 1091,
+   "seq_id": 0.991
+  }
+ },
+ {
+  "set": "EModelX(+AF)",
+  "case": "EMD-71089_9P0O",
+  "search": {
+   "tm": 0.97447,
+   "aligned": 1826,
+   "seq_id": 0.98
+  },
+  "mapframe": {
+   "tm": 0.97438,
+   "aligned": 1826,
+   "seq_id": 0.98
+  }
+ },
+ {
+  "set": "ModelAngelo",
+  "case": "EMD-74910_9ZWK",
+  "search": {
+   "tm": 0.61889,
+   "aligned": 899,
+   "seq_id": 1.0
+  },
+  "mapframe": {
+   "tm": 0.61889,
+   "aligned": 899,
+   "seq_id": 1.0
+  }
+ },
+ {
+  "set": "MICA",
+  "case": "EMD-74910_9ZWK",
+  "search": {
+   "tm": 0.81373,
+   "aligned": 1208,
+   "seq_id": 0.928
+  },
+  "mapframe": {
+   "tm": 0.81366,
+   "aligned": 1208,
+   "seq_id": 0.928
+  }
+ },
+ {
+  "set": "CryoAtom",
+  "case": "EMD-74910_9ZWK",
+  "search": {
+   "tm": 0.65399,
+   "aligned": 951,
+   "seq_id": 1.0
+  },
+  "mapframe": {
+   "tm": 0.65398,
+   "aligned": 951,
+   "seq_id": 1.0
+  }
+ },
+ {
+  "set": "EMProt",
+  "case": "EMD-74910_9ZWK",
+  "search": {
+   "tm": 0.72694,
+   "aligned": 1056,
+   "seq_id": 1.0
+  },
+  "mapframe": {
+   "tm": 0.72694,
+   "aligned": 1056,
+   "seq_id": 1.0
+  }
+ },
+ {
+  "set": "EMProt_all_fragments_split",
+  "case": "EMD-74910_9ZWK",
+  "search": {
+   "tm": 0.45504,
+   "aligned": 661,
+   "seq_id": 1.0
+  },
+  "mapframe": {
+   "tm": 0.45504,
+   "aligned": 661,
+   "seq_id": 1.0
+  }
+ },
+ {
+  "set": "EModelX(+AF)",
+  "case": "EMD-74910_9ZWK",
+  "search": {
+   "tm": 0.78581,
+   "aligned": 1161,
+   "seq_id": 0.969
+  },
+  "mapframe": {
+   "tm": 0.78588,
+   "aligned": 1162,
+   "seq_id": 0.969
+  }
+ },
+ {
+  "set": "MICA_unrefined",
+  "case": "EMD-71089_9P0O",
+  "search": {
+   "tm": 0.92616,
+   "aligned": 1744,
+   "seq_id": 0.958
+  },
+  "mapframe": {
+   "tm": 0.92899,
+   "aligned": 1746,
+   "seq_id": 0.96
+  }
+ },
+ {
+  "set": "EMProt_raw_single_chain",
+  "case": "EMD-74910_9ZWK",
+  "search": {
+   "tm": 0.72694,
+   "aligned": 1056,
+   "seq_id": 1.0
+  },
+  "mapframe": {
+   "tm": 0.72694,
+   "aligned": 1056,
+   "seq_id": 1.0
+  }
+ },
+ {
+  "set": "CryoZeta",
+  "case": "EMD-71089_9P0O",
+  "search": {
+   "tm": 0.70629,
+   "aligned": 1432,
+   "seq_id": 0.926
+  },
+  "mapframe": {
+   "tm": 0.70919,
+   "aligned": 1445,
+   "seq_id": 0.914
+  }
+ },
+ {
+  "set": "MICA_unrefined",
+  "case": "EMD-74910_9ZWK",
+  "search": {
+   "tm": 0.81349,
+   "aligned": 1208,
+   "seq_id": 0.928
+  },
+  "mapframe": {
+   "tm": 0.81333,
+   "aligned": 1208,
+   "seq_id": 0.928
+  }
+ },
+ {
+  "set": "EMProt",
+  "case": "EMD-75879_11OC",
+  "search": {
+   "tm": 0.74031,
+   "aligned": 1016,
+   "seq_id": 1.0
+  },
+  "mapframe": {
+   "tm": 0.74031,
+   "aligned": 1016,
+   "seq_id": 1.0
+  }
+ },
+ {
+  "set": "MICA",
+  "case": "EMD-75879_11OC",
+  "search": {
+   "tm": 0.99891,
+   "aligned": 1372,
+   "seq_id": 1.0
+  },
+  "mapframe": {
+   "tm": 0.9989,
+   "aligned": 1372,
+   "seq_id": 1.0
+  }
+ },
+ {
+  "set": "EMProt_raw_single_chain",
+  "case": "EMD-75879_11OC",
+  "search": {
+   "tm": 0.24856,
+   "aligned": 342,
+   "seq_id": 0.991
+  },
+  "mapframe": {
+   "tm": 0.24854,
+   "aligned": 342,
+   "seq_id": 0.991
+  }
+ },
+ {
+  "set": "CryoAtom",
+  "case": "EMD-75879_11OC",
+  "search": {
+   "tm": 0.99772,
+   "aligned": 1370,
+   "seq_id": 1.0
+  },
+  "mapframe": {
+   "tm": 0.99772,
+   "aligned": 1370,
+   "seq_id": 1.0
+  }
+ },
+ {
+  "set": "EModelX(+AF)",
+  "case": "EMD-75879_11OC",
+  "search": {
+   "tm": 0.9979,
+   "aligned": 1372,
+   "seq_id": 1.0
+  },
+  "mapframe": {
+   "tm": 0.99733,
+   "aligned": 1372,
+   "seq_id": 1.0
+  }
+ },
+ {
+  "set": "ModelAngelo",
+  "case": "EMD-75879_11OC",
+  "search": {
+   "tm": 0.99839,
+   "aligned": 1371,
+   "seq_id": 0.999
+  },
+  "mapframe": {
+   "tm": 0.99839,
+   "aligned": 1371,
+   "seq_id": 0.999
+  }
+ },
+ {
+  "set": "EMProt_all_fragments_split",
+  "case": "EMD-75879_11OC",
+  "search": {
+   "tm": 0.74031,
+   "aligned": 1016,
+   "seq_id": 1.0
+  },
+  "mapframe": {
+   "tm": 0.74031,
+   "aligned": 1016,
+   "seq_id": 1.0
+  }
+ },
+ {
+  "set": "ModelAngelo",
+  "case": "EMD-63011_9LE0",
+  "search": {
+   "tm": 0.78121,
+   "aligned": 913,
+   "seq_id": 0.985
+  },
+  "mapframe": {
+   "tm": 0.78108,
+   "aligned": 913,
+   "seq_id": 0.985
+  }
+ },
+ {
+  "set": "CryoZeta",
+  "case": "EMD-75879_11OC",
+  "search": {
+   "tm": 0.99873,
+   "aligned": 1372,
+   "seq_id": 1.0
+  },
+  "mapframe": {
+   "tm": 0.99872,
+   "aligned": 1372,
+   "seq_id": 1.0
+  }
+ },
+ {
+  "set": "CryoAtom",
+  "case": "EMD-63011_9LE0",
+  "search": {
+   "tm": 0.92395,
+   "aligned": 1080,
+   "seq_id": 0.988
+  },
+  "mapframe": {
+   "tm": 0.92376,
+   "aligned": 1080,
+   "seq_id": 0.988
+  }
+ },
+ {
+  "set": "MICA_unrefined",
+  "case": "EMD-75879_11OC",
+  "search": {
+   "tm": 0.99877,
+   "aligned": 1372,
+   "seq_id": 1.0
+  },
+  "mapframe": {
+   "tm": 0.99835,
+   "aligned": 1372,
+   "seq_id": 1.0
+  }
+ },
+ {
+  "set": "EModelX(+AF)",
+  "case": "EMD-63011_9LE0",
+  "search": {
+   "tm": 0.94329,
+   "aligned": 1111,
+   "seq_id": 0.974
+  },
+  "mapframe": {
+   "tm": 0.94318,
+   "aligned": 1112,
+   "seq_id": 0.974
+  }
+ },
+ {
+  "set": "MICA",
+  "case": "EMD-63011_9LE0",
+  "search": {
+   "tm": 0.98446,
+   "aligned": 1156,
+   "seq_id": 0.982
+  },
+  "mapframe": {
+   "tm": 0.98435,
+   "aligned": 1156,
+   "seq_id": 0.982
+  }
+ },
+ {
+  "set": "EMProt",
+  "case": "EMD-63011_9LE0",
+  "search": {
+   "tm": 0.94663,
+   "aligned": 1105,
+   "seq_id": 0.992
+  },
+  "mapframe": {
+   "tm": 0.94649,
+   "aligned": 1105,
+   "seq_id": 0.992
+  }
+ },
+ {
+  "set": "EMProt_all_fragments_split",
+  "case": "EMD-63011_9LE0",
+  "search": {
+   "tm": 0.72498,
+   "aligned": 846,
+   "seq_id": 0.992
+  },
+  "mapframe": {
+   "tm": 0.72487,
+   "aligned": 846,
+   "seq_id": 0.992
+  }
+ },
+ {
+  "set": "EMProt_raw_single_chain",
+  "case": "EMD-63011_9LE0",
+  "search": {
+   "tm": 0.94663,
+   "aligned": 1105,
+   "seq_id": 0.992
+  },
+  "mapframe": {
+   "tm": 0.94649,
+   "aligned": 1105,
+   "seq_id": 0.992
+  }
+ },
+ {
+  "set": "CryoZeta",
+  "case": "EMD-63011_9LE0",
+  "search": {
+   "tm": 0.99804,
+   "aligned": 1165,
+   "seq_id": 0.997
+  },
+  "mapframe": {
+   "tm": 0.99787,
+   "aligned": 1165,
+   "seq_id": 0.997
+  }
+ },
+ {
+  "set": "MICA_unrefined",
+  "case": "EMD-63011_9LE0",
+  "search": {
+   "tm": 0.98448,
+   "aligned": 1156,
+   "seq_id": 0.983
+  },
+  "mapframe": {
+   "tm": 0.9843,
+   "aligned": 1156,
+   "seq_id": 0.983
+  }
+ },
+ {
+  "set": "MICA",
+  "case": "EMD-54783_9SDB",
+  "search": {
+   "tm": 0.98566,
+   "aligned": 1079,
+   "seq_id": 0.997
+  },
+  "mapframe": {
+   "tm": 0.98679,
+   "aligned": 1079,
+   "seq_id": 0.997
+  }
+ },
+ {
+  "set": "EMProt_raw_single_chain",
+  "case": "EMD-54783_9SDB",
+  "search": {
+   "tm": 0.14199,
+   "aligned": 155,
+   "seq_id": 0.994
+  },
+  "mapframe": {
+   "tm": 0.14158,
+   "aligned": 155,
+   "seq_id": 0.987
+  }
+ },
+ {
+  "set": "EModelX(+AF)",
+  "case": "EMD-54783_9SDB",
+  "search": {
+   "tm": 0.98285,
+   "aligned": 1079,
+   "seq_id": 0.976
+  },
+  "mapframe": {
+   "tm": 0.98259,
+   "aligned": 1079,
+   "seq_id": 0.976
+  }
+ },
+ {
+  "set": "EMProt",
+  "case": "EMD-54783_9SDB",
+  "search": {
+   "tm": 0.92541,
+   "aligned": 1008,
+   "seq_id": 1.0
+  },
+  "mapframe": {
+   "tm": 0.92538,
+   "aligned": 1008,
+   "seq_id": 1.0
+  }
+ },
+ {
+  "set": "ModelAngelo",
+  "case": "EMD-54783_9SDB",
+  "search": {
+   "tm": 0.98677,
+   "aligned": 1077,
+   "seq_id": 0.999
+  },
+  "mapframe": {
+   "tm": 0.9867,
+   "aligned": 1075,
+   "seq_id": 0.999
+  }
+ },
+ {
+  "set": "CryoAtom",
+  "case": "EMD-54783_9SDB",
+  "search": {
+   "tm": 0.9931,
+   "aligned": 1082,
+   "seq_id": 0.999
+  },
+  "mapframe": {
+   "tm": 0.99308,
+   "aligned": 1082,
+   "seq_id": 0.999
+  }
+ },
+ {
+  "set": "CryoAtom",
+  "case": "EMD-69851_24VT",
+  "search": {
+   "tm": 0.60619,
+   "aligned": 612,
+   "seq_id": 0.827
+  },
+  "mapframe": {
+   "tm": 0.61595,
+   "aligned": 605,
+   "seq_id": 0.926
+  }
+ },
+ {
+  "set": "ModelAngelo",
+  "case": "EMD-69851_24VT",
+  "search": {
+   "tm": 0.72909,
+   "aligned": 723,
+   "seq_id": 0.927
+  },
+  "mapframe": {
+   "tm": 0.7336,
+   "aligned": 720,
+   "seq_id": 0.932
+  }
+ },
+ {
+  "set": "EMProt_all_fragments_split",
+  "case": "EMD-54783_9SDB",
+  "search": {
+   "tm": 0.92541,
+   "aligned": 1008,
+   "seq_id": 1.0
+  },
+  "mapframe": {
+   "tm": 0.92538,
+   "aligned": 1008,
+   "seq_id": 1.0
+  }
+ },
+ {
+  "set": "MICA",
+  "case": "EMD-69851_24VT",
+  "search": {
+   "tm": 0.50912,
+   "aligned": 563,
+   "seq_id": 0.78
+  },
+  "mapframe": {
+   "tm": 0.54836,
+   "aligned": 582,
+   "seq_id": 0.861
+  }
+ },
+ {
+  "set": "CryoZeta",
+  "case": "EMD-54783_9SDB",
+  "search": {
+   "tm": 0.99607,
+   "aligned": 1088,
+   "seq_id": 1.0
+  },
+  "mapframe": {
+   "tm": 0.9959,
+   "aligned": 1088,
+   "seq_id": 1.0
+  }
+ },
+ {
+  "set": "MICA_unrefined",
+  "case": "EMD-54783_9SDB",
+  "search": {
+   "tm": 0.98488,
+   "aligned": 1079,
+   "seq_id": 0.997
+  },
+  "mapframe": {
+   "tm": 0.98569,
+   "aligned": 1079,
+   "seq_id": 0.995
+  }
+ },
+ {
+  "set": "EMProt",
+  "case": "EMD-69851_24VT",
+  "search": {
+   "tm": 0.48889,
+   "aligned": 481,
+   "seq_id": 0.892
+  },
+  "mapframe": {
+   "tm": 0.48882,
+   "aligned": 481,
+   "seq_id": 0.892
+  }
+ },
+ {
+  "set": "EMProt_raw_single_chain",
+  "case": "EMD-69851_24VT",
+  "search": {
+   "tm": 0.37696,
+   "aligned": 375,
+   "seq_id": 0.939
+  },
+  "mapframe": {
+   "tm": 0.38197,
+   "aligned": 377,
+   "seq_id": 0.926
+  }
+ },
+ {
+  "set": "EModelX(+AF)",
+  "case": "EMD-69851_24VT",
+  "search": {
+   "tm": 0.859,
+   "aligned": 861,
+   "seq_id": 0.955
+  },
+  "mapframe": {
+   "tm": 0.85788,
+   "aligned": 861,
+   "seq_id": 0.955
+  }
+ },
+ {
+  "set": "EMProt_all_fragments_split",
+  "case": "EMD-69851_24VT",
+  "search": {
+   "tm": 0.48889,
+   "aligned": 481,
+   "seq_id": 0.892
+  },
+  "mapframe": {
+   "tm": 0.48882,
+   "aligned": 481,
+   "seq_id": 0.892
+  }
+ },
+ {
+  "set": "EMProt",
+  "case": "EMD-54540_9S3M",
+  "search": {
+   "tm": 0.50609,
+   "aligned": 490,
+   "seq_id": 0.986
+  },
+  "mapframe": {
+   "tm": 0.50609,
+   "aligned": 490,
+   "seq_id": 0.986
+  }
+ },
+ {
+  "set": "MICA_unrefined",
+  "case": "EMD-69851_24VT",
+  "search": {
+   "tm": 0.51125,
+   "aligned": 567,
+   "seq_id": 0.774
+  },
+  "mapframe": {
+   "tm": 0.55141,
+   "aligned": 588,
+   "seq_id": 0.85
+  }
+ },
+ {
+  "set": "ModelAngelo",
+  "case": "EMD-54540_9S3M",
+  "search": {
+   "tm": 0.84494,
+   "aligned": 819,
+   "seq_id": 0.988
+  },
+  "mapframe": {
+   "tm": 0.84493,
+   "aligned": 819,
+   "seq_id": 0.988
+  }
+ },
+ {
+  "set": "MICA",
+  "case": "EMD-54540_9S3M",
+  "search": {
+   "tm": 0.98186,
+   "aligned": 955,
+   "seq_id": 1.0
+  },
+  "mapframe": {
+   "tm": 0.98172,
+   "aligned": 955,
+   "seq_id": 1.0
+  }
+ },
+ {
+  "set": "EMProt_raw_single_chain",
+  "case": "EMD-54540_9S3M",
+  "search": {
+   "tm": 0.48932,
+   "aligned": 475,
+   "seq_id": 0.987
+  },
+  "mapframe": {
+   "tm": 0.52955,
+   "aligned": 514,
+   "seq_id": 0.977
+  }
+ },
+ {
+  "set": "EModelX(+AF)",
+  "case": "EMD-54540_9S3M",
+  "search": {
+   "tm": 0.94707,
+   "aligned": 923,
+   "seq_id": 0.989
+  },
+  "mapframe": {
+   "tm": 0.94688,
+   "aligned": 923,
+   "seq_id": 0.989
+  }
+ },
+ {
+  "set": "EMProt_all_fragments_split",
+  "case": "EMD-54540_9S3M",
+  "search": {
+   "tm": 0.50609,
+   "aligned": 490,
+   "seq_id": 0.986
+  },
+  "mapframe": {
+   "tm": 0.50609,
+   "aligned": 490,
+   "seq_id": 0.986
+  }
+ },
+ {
+  "set": "CryoAtom",
+  "case": "EMD-54540_9S3M",
+  "search": {
+   "tm": 0.98106,
+   "aligned": 955,
+   "seq_id": 0.996
+  },
+  "mapframe": {
+   "tm": 0.98104,
+   "aligned": 955,
+   "seq_id": 0.996
+  }
+ },
+ {
+  "set": "CryoZeta",
+  "case": "EMD-54540_9S3M",
+  "search": {
+   "tm": 0.99786,
+   "aligned": 967,
+   "seq_id": 1.0
+  },
+  "mapframe": {
+   "tm": 0.99765,
+   "aligned": 967,
+   "seq_id": 1.0
+  }
+ },
+ {
+  "set": "MICA_unrefined",
+  "case": "EMD-54540_9S3M",
+  "search": {
+   "tm": 0.98201,
+   "aligned": 955,
+   "seq_id": 1.0
+  },
+  "mapframe": {
+   "tm": 0.98179,
+   "aligned": 955,
+   "seq_id": 1.0
+  }
+ },
+ {
+  "set": "ModelAngelo",
+  "case": "EMD-71359_9P80",
+  "search": {
+   "tm": 0.54242,
+   "aligned": 494,
+   "seq_id": 0.974
+  },
+  "mapframe": {
+   "tm": 0.5424,
+   "aligned": 494,
+   "seq_id": 0.974
+  }
+ },
+ {
+  "set": "CryoZeta",
+  "case": "EMD-69851_24VT",
+  "search": {
+   "tm": 0.57228,
+   "aligned": 704,
+   "seq_id": 0.707
+  },
+  "mapframe": {
+   "tm": 0.65945,
+   "aligned": 710,
+   "seq_id": 0.863
+  }
+ },
+ {
+  "set": "MICA",
+  "case": "EMD-71359_9P80",
+  "search": {
+   "tm": 0.81038,
+   "aligned": 744,
+   "seq_id": 0.997
+  },
+  "mapframe": {
+   "tm": 0.81035,
+   "aligned": 744,
+   "seq_id": 0.997
+  }
+ },
+ {
+  "set": "EModelX(+AF)",
+  "case": "EMD-71359_9P80",
+  "search": {
+   "tm": 0.87496,
+   "aligned": 805,
+   "seq_id": 0.973
+  },
+  "mapframe": {
+   "tm": 0.87488,
+   "aligned": 805,
+   "seq_id": 0.973
+  }
+ },
+ {
+  "set": "EMProt",
+  "case": "EMD-71359_9P80",
+  "search": {
+   "tm": 0.70972,
+   "aligned": 648,
+   "seq_id": 0.986
+  },
+  "mapframe": {
+   "tm": 0.7097,
+   "aligned": 648,
+   "seq_id": 0.986
+  }
+ },
+ {
+  "set": "CryoAtom",
+  "case": "EMD-71359_9P80",
+  "search": {
+   "tm": 0.76069,
+   "aligned": 697,
+   "seq_id": 0.99
+  },
+  "mapframe": {
+   "tm": 0.76065,
+   "aligned": 697,
+   "seq_id": 0.99
+  }
+ },
+ {
+  "set": "EMProt_all_fragments_split",
+  "case": "EMD-71359_9P80",
+  "search": {
+   "tm": 0.32819,
+   "aligned": 303,
+   "seq_id": 0.891
+  },
+  "mapframe": {
+   "tm": 0.32815,
+   "aligned": 303,
+   "seq_id": 0.891
+  }
+ },
+ {
+  "set": "MICA_unrefined",
+  "case": "EMD-71359_9P80",
+  "search": {
+   "tm": 0.81073,
+   "aligned": 744,
+   "seq_id": 0.997
+  },
+  "mapframe": {
+   "tm": 0.81069,
+   "aligned": 744,
+   "seq_id": 0.997
+  }
+ },
+ {
+  "set": "CryoZeta",
+  "case": "EMD-71359_9P80",
+  "search": {
+   "tm": 0.99791,
+   "aligned": 908,
+   "seq_id": 1.0
+  },
+  "mapframe": {
+   "tm": 0.99775,
+   "aligned": 908,
+   "seq_id": 1.0
+  }
+ },
+ {
+  "set": "CryoAtom",
+  "case": "EMD-68274_22HP",
+  "search": {
+   "tm": 0.73285,
+   "aligned": 468,
+   "seq_id": 0.951
+  },
+  "mapframe": {
+   "tm": 0.73281,
+   "aligned": 468,
+   "seq_id": 0.951
+  }
+ },
+ {
+  "set": "EMProt_raw_single_chain",
+  "case": "EMD-71359_9P80",
+  "search": {
+   "tm": 0.70972,
+   "aligned": 648,
+   "seq_id": 0.986
+  },
+  "mapframe": {
+   "tm": 0.7097,
+   "aligned": 648,
+   "seq_id": 0.986
+  }
+ },
+ {
+  "set": "ModelAngelo",
+  "case": "EMD-68274_22HP",
+  "search": {
+   "tm": 0.61127,
+   "aligned": 390,
+   "seq_id": 0.977
+  },
+  "mapframe": {
+   "tm": 0.61124,
+   "aligned": 390,
+   "seq_id": 0.977
+  }
+ },
+ {
+  "set": "EModelX(+AF)",
+  "case": "EMD-68274_22HP",
+  "search": {
+   "tm": 0.83171,
+   "aligned": 547,
+   "seq_id": 0.945
+  },
+  "mapframe": {
+   "tm": 0.83035,
+   "aligned": 547,
+   "seq_id": 0.945
+  }
+ },
+ {
+  "set": "MICA",
+  "case": "EMD-68274_22HP",
+  "search": {
+   "tm": 0.92823,
+   "aligned": 598,
+   "seq_id": 0.982
+  },
+  "mapframe": {
+   "tm": 0.92822,
+   "aligned": 598,
+   "seq_id": 0.982
+  }
+ },
+ {
+  "set": "MICA",
+  "case": "EMD-66010_9WIX",
+  "search": {
+   "tm": 0.9647,
+   "aligned": 435,
+   "seq_id": 0.977
+  },
+  "mapframe": {
+   "tm": 0.96466,
+   "aligned": 435,
+   "seq_id": 0.977
+  }
+ },
+ {
+  "set": "EModelX(+AF)",
+  "case": "EMD-66010_9WIX",
+  "search": {
+   "tm": 0.9781,
+   "aligned": 442,
+   "seq_id": 0.998
+  },
+  "mapframe": {
+   "tm": 0.97772,
+   "aligned": 442,
+   "seq_id": 0.998
+  }
+ },
+ {
+  "set": "ModelAngelo",
+  "case": "EMD-66010_9WIX",
+  "search": {
+   "tm": 0.88642,
+   "aligned": 395,
+   "seq_id": 0.997
+  },
+  "mapframe": {
+   "tm": 0.88638,
+   "aligned": 395,
+   "seq_id": 0.997
+  }
+ },
+ {
+  "set": "EMProt",
+  "case": "EMD-66010_9WIX",
+  "search": {
+   "tm": 0.89896,
+   "aligned": 401,
+   "seq_id": 0.985
+  },
+  "mapframe": {
+   "tm": 0.89895,
+   "aligned": 401,
+   "seq_id": 0.985
+  }
+ },
+ {
+  "set": "CryoZeta",
+  "case": "EMD-68274_22HP",
+  "search": {
+   "tm": 0.99047,
+   "aligned": 634,
+   "seq_id": 1.0
+  },
+  "mapframe": {
+   "tm": 0.99042,
+   "aligned": 634,
+   "seq_id": 1.0
+  }
+ },
+ {
+  "set": "CryoZeta",
+  "case": "EMD-66010_9WIX",
+  "search": {
+   "tm": 0.98223,
+   "aligned": 444,
+   "seq_id": 1.0
+  },
+  "mapframe": {
+   "tm": 0.9819,
+   "aligned": 444,
+   "seq_id": 1.0
+  }
+ },
+ {
+  "set": "MICA_unrefined",
+  "case": "EMD-66010_9WIX",
+  "search": {
+   "tm": 0.96552,
+   "aligned": 435,
+   "seq_id": 0.975
+  },
+  "mapframe": {
+   "tm": 0.96545,
+   "aligned": 435,
+   "seq_id": 0.975
+  }
+ },
+ {
+  "set": "CryoAtom",
+  "case": "EMD-66010_9WIX",
+  "search": {
+   "tm": 0.73818,
+   "aligned": 332,
+   "seq_id": 0.976
+  },
+  "mapframe": {
+   "tm": 0.73806,
+   "aligned": 332,
+   "seq_id": 0.976
+  }
+ },
+ {
+  "set": "EMProt_raw_single_chain",
+  "case": "EMD-66010_9WIX",
+  "search": {
+   "tm": 0.89896,
+   "aligned": 401,
+   "seq_id": 0.985
+  },
+  "mapframe": {
+   "tm": 0.89895,
+   "aligned": 401,
+   "seq_id": 0.985
+  }
+ },
+ {
+  "set": "MICA",
+  "case": "EMD-64749_9V35",
+  "search": {
+   "tm": 0.97156,
+   "aligned": 265,
+   "seq_id": 1.0
+  },
+  "mapframe": {
+   "tm": 0.97078,
+   "aligned": 265,
+   "seq_id": 1.0
+  }
+ },
+ {
+  "set": "EMProt",
+  "case": "EMD-68274_22HP",
+  "search": {
+   "tm": 0.76465,
+   "aligned": 490,
+   "seq_id": 0.931
+  },
+  "mapframe": {
+   "tm": 0.76457,
+   "aligned": 490,
+   "seq_id": 0.931
+  }
+ },
+ {
+  "set": "EModelX(+AF)",
+  "case": "EMD-64749_9V35",
+  "search": {
+   "tm": 0.94962,
+   "aligned": 260,
+   "seq_id": 1.0
+  },
+  "mapframe": {
+   "tm": 0.94475,
+   "aligned": 260,
+   "seq_id": 1.0
+  }
+ },
+ {
+  "set": "EMProt",
+  "case": "EMD-64749_9V35",
+  "search": {
+   "tm": 0.82434,
+   "aligned": 221,
+   "seq_id": 0.982
+  },
+  "mapframe": {
+   "tm": 0.82404,
+   "aligned": 221,
+   "seq_id": 0.982
+  }
+ },
+ {
+  "set": "CryoZeta",
+  "case": "EMD-64749_9V35",
+  "search": {
+   "tm": 0.97825,
+   "aligned": 266,
+   "seq_id": 1.0
+  },
+  "mapframe": {
+   "tm": 0.96744,
+   "aligned": 266,
+   "seq_id": 1.0
+  }
+ },
+ {
+  "set": "MICA_unrefined",
+  "case": "EMD-68274_22HP",
+  "search": {
+   "tm": 0.92801,
+   "aligned": 597,
+   "seq_id": 0.987
+  },
+  "mapframe": {
+   "tm": 0.92759,
+   "aligned": 597,
+   "seq_id": 0.987
+  }
+ },
+ {
+  "set": "MICA_unrefined",
+  "case": "EMD-64749_9V35",
+  "search": {
+   "tm": 0.96895,
+   "aligned": 265,
+   "seq_id": 0.992
+  },
+  "mapframe": {
+   "tm": 0.96797,
+   "aligned": 265,
+   "seq_id": 0.992
+  }
+ },
+ {
+  "set": "EMProt_raw_single_chain",
+  "case": "EMD-64749_9V35",
+  "search": {
+   "tm": 0.82434,
+   "aligned": 221,
+   "seq_id": 0.982
+  },
+  "mapframe": {
+   "tm": 0.82404,
+   "aligned": 221,
+   "seq_id": 0.982
+  }
+ },
+ {
+  "set": "EMProt_all_fragments_split",
+  "case": "EMD-66010_9WIX",
+  "search": {
+   "tm": 0.39106,
+   "aligned": 174,
+   "seq_id": 1.0
+  },
+  "mapframe": {
+   "tm": 0.39105,
+   "aligned": 174,
+   "seq_id": 1.0
+  }
+ },
+ {
+  "set": "EMProt_all_fragments_split",
+  "case": "EMD-68274_22HP",
+  "search": {
+   "tm": 0.66056,
+   "aligned": 423,
+   "seq_id": 0.955
+  },
+  "mapframe": {
+   "tm": 0.6605,
+   "aligned": 423,
+   "seq_id": 0.92
+  }
+ },
+ {
+  "set": "ModelAngelo",
+  "case": "EMD-64749_9V35",
+  "search": {
+   "tm": 0.86601,
+   "aligned": 234,
+   "seq_id": 0.966
+  },
+  "mapframe": {
+   "tm": 0.86553,
+   "aligned": 234,
+   "seq_id": 0.966
+  }
+ },
+ {
+  "set": "CryoAtom",
+  "case": "EMD-64749_9V35",
+  "search": {
+   "tm": 0.63168,
+   "aligned": 171,
+   "seq_id": 0.994
+  },
+  "mapframe": {
+   "tm": 0.63155,
+   "aligned": 171,
+   "seq_id": 0.994
+  }
+ },
+ {
+  "set": "EMProt_all_fragments_split",
+  "case": "EMD-64749_9V35",
+  "search": {
+   "tm": 0.35565,
+   "aligned": 95,
+   "seq_id": 1.0
+  },
+  "mapframe": {
+   "tm": 0.35557,
+   "aligned": 95,
+   "seq_id": 1.0
+  }
+ },
+ {
+  "set": "EMProt_raw_single_chain",
+  "case": "EMD-68274_22HP",
+  "search": {
+   "tm": 0.76465,
+   "aligned": 490,
+   "seq_id": 0.931
+  },
+  "mapframe": {
+   "tm": 0.76457,
+   "aligned": 490,
+   "seq_id": 0.931
+  }
+ },
+ {
+  "set": "CryoZeta_partial",
+  "case": "EMD-47901_9EC7",
+  "search": {
+   "tm": 0.55272,
+   "aligned": 1145,
+   "seq_id": 0.888
+  },
+  "mapframe": {
+   "tm": 0.57541,
+   "aligned": 1149,
+   "seq_id": 0.936
+  }
+ },
+ {
+  "set": "CryoZeta_partial",
+  "case": "EMD-73885_9Z81",
+  "search": {
+   "tm": 0.70111,
+   "aligned": 1647,
+   "seq_id": 0.925
+  },
+  "mapframe": {
+   "tm": 0.70103,
+   "aligned": 1647,
+   "seq_id": 0.925
+  }
+ },
+ {
+  "set": "CryoZeta_partial",
+  "case": "EMD-55353_9SYT",
+  "search": {
+   "tm": 0.91593,
+   "aligned": 2309,
+   "seq_id": 0.98
+  },
+  "mapframe": {
+   "tm": 0.9158,
+   "aligned": 2309,
+   "seq_id": 0.98
+  }
+ },
+ {
+  "set": "CryoZeta_partial",
+  "case": "EMD-54029_9RL3",
+  "search": {
+   "tm": 0.90442,
+   "aligned": 2761,
+   "seq_id": 0.876
+  },
+  "mapframe": {
+   "tm": 0.90416,
+   "aligned": 2761,
+   "seq_id": 0.876
+  }
+ },
+ {
+  "set": "CryoZeta",
+  "case": "EMD-65920_9WF0",
+  "search": {
+   "tm": 0.99702,
+   "aligned": 5333,
+   "seq_id": 0.995
+  },
+  "mapframe": {
+   "tm": 0.99693,
+   "aligned": 5333,
+   "seq_id": 0.995
+  }
+ },
+ {
+  "set": "CryoZeta_partial",
+  "case": "EMD-74910_9ZWK",
+  "search": {
+   "tm": 0.90869,
+   "aligned": 1358,
+   "seq_id": 0.978
+  },
+  "mapframe": {
+   "tm": 0.90285,
+   "aligned": 1358,
+   "seq_id": 0.978
+  }
+ },
+ {
+  "set": "CryoZeta_partial",
+  "case": "EMD-71407_9P9D",
+  "search": {
+   "tm": 0.78224,
+   "aligned": 1917,
+   "seq_id": 0.947
+  },
+  "mapframe": {
+   "tm": 0.78191,
+   "aligned": 1917,
+   "seq_id": 0.947
+  }
+ },
+ {
+  "set": "CryoZeta_partial",
+  "case": "EMD-65879_9WCY",
+  "search": {
+   "tm": 0.77132,
+   "aligned": 4599,
+   "seq_id": 0.869
+  },
+  "mapframe": {
+   "tm": 0.77121,
+   "aligned": 4599,
+   "seq_id": 0.869
+  }
+ },
+ {
+  "set": "CryoZeta",
+  "case": "EMD-72881_9YF9",
+  "search": {
+   "tm": 0.9693,
+   "aligned": 7650,
+   "seq_id": 0.995
+  },
+  "mapframe": {
+   "tm": 0.9685,
+   "aligned": 7649,
+   "seq_id": 0.995
+  }
+ }
+]
