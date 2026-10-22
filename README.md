@@ -4,9 +4,9 @@ Code and documents for a benchmark of MICA (Gyawali, Dhakal & Cheng, *Communicat
 ModelAngelo, EModelX(+AF), CryoAtom and EMProt, with CryoZeta as a later, separately reported addition, on 24 cryo-EM
 maps whose EMDB and PDB entries were first released in 2026 (six per resolution band from 1.5 to 4.0 Å).
 
-- **Report:** `report/` (text source `REPORT_DRAFT.md`, all result tables `RESULTS_TABLES.md`, figures).
+- **Report:** [report source](report/REPORT_DRAFT.md), [result tables](report/RESULTS_TABLES.md), and [figures](report/figures/).
 - **Dataset and benchmark outputs** (input sequences, reference models, all scored models, run records, scores):
-  Zenodo DOI [10.5281/zenodo.23581358](https://doi.org/10.5281/zenodo.23581358) (reserved; dataset publication pending).
+  Zenodo DOI [10.5281/zenodo.23581358](https://doi.org/10.5281/zenodo.23581358); [dataset record and download](https://zenodo.org/records/23581358).
 
 ## Contents
 
