@@ -20,9 +20,9 @@ maps whose EMDB and PDB entries were first released in 2026 (six per resolution 
 
 ## Reproducing the tables
 
-`scoring/make_tables.py` reads only `scoring/results/*.json` and the files in `dataset/` and writes the 18 result tables.
-The scripts retain their original execution logic; the absolute paths near the top of each script point to the original
-project layout and need to be set to your clone.
+Run `python3 scoring/verify_release.py` from the clone to check the frozen release dates, 120 primary scores and reported means using the Python standard library. It does not re-run inference or independently query database metadata.
+
+`scoring/make_tables.py` also reads runtime records and audit files from the original project layout. Set `MICA_PROJECT_ROOT` to that full layout (containing `benchmark/`, `scoring/` and `report/`) to regenerate all 18 tables. A code-only clone is insufficient for that operation; the release check above works directly from the clone. Other archived scripts still contain paths that must be adapted to the run environment.
 
 To re-score models, download the dataset from Zenodo and run `scoring/score_benchmark.py METHOD canonical "<pattern>"`.
 It needs US-align Version 20261012 (commit 746ad8a; see `scoring/USalign_build/BUILD_INFO.txt` — earlier builds have a
