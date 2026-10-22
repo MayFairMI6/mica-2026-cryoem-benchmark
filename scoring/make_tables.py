@@ -6,7 +6,10 @@ scoring/final_failures.json ({method: {case: reason}}); a final failure is null,
 method's means and of paired comparisons that involve it. Cases of incomplete rounds are listed separately.
 The 12-case version of this script is kept as make_tables_core12_backup.py."""
 import csv, glob, json, os, random, statistics as st
-R = "/Users/anony/Downloads/MICA_GAIVI_run"; B = f"{R}/benchmark"
+# AI-tool assistance is disclosed in README.md, "Use of AI tools".
+R = os.environ.get("MICA_PROJECT_ROOT", "/Users/anony/Downloads/MICA_GAIVI_run"); B = f"{R}/benchmark"
+if not os.path.isfile(f"{B}/case_rounds.csv"):
+    raise SystemExit("Set MICA_PROJECT_ROOT to the full original run layout; use scoring/verify_release.py for the code-only release check.")
 rounds = {r["case_id"]: r for r in csv.DictReader(open(f"{B}/case_rounds.csv"))}
 M = ["MICA", "EModelX(+AF)", "ModelAngelo", "CryoAtom", "EMProt"]
 res = {m: json.load(open(f"{R}/scoring/results/{m}.json")) for m in M + ["MICA_unrefined", "EMProt_raw_single_chain", "EMProt_all_fragments_split"]}

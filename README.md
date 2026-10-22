@@ -6,7 +6,7 @@ maps whose EMDB and PDB entries were first released in 2026 (six per resolution 
 
 - **Report:** `report/` (text source `REPORT_DRAFT.md`, all result tables `RESULTS_TABLES.md`, figures).
 - **Dataset and benchmark outputs** (input sequences, reference models, all scored models, run records, scores):
-  Zenodo, DOI `<ZENODO_DOI>`.
+  Zenodo DOI [10.5281/zenodo.23581358](https://doi.org/10.5281/zenodo.23581358) (reserved; dataset publication pending).
 
 ## Contents
 
