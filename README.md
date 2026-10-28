@@ -38,7 +38,7 @@ complex-mode bug that affects some scores), cctbx (`chain_comparison`) and gemmi
 
 ## Use of AI tools
 
-AI assistants were used during this project to help draft and debug scripts, and to help edit the report and
+AI assistants were used during this project to help  debug scripts, and to help edit the report and
 documentation. The benchmark design, case selection, method runs, scoring, and the interpretation of results were
 directed, checked and decided by the author, who takes full responsibility for the code, data and conclusions.
 
